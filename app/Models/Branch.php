@@ -14,5 +14,9 @@ class Branch extends Model
 
     protected $translatable = ["branch_name"];
 
-    protected $fillable = ["branch_name", "lat", "lang"];
+    protected $fillable = [
+        "branch_name",
+        "lat",
+        "lang"
+    ];
 }
