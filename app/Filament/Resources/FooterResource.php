@@ -55,7 +55,7 @@ class FooterResource extends Resource
                                             ->columnSpan('full')
                                             ->nullable(false)
                                             ->disk('public')
-                                            ->directory('articles')
+                                            ->directory('footer')
                                             ->visibility('public')
                                             ->imageResizeMode('force')
                                             ->imageCropAspectRatio('8:5')
