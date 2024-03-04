@@ -2,28 +2,27 @@
 
 namespace App\Filament\Resources;
 
-use App\Filament\Resources\ArticleResource\Pages;
-use App\Filament\Resources\ArticleResource\RelationManagers;
-use App\Models\Article;
-use App\Models\Category;
+use App\Filament\Resources\FooterResource\Pages;
+use App\Filament\Resources\FooterResource\RelationManagers;
+use App\Models\Footer;
 use Filament\Forms;
+use Filament\Forms\Components\Tabs;
 use Filament\Forms\Form;
 use Filament\Resources\Concerns\Translatable;
 use Filament\Resources\Resource;
 use Filament\Tables;
 use Filament\Tables\Table;
-use Filament\Forms\Components\Tabs;
+use Illuminate\Database\Eloquent\Builder;
+use Illuminate\Database\Eloquent\SoftDeletingScope;
 
-class ArticleResource extends Resource
+class FooterResource extends Resource
 {
     use Translatable;
-    protected static ?string $model = Article::class;
+    protected static ?string $model = Footer::class;
 
     protected static ?string $navigationIcon = 'heroicon-o-rectangle-stack';
-    protected static ?string $navigationGroup = "Articles";
-    protected static ?string $navigationLabel = "Articles";
-    protected static ?string $modelLabel = "Articles";
-    protected static ?int $navigationSort = 2;
+    protected static ?string $navigationLabel = "Footer";
+    protected static ?string $modelLabel = "Footer";
 
     public static function form(Form $form): Form
     {
@@ -34,46 +33,15 @@ class ArticleResource extends Resource
                         Tabs\Tab::make('General Informations')
                             ->icon('heroicon-o-chat-bubble-bottom-center-text')
                             ->schema([
-                                Forms\Components\Select::make('category_id')
-                                    ->label("Category")
-                                    ->getOptionLabelFromRecordUsing(fn (Category $record, $livewire) => $record->getTranslation('name', $livewire->activeLocale))
-                                    ->relationship("category", "name")
-                                    ->required(),
-                                Forms\Components\TextInput::make('title')
-                                    ->label("Title")
+                                Forms\Components\TextInput::make('phone')
+                                    ->tel()
                                     ->required()
                                     ->maxLength(255),
-                                Forms\Components\DateTimePicker::make('date')
-                                    ->label("Date")
-                                    ->default(now())
-                                    ->required(),
-                                Forms\Components\Textarea::make('short_description')
-                                    ->label("Short Description")
+                                Forms\Components\TextInput::make('email')
+                                    ->email()
                                     ->required()
-                                    ->columnSpanFull(),
-                                Forms\Components\RichEditor::make('long_description')
-                                    ->label("Long Description")
-                                    ->required()
-                                    ->columnSpanFull(),
-                            ])->columns(3),
-                        Tabs\Tab::make('Article Image')
-                            ->icon('heroicon-o-document-arrow-up')
-                            ->schema([
-                                Forms\Components\FileUpload::make('image')
-                                    ->label("Image")
-                                    ->image()
-                                    ->required()
-                                    ->columnSpan('full')
-                                    ->nullable(false)
-                                    ->disk('public')
-                                    ->directory('articles')
-                                    ->visibility('public')
-                                    ->imageResizeMode('force')
-                                    ->imageCropAspectRatio('8:5')
-                                    ->imageResizeTargetWidth('800')
-                                    ->imageResizeTargetHeight('500')
-                                    ->imageEditor(),
-                            ]),
+                                    ->maxLength(255),
+                            ])->columns(2),
                         Tabs\Tab::make('socials')
                             ->icon('heroicon-o-at-symbol')
                             ->schema([
@@ -111,26 +79,21 @@ class ArticleResource extends Resource
     {
         return $table
             ->columns([
-                Tables\Columns\TextColumn::make('category.name')
-                    ->label("Category")
-                    ->sortable(),
-                Tables\Columns\TextColumn::make('title')
-                    ->label("Title")
+                Tables\Columns\TextColumn::make('phone')
+                    ->sortable()
                     ->searchable(),
-                Tables\Columns\ImageColumn::make('image'),
+                Tables\Columns\TextColumn::make('email')
+                    ->sortable()
+                    ->searchable(),
                 Tables\Columns\ImageColumn::make('socials.0.image')
                     ->label("socials")
-                    ->getStateUsing(function (Article $record) {
+                    ->getStateUsing(function (Footer $record) {
                         $images = [];
                         foreach ($record->socials as $social) {
                             $images[] = $social["image"];
                         }
                         return $images;
                     }),
-                Tables\Columns\TextColumn::make('date')
-                    ->label("Date")
-                    ->dateTime()
-                    ->sortable(),
                 Tables\Columns\TextColumn::make('created_at')
                     ->dateTime()
                     ->sortable()
@@ -152,6 +115,8 @@ class ArticleResource extends Resource
                 Tables\Actions\BulkActionGroup::make([
                     Tables\Actions\DeleteBulkAction::make(),
                 ]),
+            ])->emptyStateActions([
+                Tables\Actions\CreateAction::make(),
             ]);
     }
 
@@ -165,9 +130,9 @@ class ArticleResource extends Resource
     public static function getPages(): array
     {
         return [
-            'index' => Pages\ListArticles::route('/'),
-            'create' => Pages\CreateArticle::route('/create'),
-            'edit' => Pages\EditArticle::route('/{record}/edit'),
+            'index' => Pages\ListFooters::route('/'),
+            'create' => Pages\CreateFooter::route('/create'),
+            'edit' => Pages\EditFooter::route('/{record}/edit'),
         ];
     }
 }

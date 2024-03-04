@@ -16,7 +16,6 @@ class Article extends Model
         "title",
         "short_description",
         "long_description",
-        "socials",
     ];
 
 
@@ -28,6 +27,10 @@ class Article extends Model
         "image",
         "date",
         "socials",
+    ];
+
+    protected $casts = [
+        "socials" => "json",
     ];
 
     public function category()
