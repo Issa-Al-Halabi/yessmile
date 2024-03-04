@@ -23,6 +23,7 @@ return new class extends Migration
             $table->string('image');
             $table->dateTime('date');
             $table->json('socials');
+            $table->timestamps();
         });
 
         Schema::enableForeignKeyConstraints();

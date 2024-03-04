@@ -17,6 +17,7 @@ return new class extends Migration
             $table->integer('age');
             $table->string('country');
             $table->dateTime('date');
+            $table->timestamps();
         });
     }
 
