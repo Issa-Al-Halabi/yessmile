@@ -21,6 +21,7 @@ return new class extends Migration
             $table->string('email');
             $table->longText('comment');
             $table->dateTime('date');
+            $table->timestamps();
         });
 
         Schema::enableForeignKeyConstraints();

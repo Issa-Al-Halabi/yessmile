@@ -16,6 +16,7 @@ return new class extends Migration
             $table->string('branch_name');
             $table->double('lat');
             $table->double('lang');
+            $table->timestamps();
         });
     }
 

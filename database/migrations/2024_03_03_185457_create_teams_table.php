@@ -20,6 +20,7 @@ return new class extends Migration
             $table->string('image');
             $table->json('work_history');
             $table->json('specialist');
+            $table->timestamps();
         });
 
         Schema::enableForeignKeyConstraints();

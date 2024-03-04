@@ -18,6 +18,7 @@ return new class extends Migration
             $table->string('country');
             $table->longText('diagnose_description');
             $table->longText('images');
+            $table->timestamps();
         });
     }
 
