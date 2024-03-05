@@ -20,7 +20,9 @@ class FaqResource extends Resource
 
     protected static ?string $model = Faq::class;
 
-    protected static ?string $navigationIcon = 'heroicon-o-rectangle-stack';
+    protected static ?string $navigationIcon = 'heroicon-o-question-mark-circle';
+    protected static ?string $navigationLabel = "FAQ";
+    protected static ?string $modelLabel = "FAQ";
 
     public static function form(Form $form): Form
     {
@@ -45,6 +47,15 @@ class FaqResource extends Resource
                 Tables\Columns\TextColumn::make('answer')
                     ->searchable()
                     ->sortable(),
+
+                Tables\Columns\TextColumn::make('created_at')
+                    ->dateTime()
+                    ->sortable()
+                    ->toggleable(isToggledHiddenByDefault: true),
+                Tables\Columns\TextColumn::make('updated_at')
+                    ->dateTime()
+                    ->sortable()
+                    ->toggleable(isToggledHiddenByDefault: true),
             ])
             ->filters([
                 //

@@ -11,7 +11,7 @@ class Service extends Model
     use HasFactory, HasTranslations;
 
     protected $table = "services";
-    public $timestamps = false;
+
     protected $translatable = [
         "name",
         "description",

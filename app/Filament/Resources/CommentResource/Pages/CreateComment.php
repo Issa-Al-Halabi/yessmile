@@ -18,4 +18,8 @@ class CreateComment extends CreateRecord
             Actions\LocaleSwitcher::make(),
         ];
     }
+    protected function getRedirectUrl(): string
+    {
+        return $this->getResource()::getUrl('index');
+    }
 }

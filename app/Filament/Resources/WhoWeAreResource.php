@@ -19,7 +19,9 @@ class WhoWeAreResource extends Resource
     use  Translatable;
 
     protected static ?string $model = WhoWeAre::class;
-    protected static ?string $navigationIcon = 'heroicon-o-rectangle-stack';
+    protected static ?string $navigationIcon = 'heroicon-o-newspaper';
+    protected static ?string $navigationLabel = "Who We Are";
+    protected static ?string $modelLabel = "Who We Are";
 
     public static function form(Form $form): Form
     {

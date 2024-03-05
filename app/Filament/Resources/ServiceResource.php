@@ -22,7 +22,9 @@ class ServiceResource extends Resource
     use Translatable;
     protected static ?string $model = Service::class;
 
-    protected static ?string $navigationIcon = 'heroicon-o-rectangle-stack';
+    protected static ?string $navigationIcon = 'heroicon-o-inbox-stack';
+    protected static ?string $navigationLabel = "Service";
+    protected static ?string $modelLabel = "Service";
 
     public static function form(Form $form): Form
     {
@@ -69,7 +71,26 @@ class ServiceResource extends Resource
                     ->sortable()
                     ->html()
                     ->toggledHiddenByDefault(),
+                Tables\Columns\ImageColumn::make('images.0'),
+
                 Tables\Columns\ImageColumn::make('images.0')
+                    ->label("socials")
+                    ->getStateUsing(function (Service $record) {
+                        $images = [];
+                        foreach ($record->images as $image) {
+                            $images[] = $image;
+                        }
+                        return $images;
+                    }),
+
+                Tables\Columns\TextColumn::make('created_at')
+                    ->dateTime()
+                    ->sortable()
+                    ->toggleable(isToggledHiddenByDefault: true),
+                Tables\Columns\TextColumn::make('updated_at')
+                    ->dateTime()
+                    ->sortable()
+                    ->toggleable(isToggledHiddenByDefault: true),
             ])
             ->filters([
                 //

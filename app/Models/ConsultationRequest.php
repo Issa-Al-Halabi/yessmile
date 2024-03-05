@@ -9,7 +9,7 @@ use Spatie\Translatable\HasTranslations;
 class ConsultationRequest extends Model
 {
     use HasFactory, HasTranslations;
-    public $timestamps = false;
+
 
     protected $table = "consultation_requests";
 

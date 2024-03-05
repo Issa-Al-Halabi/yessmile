@@ -11,7 +11,7 @@ class Faq extends Model
     use HasFactory, HasTranslations;
 
     protected $table = "faqs";
-    public $timestamps = false;
+
 
     protected $translatable = [
         "question",

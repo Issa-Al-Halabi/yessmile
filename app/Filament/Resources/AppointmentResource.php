@@ -19,7 +19,9 @@ class AppointmentResource extends Resource
     use  Translatable;
     protected static ?string $model = Appointment::class;
 
-    protected static ?string $navigationIcon = 'heroicon-o-rectangle-stack';
+    protected static ?string $navigationIcon = 'heroicon-o-map-pin';
+    protected static ?string $navigationLabel = "Appointments";
+    protected static ?string $modelLabel = "Appointments";
 
     public static function form(Form $form): Form
     {
@@ -36,6 +38,7 @@ class AppointmentResource extends Resource
                     ->maxLength(255),
                 Forms\Components\DateTimePicker::make('date')
                     ->required(),
+
             ]);
     }
 
@@ -54,6 +57,15 @@ class AppointmentResource extends Resource
                 Tables\Columns\TextColumn::make('date')
                     ->dateTime()
                     ->sortable(),
+
+                Tables\Columns\TextColumn::make('created_at')
+                    ->dateTime()
+                    ->sortable()
+                    ->toggleable(isToggledHiddenByDefault: true),
+                Tables\Columns\TextColumn::make('updated_at')
+                    ->dateTime()
+                    ->sortable()
+                    ->toggleable(isToggledHiddenByDefault: true),
             ])
             ->filters([
                 //
