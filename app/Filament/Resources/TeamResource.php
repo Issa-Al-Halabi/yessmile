@@ -24,6 +24,8 @@ class TeamResource extends Resource
     protected static ?string $navigationLabel = "Teams";
     protected static ?string $modelLabel = "Team";
 
+    protected static ?string $navigationGroup = "About";
+    protected static ?int $navigationSort = 2;
     public static function form(Form $form): Form
     {
         return $form
@@ -162,5 +164,13 @@ class TeamResource extends Resource
             'create' => Pages\CreateTeam::route('/create'),
             'edit' => Pages\EditTeam::route('/{record}/edit'),
         ];
+    }
+    public static function getNavigationBadge(): ?string
+    {
+        return static::getModel()::count();
+    }
+    public static function getNavigationBadgeColor(): ?string
+    {
+        return static::getModel()::count() > 10 ? 'warning' : 'primary';
     }
 }

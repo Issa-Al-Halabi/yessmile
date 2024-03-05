@@ -12,8 +12,6 @@ use Filament\Resources\Concerns\Translatable;
 use Filament\Resources\Resource;
 use Filament\Tables;
 use Filament\Tables\Table;
-use Illuminate\Database\Eloquent\Builder;
-use Illuminate\Database\Eloquent\SoftDeletingScope;
 
 class AboutUsResource extends Resource
 {
@@ -25,6 +23,8 @@ class AboutUsResource extends Resource
     protected static ?string $navigationLabel = "About Us";
     protected static ?string $modelLabel = "About Us";
 
+    protected static ?string $navigationGroup = "Home";
+    protected static ?int $navigationSort = 1;
     public static function form(Form $form): Form
     {
         return $form
@@ -89,6 +89,7 @@ class AboutUsResource extends Resource
                 Tables\Actions\ViewAction::make(),
                 Tables\Actions\EditAction::make(),
                 Tables\Actions\DeleteAction::make(),
+
             ])
             ->bulkActions([
                 Tables\Actions\BulkActionGroup::make([

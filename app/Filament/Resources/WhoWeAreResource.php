@@ -3,7 +3,6 @@
 namespace App\Filament\Resources;
 
 use App\Filament\Resources\WhoWeAreResource\Pages;
-use App\Filament\Resources\WhoWeAreResource\RelationManagers;
 use App\Models\WhoWeAre;
 use Filament\Forms;
 use Filament\Forms\Form;
@@ -11,8 +10,6 @@ use Filament\Resources\Concerns\Translatable;
 use Filament\Resources\Resource;
 use Filament\Tables;
 use Filament\Tables\Table;
-use Illuminate\Database\Eloquent\Builder;
-use Illuminate\Database\Eloquent\SoftDeletingScope;
 
 class WhoWeAreResource extends Resource
 {
@@ -22,7 +19,11 @@ class WhoWeAreResource extends Resource
     protected static ?string $navigationIcon = 'heroicon-o-newspaper';
     protected static ?string $navigationLabel = "Who We Are";
     protected static ?string $modelLabel = "Who We Are";
+    protected static ?string $pluralModelLabel = "Who We Are";
 
+
+    protected static ?string $navigationGroup = "About";
+    protected static ?int $navigationSort = 1;
     public static function form(Form $form): Form
     {
         return $form
@@ -36,6 +37,7 @@ class WhoWeAreResource extends Resource
                 Forms\Components\FileUpload::make('image')
                     ->image()
                     ->required()
+                    ->directory('whoWeAre')
                     ->columnSpanFull(),
             ]);
     }

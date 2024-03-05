@@ -11,19 +11,15 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::disableForeignKeyConstraints();
-
-        Schema::create('services', function (Blueprint $table) {
+        Schema::create('consultation_requests', function (Blueprint $table) {
             $table->id();
-            $table->string('name');
-            $table->string('title');
-            $table->string('image');
-            $table->longText('description');
-            $table->json('images');
+            $table->string('patient_name');
+            $table->integer('age');
+            $table->string('country');
+            $table->longText('diagnose_description');
+            $table->longText('images')->nullable();
             $table->timestamps();
         });
-
-        Schema::enableForeignKeyConstraints();
     }
 
     /**
@@ -31,6 +27,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('services');
+        Schema::dropIfExists('conultation_requests');
     }
 };

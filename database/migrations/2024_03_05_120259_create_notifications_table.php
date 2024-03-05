@@ -11,13 +11,12 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('conultation_requests', function (Blueprint $table) {
-            $table->id();
-            $table->string('patient_name');
-            $table->integer('age');
-            $table->string('country');
-            $table->longText('diagnose_description');
-            $table->longText('images');
+        Schema::create('notifications', function (Blueprint $table) {
+            $table->uuid('id')->primary();
+            $table->string('type');
+            $table->morphs('notifiable');
+            $table->text('data');
+            $table->timestamp('read_at')->nullable();
             $table->timestamps();
         });
     }
@@ -27,6 +26,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('conultation_requests');
+        Schema::dropIfExists('notifications');
     }
 };
