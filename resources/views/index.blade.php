@@ -587,10 +587,9 @@
         })(window, document, 'script', 'dataLayer', 'GTM-PN5LVP4');
     </script>
 
-    <link rel="icon" href="{{ asset('wp-content/uploads/2023/06/yessmile-favicon-150x150.png') }}"
-        sizes="32x32" />
-    <link rel="icon" href="{{ asset('wp-content/uploads/2023/06/yessmile-favicon.png') }}" sizes="192x192" />
-    <link rel="apple-touch-icon" href="{{ asset('wp-content/uploads/2023/06/yessmile-favicon.png') }}" />
+    <link rel="icon" href="{{ asset('yessmile-favicon-150x150.png') }}" sizes="32x32" />
+    <link rel="icon" href="{{ asset('yessmile-favicon.png') }}" sizes="192x192" />
+    <link rel="apple-touch-icon" href=".{{ asset('yessmile-favicon.png') }}" />
     <meta name="msapplication-TileImage"
         content="https://yessmile.ae/wp-content/uploads/2023/06/yessmile-favicon.png" />
 </head>
@@ -1944,15 +1943,15 @@
                     السوشال ميديا</h3>
                 <div class="flex justify-start gap-[50px]">
                     <a href="https://www.instagram.com/yessmile.ae" target="_blank"><img
-                            src="wp-content/uploads/2023/05/insta_icon.svg" /></a>
+                            src="{{ asset('insta_icon.svg') }}" /></a>
                     <a href="https://www.facebook.com/yessmile.ae" target="_blank"><img
-                            src="wp-content/uploads/2023/05/facebook_icon.svg" /></a>
+                            src="{{ asset('facebook_icon.svg') }}" /></a>
                     <a href="https://www.youtube.com/@yessmile-ae" target="_blank"><img
-                            src="wp-content/uploads/2023/05/youtube_icon.svg" /></a>
+                            src="{{ asset('youtube_icon.svg') }}" /></a>
                     <a href="https://www.tiktok.com/@yessmile.ae" target="_blank"><img
-                            src="wp-content/uploads/2023/05/tiktok_icon.svg" /></a>
+                            src="{{ asset('tiktok_icon.svg') }}" /></a>
                     <a href="https://www.snapchat.com/add/yessmile.ae" target="_blank"><img
-                            src="wp-content/uploads/2023/06/icons8-snapchat.svg" /></a>
+                            src="{{ asset('snapchat.svg') }}" /></a>
                 </div>
             </div>
             <div class="flex justify-end order-1 md:order-2">

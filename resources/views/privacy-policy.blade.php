@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ar" dir="rtl" class="scroll-smooth">
 
-<!-- Mirrored from yessmile.ae/blog/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Mar 2024 14:37:59 GMT -->
+<!-- Mirrored from yessmile.ae/privacy-policy/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Mar 2024 14:38:18 GMT -->
 <!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
@@ -12,20 +12,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
 
-    <title>مدونة يس سمايل - YesSmile</title>
+    <title>سياسة الخصوصية - YesSmile</title>
     <meta name="description"
-        content="يهدف فريقنا الطبي المتخصص إلى توفير معلومات طبية حول أحدث التقنيات في طب ترميم وتجميل الأسنان،" />
+        content="نكتب لك هذه المعلومات حول سياسة الخصوصية الخاصة بنا، لنبقيك على اطلاع حول طريقة جمع بياناتك، وآلية نقلها، وكيف نحمي بياناتك الشخصية." />
     <link rel="canonical" href="index.html" />
     <meta property="og:locale" content="ar_AR" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="مدونة يس سمايل - YesSmile" />
+    <meta property="og:title" content="سياسة الخصوصية - YesSmile" />
     <meta property="og:description"
-        content="يهدف فريقنا الطبي المتخصص إلى توفير معلومات طبية حول أحدث التقنيات في طب ترميم وتجميل الأسنان،" />
+        content="نكتب لك هذه المعلومات حول سياسة الخصوصية الخاصة بنا، لنبقيك على اطلاع حول طريقة جمع بياناتك، وآلية نقلها، وكيف نحمي بياناتك الشخصية." />
     <meta property="og:url" content="index.html" />
     <meta property="og:site_name" content="YesSmile" />
-    <meta property="article:modified_time" content="2023-12-06T14:16:14+00:00" />
+    <meta property="article:modified_time" content="2023-12-06T13:07:35+00:00" />
     <meta name="twitter:card" content="summary_large_image" />
-    <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://yessmile.ae/blog/","url":"https://yessmile.ae/blog/","name":"مدونة يس سمايل - YesSmile","isPartOf":{"@id":"https://yessmile.ae/#website"},"datePublished":"2023-06-04T23:51:16+00:00","dateModified":"2023-12-06T14:16:14+00:00","description":"يهدف فريقنا الطبي المتخصص إلى توفير معلومات طبية حول أحدث التقنيات في طب ترميم وتجميل الأسنان،","breadcrumb":{"@id":"https://yessmile.ae/blog/#breadcrumb"},"inLanguage":"ar","potentialAction":[{"@type":"ReadAction","target":["https://yessmile.ae/blog/"]}]},{"@type":"BreadcrumbList","@id":"https://yessmile.ae/blog/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://yessmile.ae/"},{"@type":"ListItem","position":2,"name":"مدونة يس سمايل"}]},{"@type":"WebSite","@id":"https://yessmile.ae/#website","url":"https://yessmile.ae/","name":"YesSmile","description":"نعم لإبتسامة جميلة","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://yessmile.ae/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"ar"}]}</script>
+    <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://yessmile.ae/privacy-policy/","url":"https://yessmile.ae/privacy-policy/","name":"سياسة الخصوصية - YesSmile","isPartOf":{"@id":"https://yessmile.ae/#website"},"datePublished":"2023-06-09T09:30:14+00:00","dateModified":"2023-12-06T13:07:35+00:00","description":"نكتب لك هذه المعلومات حول سياسة الخصوصية الخاصة بنا، لنبقيك على اطلاع حول طريقة جمع بياناتك، وآلية نقلها، وكيف نحمي بياناتك الشخصية.","breadcrumb":{"@id":"https://yessmile.ae/privacy-policy/#breadcrumb"},"inLanguage":"ar","potentialAction":[{"@type":"ReadAction","target":["https://yessmile.ae/privacy-policy/"]}]},{"@type":"BreadcrumbList","@id":"https://yessmile.ae/privacy-policy/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://yessmile.ae/"},{"@type":"ListItem","position":2,"name":"سياسة الخصوصية"}]},{"@type":"WebSite","@id":"https://yessmile.ae/#website","url":"https://yessmile.ae/","name":"YesSmile","description":"نعم لإبتسامة جميلة","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://yessmile.ae/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"ar"}]}</script>
 
     <link rel="dns-prefetch" href="http://cdnjs.cloudflare.com/" />
     <script type="text/javascript">
@@ -593,8 +593,7 @@
         content="https://yessmile.ae/wp-content/uploads/2023/06/yessmile-favicon.png" />
 </head>
 
-<body data-rsssl="1"
-    class="rtl page-template page-template-template-blog page-template-template-blog-php page page-id-1297 innerpage">
+<body data-rsssl="1" class="rtl page-template-default page page-id-1376 innerpage">
 
     <header class="z-50 sticky">
         <div class="bg-primary w-full px-[4rem] xl:px-0 ">
@@ -852,7 +851,7 @@
                                 </div>
                             </li>
                             <li><a class="nav-item-link" href="../contact-us/index.html">تواصل معنا</a></li>
-                            <li><a class="nav-item-link" href="index.html">مدونة يس سمايل</a></li>
+                            <li><a class="nav-item-link" href="../blog/index.html">مدونة يس سمايل</a></li>
                         </ul>
                     </nav>
                     <div
@@ -1061,7 +1060,7 @@
                         </div>
                     </li>
                     <li><a class="nav-item-link-mobile" href="../contact-us/index.html">تواصل معنا</a></li>
-                    <li><a class="nav-item-link-mobile" href="index.html">مدونة يس سمايل</a></li>
+                    <li><a class="nav-item-link-mobile" href="../blog/index.html">مدونة يس سمايل</a></li>
                 </ul>
                 <div class="flex justify-center">
                     <div class="btn-secondary">
@@ -1075,746 +1074,163 @@
 
     <main>
 
-        <div class="py-[2.7rem] ">
-            <form>
-                <div class="mx-auto max-w-[26.3rem]  sm:max-w-[43rem] relative">
-                    <input
-                        class="bg-[#ecf0fa] placeholder:text-[1.6rem] block  border-0 w-full text-center  p-[.9rem] sm:p-[1.5rem] rounded-[8.2rem] relative"
-                        type="text" name="s" id placeholder="ابحث عن موضوع">
-                    <span style="background-image:url(../wp-content/themes/yessmile-wp/assets/images/search-icon.svg);"
-                        class="absolute left-[1rem] top-1/2 transform -translate-y-1/2 w-[2.8rem] h-[2.8rem]  inline-block "></span>
-                </div>
-            </form>
+        <div class="main-container py-[6rem] sm:py-[10rem] text-center">
+            <h1 class="mb-0"><b>سياسة الخصوصية والاستخدام<br />
+                </b></h1>
         </div>
-
-
-        <div class="pt-[6rem] md:pt-[10rem] pb-[2.5rem] md:pb-[5rem]" style="background-color:#EEF4FB">
-            <div class="main-container text-center">
-                <h2 class="mb-[3rem] sm:mb-[6rem]"></h2>
-            </div>
-            <div class="xl:ml-[calc((100%-1270px)/2)] ">
-                <div class="slider-wrapper relative ">
-                    <div class="ysm-slider posts-slider" dots="1" speed="700" slidesToShow_xl="1"
-                        slidesToShow_lg="1" slidesToShow_md="1" slidesToShow_sm="1" slidesToScroll="1"
-                        centerMode="0">
-                        <div class="slide-wrap bg-light rounded-[2rem] mb-[3rem]  w-full mx-[1.5rem] relative group  ">
-                            <div class="flex md:flex-row flex-col">
-                                <div
-                                    class="md:w-[46.66666666666667%] md:pl-[5.333333333333333%] pr-[3rem] py-[3rem] pl-[3rem]  extra-line-height slide-match-height order-2 md:order-1">
-                                    <h3 class="text-[2rem] sm:text-[3.2rem] mb-[3rem] "></h3>
-                                    <p>يهدف فريقنا الطبي المتخصص إلى توفير معلومات طبية حول أحدث التقنيات في طب ترميم
-                                        وتجميل الأسنان، وتقديمها بأسلوب سهل الفهم، سواء كانت نصوصاً مكتوبة أو مرئية.
-                                        <br />
-                                        نحرص بذلك على توضيح طرق العناية الصحيحة بالأسنان وأحدث الطرق العلاجية
-                                        والتجميلية، وذلك لإبقائك على اطلاع دائم بأفضل الخيارات المتاحة للحفاظ على أسنانك
-                                        صحية ونظيفة.
-                                    </p>
-                                </div>
-                                <div class="md:flex-1 h-[30rem] md:min-h-[53.2rem] order-1 md:order-2">
-                                    <div style="background-image:url(../wp-content/uploads/2023/08/dentist-doctor-uniform-writing-information-patient-paperwork-checklist-clipboard-1.png);"
-                                        class="w-full h-full rounded-[2rem] bg-cover bg-no-repeat bg-center "></div>
-                                </div>
-                            </div>
-                            <a class="absolute left-0 top-0 right-0 bottom-0" href></a>
-                        </div>
-                        <div class="slide-wrap bg-light rounded-[2rem] mb-[3rem]  w-full mx-[1.5rem] relative group  ">
-                            <div class="flex md:flex-row flex-col">
-                                <div
-                                    class="md:w-[46.66666666666667%] md:pl-[5.333333333333333%] pr-[3rem] py-[3rem] pl-[3rem]  extra-line-height slide-match-height order-2 md:order-1">
-                                    <h3 class="text-[2rem] sm:text-[3.2rem] mb-[3rem] "></h3>
-                                    <p>نتمنى لك قراءة ممتعة و الاستفادة من محتوي يس سمايل وأن يساعدك في المحافظة على
-                                        أسنانك بشكل صحيح وأن تحافظ على ابتسامة جميلة. <br />
-                                        شكراً لثقتك بنا، ونتمنى لك قراءة ممتعة.</p>
-                                </div>
-                                <div class="md:flex-1 h-[30rem] md:min-h-[53.2rem] order-1 md:order-2">
-                                    <div style="background-image:url(../wp-content/uploads/2023/08/dental-care-arrangement-copy-space-1.png);"
-                                        class="w-full h-full rounded-[2rem] bg-cover bg-no-repeat bg-center "></div>
-                                </div>
-                            </div>
-                            <a class="absolute left-0 top-0 right-0 bottom-0" href></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-        <div class="md:pt-[5rem] pb-[7rem] relative" style="background-color:#EEF4FB">
-            <div class="main-container text-center">
-                <h2 class="mb-[3rem] sm:mb-[6rem]">تجميل الأسنان فى <b>YesSmile</b></h2>
-            </div>
+        <div style="background-color:#eef4fb"
+            class=" mb-[6rem] sm:mb-[10rem]  content-block-wrap text-center  ul-center   rounded-[5rem]">
             <div class="main-container">
-                <div class="grid grid-cols-1 lg:grid-cols-12 relative">
-                    <div class="lg:col-span-4">
-                        <div
-                            class="px-[3rem] py-[1rem] flex md:hidden bg-light rounded-[2rem] mb-[3rem] flex-col filters-wrap relative cursor-pointer filters-toggle">
-                            <h3 class="text-[2.4rem] mb-0">فئات</h3>
-                            <div style="background-image:url(../wp-content/themes/yessmile-wp/assets/images/dropdown-icon.svg);"
-                                class="filter-icon block md:small absolute left-[3rem] top-1/2 transition ease-out -translate-y-1/2 w-[3rem] h-[3rem] bg-no-repeat bg-contain bg-center">
-                            </div>
-                        </div>
-                        <div
-                            class="p-[3rem]  bg-light rounded-[2rem] mb-[3rem] flex-col transition-all ease-in-out filters-wrap hidden md:flex filters-box">
-                            <div class="hidden md:flex">
-                                <h3 class="text-[3.6rem]">فئات</h3>
-                            </div>
-                            <div class="cat-item selected" term-id="-1">الكل</div>
-                            <div class="cat-item" term-id="8">ترميم الأسنان</div>
-                            <div class="cat-item" term-id="2">علاجات اللثة التجميلية</div>
-                            <div class="cat-item" term-id="4">علاجات الأسنان "الحشوات والتركيبات"</div>
-                            <div class="cat-item" term-id="5">تجارب مرضى يس سمايل</div>
-                        </div>
-                    </div>
-                    <div class="lg:col-start-6 lg:col-span-7  scroll-posts-wrap relative overflow-y-clip">
-                        <div class="snap-y overflow-y-auto h-[100vh] md:pb-[10rem]">
-
-                            <div class="p-[3rem] flex flex-col md:flex-row bg-light rounded-[2rem] mb-[3rem] relative group featured-post-item"
-                                cat-ids="4">
-                                <div
-                                    class="flex md:flex-1 flex-col gap-y-[2rem] md:gap-y-0 justify-between md:pl-[13.42281879194631%] order-2 md:order-1">
-                                    <div class="mt-[2rem] md:mt-0"><span
-                                            class="text-primary opacity-[.3] text-[2rem] font-bold ">05.06.2023</span>
-                                    </div>
-                                    <h3 class="mb-0">أسباب تؤدي إلى إزالة تركيبات الزيركون وإعادة تركيبها</h3>
-                                    <div class="post-list-content-box">
-                                        <p class="mb-0">نحرص بذلك على توضيح طرق العناية الصحيحة بالأسنان وأحدث الطرق
-                                            العلاجية والتجميلية، وذلك لإبقائك على اطلاع دائم بأفضل الخيارات
-                                            المتاحة.&hellip;</p>
-                                    </div>
-                                    <div class="btn-secondary small left-arrow ">
-                                        <a class="transition ease-in  group-hover:scale-[1.1]"
-                                            href="../removal-of-zirconia-teeth-2/index.html">متابعة</a>
-                                    </div>
-                                </div>
-                                <div class="order-1 md:order-2">
-                                    <div class="h-[26rem] w-[26rem]  bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                        style="background-image:url(../wp-content/uploads/2023/06/%d8%a7%d9%84%d9%81%d8%b1%d9%82-%d8%a8%d9%8a%d9%86-%d8%b2%d8%b1%d8%a7%d8%b9%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d9%86%d8%a7%d9%86-%d8%a7%d9%84%d9%81%d9%88%d8%b1%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%82%d9%84%d9%8a%d8%af%d9%8a%d8%a9-copy-300x168.webp)">
-                                    </div>
-                                </div>
-                                <a class="absolute left-0 top-0 right-0 bottom-0"
-                                    href="../removal-of-zirconia-teeth-2/index.html"></a>
-                            </div>
-
-
-                            <div class="p-[3rem] flex flex-col md:flex-row bg-light rounded-[2rem] mb-[3rem] relative group featured-post-item"
-                                cat-ids="3">
-                                <div
-                                    class="flex md:flex-1 flex-col gap-y-[2rem] md:gap-y-0 justify-between md:pl-[13.42281879194631%] order-2 md:order-1">
-                                    <div class="mt-[2rem] md:mt-0"><span
-                                            class="text-primary opacity-[.3] text-[2rem] font-bold ">22.02.2023</span>
-                                    </div>
-                                    <h3 class="mb-0">أشياء يجب معرفتها قبل تركيب فينير الاسنان</h3>
-                                    <div class="post-list-content-box">
-                                        <p class="mb-0">فينير الأسنان هو خطوة محورية للغاية في رحلة تصميم الابتسامة
-                                            المثالية. ولكن! هناك الكثير من التفاصيل طوال مسيرك في هذه&hellip;</p>
-                                    </div>
-                                    <div class="btn-secondary small left-arrow ">
-                                        <a class="transition ease-in  group-hover:scale-[1.1]"
-                                            href="../before-installing-dental-veneers/index.html">متابعة</a>
-                                    </div>
-                                </div>
-                                <div class="order-1 md:order-2">
-                                    <div class="h-[26rem] w-[26rem]  bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                        style="background-image:url(../wp-content/uploads/2023/02/%d9%82%d8%a8%d9%84-%d8%aa%d8%b1%d9%83%d9%8a%d8%a8-%d9%81%d9%8a%d9%86%d9%8a%d8%b1-%d8%a7%d9%84%d8%a7%d8%b3%d9%86%d8%a7%d9%86-300x180.webp)">
-                                    </div>
-                                </div>
-                                <a class="absolute left-0 top-0 right-0 bottom-0"
-                                    href="../before-installing-dental-veneers/index.html"></a>
-                            </div>
-
-
-                            <div class="p-[3rem] flex flex-col md:flex-row bg-light rounded-[2rem] mb-[3rem] relative group featured-post-item"
-                                cat-ids="3">
-                                <div
-                                    class="flex md:flex-1 flex-col gap-y-[2rem] md:gap-y-0 justify-between md:pl-[13.42281879194631%] order-2 md:order-1">
-                                    <div class="mt-[2rem] md:mt-0"><span
-                                            class="text-primary opacity-[.3] text-[2rem] font-bold ">09.03.2023</span>
-                                    </div>
-                                    <h3 class="mb-0">أعرف الفرق بين الكومبوزيت وفينير البورسلين</h3>
-                                    <div class="post-list-content-box">
-                                        <p class="mb-0">رقائق الفينير لها أنواع كثيرة، منها البورسلين، وبورسلين
-                                            الإيماكس، والزيركون، والكومبوزيت. جمال ابتسامتك الجديدة مرهون باختيارك من
-                                            بين هذه الأنواع.&hellip;</p>
-                                    </div>
-                                    <div class="btn-secondary small left-arrow ">
-                                        <a class="transition ease-in  group-hover:scale-[1.1]"
-                                            href="../composite-and-porcelain-veneers-differences/index.html">متابعة</a>
-                                    </div>
-                                </div>
-                                <div class="order-1 md:order-2">
-                                    <div class="h-[26rem] w-[26rem]  bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                        style="background-image:url(../wp-content/uploads/2023/03/%d8%a7%d9%84%d9%81%d8%b1%d9%82-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d9%83%d9%88%d9%85%d8%a8%d9%88%d8%b2%d9%8a%d8%aa-%d9%88%d9%81%d9%8a%d9%86%d9%8a%d8%b1-%d8%a7%d9%84%d8%a8%d9%88%d8%b1%d8%b3%d9%84%d9%8a%d9%86-300x150.webp)">
-                                    </div>
-                                </div>
-                                <a class="absolute left-0 top-0 right-0 bottom-0"
-                                    href="../composite-and-porcelain-veneers-differences/index.html"></a>
-                            </div>
-
-
-                            <div class="p-[3rem] flex flex-col md:flex-row bg-light rounded-[2rem] mb-[3rem] relative group featured-post-item"
-                                cat-ids="8">
-                                <div
-                                    class="flex md:flex-1 flex-col gap-y-[2rem] md:gap-y-0 justify-between md:pl-[13.42281879194631%] order-2 md:order-1">
-                                    <div class="mt-[2rem] md:mt-0"><span
-                                            class="text-primary opacity-[.3] text-[2rem] font-bold ">23.12.2022</span>
-                                    </div>
-                                    <h3 class="mb-0">أهم 6 أسباب زراعة الأسنان وكيفية تجنب مضاعفات ما بعد العملية
-                                    </h3>
-                                    <div class="post-list-content-box">
-                                        <p class="mb-0">تتعدد أسباب زراعة الأسنان لكنها تظل أفضل خيار مثالي يلجأ إليه
-                                            المريض في حالة فقدانه سن أو أكثر،إذ أن فقد&hellip;</p>
-                                    </div>
-                                    <div class="btn-secondary small left-arrow ">
-                                        <a class="transition ease-in  group-hover:scale-[1.1]"
-                                            href="../dental-implant-reasons/index.html">متابعة</a>
-                                    </div>
-                                </div>
-                                <div class="order-1 md:order-2">
-                                    <div class="h-[26rem] w-[26rem]  bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                        style="background-image:url(../wp-content/uploads/2022/12/%d8%af%d9%88%d8%a7%d8%b9%d9%8a-%d8%b2%d8%b1%d8%a7%d8%b9%d8%a9-%d8%a7%d9%84%d8%a3%d8%b3%d9%86%d8%a7%d9%86-300x130.jpg)">
-                                    </div>
-                                </div>
-                                <a class="absolute left-0 top-0 right-0 bottom-0"
-                                    href="../dental-implant-reasons/index.html"></a>
-                            </div>
-
-
-                            <div class="p-[3rem] flex flex-col md:flex-row bg-light rounded-[2rem] mb-[3rem] relative group featured-post-item"
-                                cat-ids="3">
-                                <div
-                                    class="flex md:flex-1 flex-col gap-y-[2rem] md:gap-y-0 justify-between md:pl-[13.42281879194631%] order-2 md:order-1">
-                                    <div class="mt-[2rem] md:mt-0"><span
-                                            class="text-primary opacity-[.3] text-[2rem] font-bold ">08.02.2023</span>
-                                    </div>
-                                    <h3 class="mb-0">إليك مراحل تركيب ابتسامة هوليود في 7 أيام فقط</h3>
-                                    <div class="post-list-content-box">
-                                        <p class="mb-0">لا تستغرق مراحل تركيب ابتسامة هوليود أكثر من 7 أيام فقط! يشرف
-                                            على ذلك نخبة أطباء طب وتجميل الأسنان في&hellip;</p>
-                                    </div>
-                                    <div class="btn-secondary small left-arrow ">
-                                        <a class="transition ease-in  group-hover:scale-[1.1]"
-                                            href="../stages-of-installation-of-a-hollywood-smile/index.html">متابعة</a>
-                                    </div>
-                                </div>
-                                <div class="order-1 md:order-2">
-                                    <div class="h-[26rem] w-[26rem]  bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                        style="background-image:url(../wp-content/uploads/2023/02/%d8%b7%d8%b1%d9%8a%d9%82%d8%a9-%d8%aa%d8%b1%d9%83%d9%8a%d8%a8-%d8%a7%d8%b3%d9%86%d8%a7%d9%86-%d9%87%d9%88%d9%84%d9%8a%d9%88%d8%af-300x130.jpg)">
-                                    </div>
-                                </div>
-                                <a class="absolute left-0 top-0 right-0 bottom-0"
-                                    href="../stages-of-installation-of-a-hollywood-smile/index.html"></a>
-                            </div>
-
-
-                            <div class="p-[3rem] flex flex-col md:flex-row bg-light rounded-[2rem] mb-[3rem] relative group featured-post-item"
-                                cat-ids="3">
-                                <div
-                                    class="flex md:flex-1 flex-col gap-y-[2rem] md:gap-y-0 justify-between md:pl-[13.42281879194631%] order-2 md:order-1">
-                                    <div class="mt-[2rem] md:mt-0"><span
-                                            class="text-primary opacity-[.3] text-[2rem] font-bold ">12.01.2023</span>
-                                    </div>
-                                    <h3 class="mb-0">إيجابيات وسلبيات ابتسامة هوليود</h3>
-                                    <div class="post-list-content-box">
-                                        <p class="mb-0">هل تفكر في عمل ابتسامة هوليود وتريد معرفة إيجابيات وسلبيات
-                                            ابتسامة هوليود إذا كانت إجابتك بنعم، تابعنا فى هذا المقال لتتعرف&hellip;</p>
-                                    </div>
-                                    <div class="btn-secondary small left-arrow ">
-                                        <a class="transition ease-in  group-hover:scale-[1.1]"
-                                            href="../advantages-and-disadvantages-of-hollywood-smile/index.html">متابعة</a>
-                                    </div>
-                                </div>
-                                <div class="order-1 md:order-2">
-                                    <div class="h-[26rem] w-[26rem]  bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                        style="background-image:url(../wp-content/uploads/2023/01/%d8%a5%d9%8a%d8%ac%d8%a7%d8%a8%d9%8a%d8%a7%d8%aa-%d9%88%d8%b3%d9%84%d8%a8%d9%8a%d8%a7%d8%aa-%d8%a7%d8%a8%d8%aa%d8%b3%d8%a7%d9%85%d8%a9-%d9%87%d9%88%d9%84%d9%8a%d9%88%d8%af-4-300x195.webp)">
-                                    </div>
-                                </div>
-                                <a class="absolute left-0 top-0 right-0 bottom-0"
-                                    href="../advantages-and-disadvantages-of-hollywood-smile/index.html"></a>
-                            </div>
-
-
-                            <div class="p-[3rem] flex flex-col md:flex-row bg-light rounded-[2rem] mb-[3rem] relative group featured-post-item"
-                                cat-ids="3">
-                                <div
-                                    class="flex md:flex-1 flex-col gap-y-[2rem] md:gap-y-0 justify-between md:pl-[13.42281879194631%] order-2 md:order-1">
-                                    <div class="mt-[2rem] md:mt-0"><span
-                                            class="text-primary opacity-[.3] text-[2rem] font-bold ">02.01.2023</span>
-                                    </div>
-                                    <h3 class="mb-0">هل ابتسامة هوليود تغني عن التقويم؟</h3>
-                                    <div class="post-list-content-box">
-                                        <p class="mb-0">من أجل تصميم ابتسامة مثالية ننصح باختيار هوليود سمايل 3D؛
-                                            ابتسامة مثالية خالية من العيوب ومطابقة لتطلعاتك تماماً. يقوم أطباؤنا&hellip;
-                                        </p>
-                                    </div>
-                                    <div class="btn-secondary small left-arrow ">
-                                        <a class="transition ease-in  group-hover:scale-[1.1]"
-                                            href="../hollywood-smile-and-orthodontics/index.html">متابعة</a>
-                                    </div>
-                                </div>
-                                <div class="order-1 md:order-2">
-                                    <div class="h-[26rem] w-[26rem]  bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                        style="background-image:url(../wp-content/uploads/2023/01/%d9%87%d9%84-%d8%a7%d8%a8%d8%aa%d8%b3%d8%a7%d9%85%d8%a9-%d9%87%d9%88%d9%84%d9%8a%d9%88%d8%af-%d8%aa%d8%ba%d9%86%d9%8a-%d8%b9%d9%86-%d8%a7%d9%84%d8%aa%d9%82%d9%88%d9%8a%d9%85-300x130.jpg)">
-                                    </div>
-                                </div>
-                                <a class="absolute left-0 top-0 right-0 bottom-0"
-                                    href="../hollywood-smile-and-orthodontics/index.html"></a>
-                            </div>
-
-
-                            <div class="p-[3rem] flex flex-col md:flex-row bg-light rounded-[2rem] mb-[3rem] relative group featured-post-item"
-                                cat-ids="3">
-                                <div
-                                    class="flex md:flex-1 flex-col gap-y-[2rem] md:gap-y-0 justify-between md:pl-[13.42281879194631%] order-2 md:order-1">
-                                    <div class="mt-[2rem] md:mt-0"><span
-                                            class="text-primary opacity-[.3] text-[2rem] font-bold ">08.02.2023</span>
-                                    </div>
-                                    <h3 class="mb-0">إليك مراحل تركيب ابتسامة هوليود في 7 أيام فقط</h3>
-                                    <div class="post-list-content-box">
-                                        <p class="mb-0">لا تستغرق مراحل تركيب ابتسامة هوليود أكثر من 7 أيام فقط! يشرف
-                                            على ذلك نخبة أطباء طب وتجميل الأسنان في&hellip;</p>
-                                    </div>
-                                    <div class="btn-secondary small left-arrow ">
-                                        <a class="transition ease-in  group-hover:scale-[1.1]"
-                                            href="../stages-of-installation-of-a-hollywood-smile/index.html">متابعة</a>
-                                    </div>
-                                </div>
-                                <div class="order-1 md:order-2">
-                                    <div class="h-[26rem] w-[26rem]  bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                        style="background-image:url(../wp-content/uploads/2023/02/%d8%b7%d8%b1%d9%8a%d9%82%d8%a9-%d8%aa%d8%b1%d9%83%d9%8a%d8%a8-%d8%a7%d8%b3%d9%86%d8%a7%d9%86-%d9%87%d9%88%d9%84%d9%8a%d9%88%d8%af-300x130.jpg)">
-                                    </div>
-                                </div>
-                                <a class="absolute left-0 top-0 right-0 bottom-0"
-                                    href="../stages-of-installation-of-a-hollywood-smile/index.html"></a>
-                            </div>
-
-
-                            <div class="p-[3rem] flex flex-col md:flex-row bg-light rounded-[2rem] mb-[3rem] relative group featured-post-item"
-                                cat-ids="3">
-                                <div
-                                    class="flex md:flex-1 flex-col gap-y-[2rem] md:gap-y-0 justify-between md:pl-[13.42281879194631%] order-2 md:order-1">
-                                    <div class="mt-[2rem] md:mt-0"><span
-                                            class="text-primary opacity-[.3] text-[2rem] font-bold ">12.01.2023</span>
-                                    </div>
-                                    <h3 class="mb-0">ابتسامة هوليود أرنبية | صيحة جديدة في تصميم ابتسامات هوليوود
-                                    </h3>
-                                    <div class="post-list-content-box">
-                                        <p class="mb-0">تختلف مفاهيم الجمال بالنسبة إليك عن غيرك، وتختلف معاييره كذلك
-                                            بمرور الوقت. ومنذ ظهرت ابتسامة هوليوود؛ فقد تنوعت الإجراءات
-                                            التجميلية&hellip;</p>
-                                    </div>
-                                    <div class="btn-secondary small left-arrow ">
-                                        <a class="transition ease-in  group-hover:scale-[1.1]"
-                                            href="../hollywood-smile-rabbit-teeth/index.html">متابعة</a>
-                                    </div>
-                                </div>
-                                <div class="order-1 md:order-2">
-                                    <div class="h-[26rem] w-[26rem]  bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                        style="background-image:url(../wp-content/uploads/2023/01/%d8%a7%d8%a8%d8%aa%d8%b3%d8%a7%d9%85%d8%a9-%d9%87%d9%88%d9%84%d9%8a%d9%88%d8%af-%d8%a3%d8%b1%d9%86%d8%a8%d9%8a%d8%a9-300x143.webp)">
-                                    </div>
-                                </div>
-                                <a class="absolute left-0 top-0 right-0 bottom-0"
-                                    href="../hollywood-smile-rabbit-teeth/index.html"></a>
-                            </div>
-
-
-                            <div class="p-[3rem] flex flex-col md:flex-row bg-light rounded-[2rem] mb-[3rem] relative group featured-post-item"
-                                cat-ids="8">
-                                <div
-                                    class="flex md:flex-1 flex-col gap-y-[2rem] md:gap-y-0 justify-between md:pl-[13.42281879194631%] order-2 md:order-1">
-                                    <div class="mt-[2rem] md:mt-0"><span
-                                            class="text-primary opacity-[.3] text-[2rem] font-bold ">21.12.2022</span>
-                                    </div>
-                                    <h3 class="mb-0">تعرف على شكل الاسنان بعد الزراعه وأهم التعليمات للمحافظة على
-                                        الأسنان</h3>
-                                    <div class="post-list-content-box">
-                                        <p class="mb-0">هل تعاني من فقدان أحد أسنانك و تريد تركيب سن جديد ولديك
-                                            الكثير من التساؤلات عن كيفية زراعة الاسنان، وكيف&hellip;</p>
-                                    </div>
-                                    <div class="btn-secondary small left-arrow ">
-                                        <a class="transition ease-in  group-hover:scale-[1.1]"
-                                            href="../teeth-shape-after-implantation/index.html">متابعة</a>
-                                    </div>
-                                </div>
-                                <div class="order-1 md:order-2">
-                                    <div class="h-[26rem] w-[26rem]  bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                        style="background-image:url(../wp-content/uploads/2022/12/%d8%b4%d9%83%d9%84-%d8%a7%d9%84%d8%a7%d8%b3%d9%86%d8%a7%d9%86-%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d8%b2%d8%b1%d8%a7%d8%b9%d9%87-300x130.jpg)">
-                                    </div>
-                                </div>
-                                <a class="absolute left-0 top-0 right-0 bottom-0"
-                                    href="../teeth-shape-after-implantation/index.html"></a>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div
-                class="absolute pointer-events-none h-[20rem] md:h-[30rem] bg-gradient-to-t from-primary-extra-light via-primary-extra-light to-primary-extra-light/0 bottom-0 w-full z-10">
-            </div>
-        </div>
-
-
-        <div class="pt-[3.4rem] md:pt-[10rem] pb-[5rem]" style="background-color:#2A4CC7">
-            <div class="main-container text-center">
-                <h2 class="mb-[3rem] sm:mb-[6rem] text-right text-light">المواضيع الأكثر قراءة</h2>
-            </div>
-            <div class="xl:ml-[calc((100%-1270px)/2)]  ">
-                <div class="slider-wrapper relative">
-                    <div class="ysm-slider posts-slider popular" dots="1" speed="1000" slidesToShow_xl="1"
-                        slidesToShow_lg="1" slidesToShow_md="1" slidesToShow_sm="1" slidesToScroll="1"
-                        centerMode="0">
-                        <div class="slide-wrap bg-light rounded-[2rem] mb-[3rem]  w-full mx-[1.5rem] relative group">
-                            <div style="background-image:url(../wp-content/uploads/2023/02/%d8%a3%d9%81%d8%b6%d9%84-%d9%85%d8%b9%d8%ac%d9%88%d9%86-%d8%aa%d8%a8%d9%8a%d9%8a%d8%b6-%d8%a7%d9%84%d8%a7%d8%b3%d9%86%d8%a7%d9%86-1024x442.jpg);"
-                                class="w-full h-full rounded-[2rem] bg-cover bg-no-repeat bg-center absolute left-0 top-0 right-0 bottom-0 ">
-                            </div>
-                            <div
-                                class="flex justify-end flex-col relative h-[55.1rem] bg-gradient-to-t from-dark/80 via-dark/50 to-dark/0 rounded-[2rem] ">
-                                <div
-                                    class="px-[3.7rem] p-[2.3rem] text-[1.6rem] text-light max-w-[90%] md:max-w-[68.6734693877551%]  ">
-                                    <h3 class="text-[2rem] sm:text-[3.6rem] mb-0 ">أفضل معجون تبييض الأسنان وطرق
-                                        الاستخدام الصحيحة</h3>
-                                    <p class="mb-[1.5rem]">هل تبحث عن طريقة مناسبة من أجل تبييض أسنانك في المنزل
-                                        والحصول على ابتسامة جميلة؟ تعرف معنا على أفضل معجون تبييض الأسنان، والأنواع
-                                        الأخرى التي...</p>
-                                    <span class="text-[1.6rem] font-bold text-light/50">09.02.2023</span>
-                                </div>
-                            </div>
-                            <a class="absolute left-0 top-0 right-0 bottom-0"
-                                href="../the-best-whitening-toothpaste/index.html"></a>
-                        </div>
-                        <div class="slide-wrap bg-light rounded-[2rem] mb-[3rem]  w-full mx-[1.5rem] relative group">
-                            <div style="background-image:url(../wp-content/uploads/2023/02/%d9%81%d9%8a%d9%86%d9%8a%d8%b1-%d8%a7%d9%84%d8%b2%d9%8a%d8%b1%d9%83%d9%88%d9%86-%d9%88%d8%a7%d9%84%d8%a7%d9%8a%d9%85%d8%a7%d9%83%d8%b3-2-1024x563.webp);"
-                                class="w-full h-full rounded-[2rem] bg-cover bg-no-repeat bg-center absolute left-0 top-0 right-0 bottom-0 ">
-                            </div>
-                            <div
-                                class="flex justify-end flex-col relative h-[55.1rem] bg-gradient-to-t from-dark/80 via-dark/50 to-dark/0 rounded-[2rem] ">
-                                <div
-                                    class="px-[3.7rem] p-[2.3rem] text-[1.6rem] text-light max-w-[90%] md:max-w-[68.6734693877551%]  ">
-                                    <h3 class="text-[2rem] sm:text-[3.6rem] mb-0 ">الفرق بين فينير الزيركون والايماكس
-                                        والكمبوزيت</h3>
-                                    <p class="mb-[1.5rem]">فينير الأسنان هو أفضل قرار قد تأخذه لتجميل أسنانك، وهو ذو
-                                        تأثير ساحر للغاية. إذا كنت تبحث عن أفضل ابتسامة جذابة، فهذا المقال سيدلك على...
-                                    </p>
-                                    <span class="text-[1.6rem] font-bold text-light/50">28.02.2023</span>
-                                </div>
-                            </div>
-                            <a class="absolute left-0 top-0 right-0 bottom-0"
-                                href="../emax-vs-zirconia-veneers/index.html"></a>
-                        </div>
-                        <div class="slide-wrap bg-light rounded-[2rem] mb-[3rem]  w-full mx-[1.5rem] relative group">
-                            <div style="background-image:url(../wp-content/uploads/2023/02/%d8%af%d8%b1%d8%ac%d8%a7%d8%aa-%d8%a7%d9%84%d9%88%d8%a7%d9%86-%d9%81%d9%8a%d9%86%d9%8a%d8%b1-%d8%a7%d9%84%d8%a7%d8%b3%d9%86%d8%a7%d9%86-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%b9%d9%8a%d8%a9-3-1024x576.webp);"
-                                class="w-full h-full rounded-[2rem] bg-cover bg-no-repeat bg-center absolute left-0 top-0 right-0 bottom-0 ">
-                            </div>
-                            <div
-                                class="flex justify-end flex-col relative h-[55.1rem] bg-gradient-to-t from-dark/80 via-dark/50 to-dark/0 rounded-[2rem] ">
-                                <div
-                                    class="px-[3.7rem] p-[2.3rem] text-[1.6rem] text-light max-w-[90%] md:max-w-[68.6734693877551%]  ">
-                                    <h3 class="text-[2rem] sm:text-[3.6rem] mb-0 ">درجات ألوان فينير الأسنان الطبيعية
-                                    </h3>
-                                    <p class="mb-[1.5rem]">إذا كنت ترغب في تركيب عدسات فينير الأسنان؛ إذاً فأنت تبحث عن
-                                        ابتسامة مثالية وجذابة. في هذه الحال ننصحك باختيار واحد من الأنواع الثلاثة
-                                        الأفضل...</p>
-                                    <span class="text-[1.6rem] font-bold text-light/50">21.02.2023</span>
-                                </div>
-                            </div>
-                            <a class="absolute left-0 top-0 right-0 bottom-0"
-                                href="../veneer-color-chart/index.html"></a>
-                        </div>
-                    </div>
-                    <div class="main-container relative xl:ml-0 ">
-                        <span
-                            class="slick-nav cursor-pointer prev absolute inline-block w-[4.4rem] h-[4.4rem] bottom-[-1rem] rounded-full md:right-[7rem] right-[8rem] bg-center bg-no-repeat bg-[url(../images/pop-prev-icon.svg)] "></span>
-                        <span
-                            class="slick-nav cursor-pointer next absolute inline-block w-[4.4rem] h-[4.4rem] bottom-[-1rem] rounded-full md:right-0 right-[1.5rem] bg-center bg-no-repeat bg-[url(../images/pop-next-icon.svg)]  "></span>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-        <div class="py-[6rem] sm:py-[10rem]" style="background-color:#EEF4FB" id="posts_list">
-            <div class="main-container">
-                <h2 class="mb-[3rem] sm:mb-[6rem] text-center">المزيد من المقالات</h2>
-                <div class="grid grid-cols-1 lg:grid-cols-2 gap-x-[3rem] gap-y-[1.5rem]">
-
-                    <div
-                        class="p-[2rem] flex  rounded-[2rem] mb-[3rem] border-[.2rem] border-primary/50 relative transition ease-linear hover:bg-light">
-                        <div class="flex flex-1 pl-[13.42281879194631%]">
-                            <div class="post-list-content-box-two relative flex flex-col justify-between">
-                                <div><span class="text-primary opacity-[.3] text-[2rem] font-bold ">27.02.2024</span>
-                                </div>
-                                <h3 class="mb-[1rem]">الطريقة الصحيحة لاستخدام جل تثبيت طقم الأسنان</h3>
-                                <p class="hidden md:flex">جل تثبيت طقم الأسنان هو لاصق يستخدم لتثبيت تركيبات
-                                    الأسنان&hellip;</p>
-                                <div class>
-                                    <a href="../denture-fixing-gel/index.html">متابعة ></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="h-[9.4rem] md:h-[18.5rem] w-[9rem] md:w-[18.5rem] bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                style="background-image:url(../wp-content/uploads/2024/02/%d8%ac%d9%84-%d8%aa%d8%ab%d8%a8%d9%8a%d8%aa-%d8%b7%d9%82%d9%85-%d8%a7%d9%84%d8%a3%d8%b3%d9%86%d8%a7%d9%86-2-300x200.webp)">
-                            </div>
-                        </div>
-                        <a class="absolute left-0 top-0 right-0 bottom-0" href="../denture-fixing-gel/index.html"></a>
-                    </div>
-
-
-                    <div
-                        class="p-[2rem] flex  rounded-[2rem] mb-[3rem] border-[.2rem] border-primary/50 relative transition ease-linear hover:bg-light">
-                        <div class="flex flex-1 pl-[13.42281879194631%]">
-                            <div class="post-list-content-box-two relative flex flex-col justify-between">
-                                <div><span class="text-primary opacity-[.3] text-[2rem] font-bold ">23.02.2024</span>
-                                </div>
-                                <h3 class="mb-[1rem]">سعر طقم أسنان سيليكون والأكريليك والمعدني</h3>
-                                <p class="hidden md:flex">إذا كنت في رحلة البحث عن أفضل طقم أسنان فهذا&hellip;</p>
-                                <div class>
-                                    <a href="../silicone-denture-price/index.html">متابعة ></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="h-[9.4rem] md:h-[18.5rem] w-[9rem] md:w-[18.5rem] bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                style="background-image:url(../wp-content/uploads/2024/02/%d8%b3%d8%b9%d8%b1-%d8%b7%d9%82%d9%85-%d8%a3%d8%b3%d9%86%d8%a7%d9%86-%d8%b3%d9%8a%d9%84%d9%8a%d9%83%d9%88%d9%86-2-300x169.webp)">
-                            </div>
-                        </div>
-                        <a class="absolute left-0 top-0 right-0 bottom-0"
-                            href="../silicone-denture-price/index.html"></a>
-                    </div>
-
-
-                    <div
-                        class="p-[2rem] flex  rounded-[2rem] mb-[3rem] border-[.2rem] border-primary/50 relative transition ease-linear hover:bg-light">
-                        <div class="flex flex-1 pl-[13.42281879194631%]">
-                            <div class="post-list-content-box-two relative flex flex-col justify-between">
-                                <div><span class="text-primary opacity-[.3] text-[2rem] font-bold ">22.02.2024</span>
-                                </div>
-                                <h3 class="mb-[1rem]">العناية بأطقم الأسنان: ما هي طريقة حفظ طقم الأسنان؟</h3>
-                                <p class="hidden md:flex">العناية بأطقم الأسنان لا تحافظ على صحتك الفموية فقط!
-                                    فهي&hellip;</p>
-                                <div class>
-                                    <a href="../denture-care/index.html">متابعة ></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="h-[9.4rem] md:h-[18.5rem] w-[9rem] md:w-[18.5rem] bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                style="background-image:url(../wp-content/uploads/2024/02/%d8%a7%d9%84%d8%b9%d9%86%d8%a7%d9%8a%d8%a9-%d8%a8%d8%a3%d8%b7%d9%82%d9%85-%d8%a7%d9%84%d8%a3%d8%b3%d9%86%d8%a7%d9%86-300x200.webp)">
-                            </div>
-                        </div>
-                        <a class="absolute left-0 top-0 right-0 bottom-0" href="../denture-care/index.html"></a>
-                    </div>
-
-
-                    <div
-                        class="p-[2rem] flex  rounded-[2rem] mb-[3rem] border-[.2rem] border-primary/50 relative transition ease-linear hover:bg-light">
-                        <div class="flex flex-1 pl-[13.42281879194631%]">
-                            <div class="post-list-content-box-two relative flex flex-col justify-between">
-                                <div><span class="text-primary opacity-[.3] text-[2rem] font-bold ">22.02.2024</span>
-                                </div>
-                                <h3 class="mb-[1rem]">كم سعر تركيبة الأسنان المتحركة؟</h3>
-                                <p class="hidden md:flex">تركيبات الأسنان هي بديل مناسب لزراعة الأسنان، حيث أنها
-                                    تقدم&hellip;</p>
-                                <div class>
-                                    <a href="../price-of-removable-dentures/index.html">متابعة ></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="h-[9.4rem] md:h-[18.5rem] w-[9rem] md:w-[18.5rem] bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                style="background-image:url(../wp-content/uploads/2024/02/%d8%b3%d8%b9%d8%b1-%d8%aa%d8%b1%d9%83%d9%8a%d8%a8%d8%a9-%d8%a7%d9%84%d8%a3%d8%b3%d9%86%d8%a7%d9%86-%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%b1%d9%83%d8%a9-300x157.webp)">
-                            </div>
-                        </div>
-                        <a class="absolute left-0 top-0 right-0 bottom-0"
-                            href="../price-of-removable-dentures/index.html"></a>
-                    </div>
-
-
-                    <div
-                        class="p-[2rem] flex  rounded-[2rem] mb-[3rem] border-[.2rem] border-primary/50 relative transition ease-linear hover:bg-light">
-                        <div class="flex flex-1 pl-[13.42281879194631%]">
-                            <div class="post-list-content-box-two relative flex flex-col justify-between">
-                                <div><span class="text-primary opacity-[.3] text-[2rem] font-bold ">21.02.2024</span>
-                                </div>
-                                <h3 class="mb-[1rem]">مسكن ألم الأسنان | أنواع آمنة للحوامل وأصحاب الأمراض المزمنة</h3>
-                                <p class="hidden md:flex">ينصف ألم الأسنان على أنه من أشد أنواع الألم، وفي&hellip;</p>
-                                <div class>
-                                    <a href="../toothache-reliever/index.html">متابعة ></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="h-[9.4rem] md:h-[18.5rem] w-[9rem] md:w-[18.5rem] bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                style="background-image:url(../wp-content/uploads/2024/02/%d9%85%d8%b3%d9%83%d9%86-%d8%a3%d9%84%d9%85-%d8%a7%d9%84%d8%a3%d8%b3%d9%86%d8%a7%d9%86-300x150.webp)">
-                            </div>
-                        </div>
-                        <a class="absolute left-0 top-0 right-0 bottom-0" href="../toothache-reliever/index.html"></a>
-                    </div>
-
-
-                    <div
-                        class="p-[2rem] flex  rounded-[2rem] mb-[3rem] border-[.2rem] border-primary/50 relative transition ease-linear hover:bg-light">
-                        <div class="flex flex-1 pl-[13.42281879194631%]">
-                            <div class="post-list-content-box-two relative flex flex-col justify-between">
-                                <div><span class="text-primary opacity-[.3] text-[2rem] font-bold ">20.02.2024</span>
-                                </div>
-                                <h3 class="mb-[1rem]">جراحة الأسنان المدفونة لتصحيح الأسنان</h3>
-                                <p class="hidden md:flex">إذا طُلب منك الاختيار بين خلع أسنانك أو إجراء جراحة&hellip;
-                                </p>
-                                <div class>
-                                    <a href="../buried-dental-surgery/index.html">متابعة ></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="h-[9.4rem] md:h-[18.5rem] w-[9rem] md:w-[18.5rem] bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                style="background-image:url(../wp-content/uploads/2024/02/%d8%ac%d8%b1%d8%a7%d8%ad%d8%a9-%d8%a7%d9%84%d8%a3%d8%b3%d9%86%d8%a7%d9%86-%d8%a7%d9%84%d9%85%d8%af%d9%81%d9%88%d9%86%d8%a9-300x200.webp)">
-                            </div>
-                        </div>
-                        <a class="absolute left-0 top-0 right-0 bottom-0"
-                            href="../buried-dental-surgery/index.html"></a>
-                    </div>
-
-
-                    <div
-                        class="p-[2rem] flex  rounded-[2rem] mb-[3rem] border-[.2rem] border-primary/50 relative transition ease-linear hover:bg-light">
-                        <div class="flex flex-1 pl-[13.42281879194631%]">
-                            <div class="post-list-content-box-two relative flex flex-col justify-between">
-                                <div><span class="text-primary opacity-[.3] text-[2rem] font-bold ">15.02.2024</span>
-                                </div>
-                                <h3 class="mb-[1rem]">الفرق بين خيط الأسنان المشمع والغير مشمع</h3>
-                                <p class="hidden md:flex">سواء خيط الأسنان المشمع والغير مشمع فهو جزء أساسي من&hellip;
-                                </p>
-                                <div class>
-                                    <a href="../waxed-and-unwaxed-dental-floss/index.html">متابعة ></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="h-[9.4rem] md:h-[18.5rem] w-[9rem] md:w-[18.5rem] bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                style="background-image:url(../wp-content/uploads/2024/02/%d8%ae%d9%8a%d8%b7-%d8%a7%d9%84%d8%a3%d8%b3%d9%86%d8%a7%d9%86-%d8%a7%d9%84%d9%85%d8%b4%d9%85%d8%b9-%d9%88%d8%a7%d9%84%d8%ba%d9%8a%d8%b1-%d9%85%d8%b4%d9%85%d8%b9-300x169.webp)">
-                            </div>
-                        </div>
-                        <a class="absolute left-0 top-0 right-0 bottom-0"
-                            href="../waxed-and-unwaxed-dental-floss/index.html"></a>
-                    </div>
-
-
-                    <div
-                        class="p-[2rem] flex  rounded-[2rem] mb-[3rem] border-[.2rem] border-primary/50 relative transition ease-linear hover:bg-light">
-                        <div class="flex flex-1 pl-[13.42281879194631%]">
-                            <div class="post-list-content-box-two relative flex flex-col justify-between">
-                                <div><span class="text-primary opacity-[.3] text-[2rem] font-bold ">14.02.2024</span>
-                                </div>
-                                <h3 class="mb-[1rem]">ما هي معايير اختيار فرشاة إزالة الجير وتنظيف الأسنان؟</h3>
-                                <p class="hidden md:flex">العناية بنظافة الأسنان هو روتين يومي مهم للغاية، وذلك
-                                    للحفاظ&hellip;</p>
-                                <div class>
-                                    <a href="../tartar-removal-toothbrush/index.html">متابعة ></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="h-[9.4rem] md:h-[18.5rem] w-[9rem] md:w-[18.5rem] bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                style="background-image:url(../wp-content/uploads/2024/02/%d9%81%d8%b1%d8%b4%d8%a7%d8%a9-%d8%a5%d8%b2%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%ac%d9%8a%d8%b1-3-300x180.webp)">
-                            </div>
-                        </div>
-                        <a class="absolute left-0 top-0 right-0 bottom-0"
-                            href="../tartar-removal-toothbrush/index.html"></a>
-                    </div>
-
-
-                    <div
-                        class="p-[2rem] flex  rounded-[2rem] mb-[3rem] border-[.2rem] border-primary/50 relative transition ease-linear hover:bg-light">
-                        <div class="flex flex-1 pl-[13.42281879194631%]">
-                            <div class="post-list-content-box-two relative flex flex-col justify-between">
-                                <div><span class="text-primary opacity-[.3] text-[2rem] font-bold ">08.02.2024</span>
-                                </div>
-                                <h3 class="mb-[1rem]">كيف سيتغير شكل ابتسامتك قبل وبعد تنظيف الأسنان؟</h3>
-                                <p class="hidden md:flex">تنظيف الأسنان له دور مهم للغاية في الحفاظ على نظافة&hellip;
-                                </p>
-                                <div class>
-                                    <a href="../before-and-after-brushing-teeth/index.html">متابعة ></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="h-[9.4rem] md:h-[18.5rem] w-[9rem] md:w-[18.5rem] bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                style="background-image:url(../wp-content/uploads/2024/02/%d9%82%d8%a8%d9%84-%d9%88%d8%a8%d8%b9%d8%af-%d8%aa%d9%86%d8%b8%d9%8a%d9%81-%d8%a7%d9%84%d8%a3%d8%b3%d9%86%d8%a7%d9%86-300x199.webp)">
-                            </div>
-                        </div>
-                        <a class="absolute left-0 top-0 right-0 bottom-0"
-                            href="../before-and-after-brushing-teeth/index.html"></a>
-                    </div>
-
-
-                    <div
-                        class="p-[2rem] flex  rounded-[2rem] mb-[3rem] border-[.2rem] border-primary/50 relative transition ease-linear hover:bg-light">
-                        <div class="flex flex-1 pl-[13.42281879194631%]">
-                            <div class="post-list-content-box-two relative flex flex-col justify-between">
-                                <div><span class="text-primary opacity-[.3] text-[2rem] font-bold ">08.02.2024</span>
-                                </div>
-                                <h3 class="mb-[1rem]">تنظيف الجير بالليزر | ما هو مقدار تأثيره وكفاءته؟</h3>
-                                <p class="hidden md:flex">تجميل الأسنان بالليزر كان له دور كبير في تغيير شكل&hellip;
-                                </p>
-                                <div class>
-                                    <a href="../laser-teeth-cleaning/index.html">متابعة ></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="h-[9.4rem] md:h-[18.5rem] w-[9rem] md:w-[18.5rem] bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                style="background-image:url(../wp-content/uploads/2024/02/%d8%aa%d9%86%d8%b8%d9%8a%d9%81-%d8%a7%d9%84%d8%ac%d9%8a%d8%b1-%d8%a8%d8%a7%d9%84%d9%84%d9%8a%d8%b2%d8%b1-300x200.webp)">
-                            </div>
-                        </div>
-                        <a class="absolute left-0 top-0 right-0 bottom-0"
-                            href="../laser-teeth-cleaning/index.html"></a>
-                    </div>
-
-                </div>
-                <div class="pagination-wrap">
-                    <ul class="pagination__list">
-                        <li class="pagination__list-item pagination__list-item--current"><a
-                                href="index.html#posts_list">1</a></li>
-                        <li class="pagination__list-item"><a href="page/2/index.html#posts_list">2</a></li>
+                <div class="text-right py-[5rem] sm:py-[8rem] full-width-bg-content">
+                    <p><span style="font-weight: 400;">يدرك مركز &#8220;يس سمايل&#8221; ضرورة حماية معلوماتك الشخصية
+                            والحفاظ على خصوصيتك. لذلك؛ نكتب لك هذه المعلومات حول سياسة الخصوصية الخاصة بنا، لنبقيك على
+                            اطلاع حول طريقة جمع بياناتك، وآلية نقلها، وكيف نحمي بياناتك الشخصية.</span></p>
+                    <p><span style="font-weight: 400;">تصفحك لموقعنا &#8220;يس سمايل&#8221; لا يكشف لنا عن بياناتك
+                            الشخصية، إلا إن أردت التسجيل بالمركز أو شراء احد خدماتنا. تصبح معالجة البيانات الخاصة بك في
+                            هذه الحالة ضرورية وسنطلب منك منحنا الإذن لذلك؛ لتتمكن من تصفح الموقع والاستفادة من الخدمات
+                            التي نقدمها لك بكل أمان.</span></p>
+                    <p><span style="font-weight: 400;">نعتمد في معالجة البيانات الشخصية على القانون الأوروبي العام
+                            لحماية البيانات (GDPR). بصفتنا مراقبي البيانات، فإننا نود اطلاعك على اتفاقية حماية البيانات
+                            وطبيعتها ونطاقها والهدف من جمعها، كما نود اطلاعك أننا نجري ذلك وفقاً لإجراءات تقنية تنظيمية
+                            لتوفير حماية كاملة للبيانات التي نطلبها منك. </span></p>
+                    <p><span style="font-weight: 400;">يرجى العلم أنها حماية كاملة وفق حدود إمكانياتنا وليست حماية
+                            مطلقة، فكل عمليات نقل البيانات عبر الإنترنت قد تحتوي بعض الثغرات الأمنية. وهنا لك الحق في
+                            الموافقة أو طلب نقر البيانات عبر وسيلة أخرى مثل الهاتف.</span></p>
+                    <p><b>جمع البيانات</b></p>
+                    <p><span style="font-weight: 400;">يرجى العلم أنه عند طلب خدمات مركز يس سمايل المختلفة، مثل خدمة
+                            الاستشارة المجانية أو طلب تحديد تكلفة علاج أو غيرهما، فإننا نجمع بعض البيانات والمعلومات
+                            الشخصية. قد نجمع هذه البيانات عند: حجز استشارة، أو طلب شراء منتج، أو الاشتراك في النشرة
+                            البريدية، أو التواصل عبر الموقع، أو إمكانية التعليق على المدونة، وغير ذلك. وتشمل تلك
+                            البيانات:</span><b></b></p>
+                    <ul>
+                        <li aria-level="1"><b>الاسم؛ </b><span style="font-weight: 400;">وذلك عند تسجيل الدخول وطلب
+                                الخدمات المختلفة</span></li>
                     </ul>
-                </div>
-            </div>
-        </div>
-
-
-        <div class="mb-[6rem] sm:mb-[10rem]
-                        gn-image-text-section main-container">
-            <div class="flex flex-col gap-[50px] xl:gap-0 xl:flex-row ">
-                <div class="xl:pl-[80px] pr-0">
-                    <div class="flex flex-col justify-center h-full  text-center xl:text-right ">
-                        <h2>مرحباً بك في مدونة يس سمايل</h2>
-                        <div
-                            class="video-wrap relative flex xl:hidden  xl:flex-grow xl:min-w-[50rem] xxl:min-w-[67.5em]  max-w-[67.5rem] md:mx-auto w-full justify-center mb-[3rem] xxl:mb-0    ">
-                            <div style="background-image:url();"
-                                class="video-cover absolute top-0 left-0 w-full h-full z-10 bg-center bg-no-repeat bg-cover rounded-[20px] ">
-                            </div>
-                            <video controls
-                                class="video  w-full  h-full max-h-[44.7rem]  rounded-[1.25rem]  object-cover " poster>
-                                <source src type="video/mp4">
-                            </video>
-                            <div class="absolute top-0 left-0 w-full h-full cursor-pointer video-icon-play z-20"></div>
-                        </div>
-                        <div>
-                        </div>
-                        <div>
-                        </div>
-                    </div>
-                </div>
-                <div
-                    class="video-wrap relative hidden xl:flex  xl:flex-grow xl:min-w-[50rem] xxl:min-w-[67.5em] max-h-[44.7rem] max-w-[67.5rem] md:mx-auto w-full justify-center    ">
-                    <div style="background-image:url();"
-                        class="video-cover absolute top-0 left-0 w-full h-full z-10 bg-center bg-no-repeat bg-cover rounded-[20px] ">
-                    </div>
-                    <video controls class="video  w-full  h-full rounded-[1.25rem]  object-cover " poster>
-                        <source src type="video/mp4">
-                    </video>
-                    <div class="absolute top-0 left-0 w-full h-full cursor-pointer video-icon-play z-20"></div>
+                    <ul>
+                        <li aria-level="1"><b>البريد الإلكتروني؛ </b><span style="font-weight: 400;">فهو وسيلة تواصل
+                                أساسية بيننا وبينك بجانب طرق التواصل الأخرى</span></li>
+                    </ul>
+                    <ul>
+                        <li aria-level="1"><b>رقم الهاتف؛ </b><span style="font-weight: 400;">قد نطلب منك رقم الهاتف
+                                ليكون وسيلة تواصل أخرى عند حجز خدمة أو طلب استشارة وخلاف ذلك</span></li>
+                    </ul>
+                    <ul>
+                        <li aria-level="1"><b>السيرة المرضية؛ </b><span style="font-weight: 400;">قد نطلب منك إرسال
+                                نسخة من تقارير طبية أو فحوصات وصور أشعة وغير ذلك مما يتعلق بالتاريخ المرضي الخاص بك عند
+                                الضرورة</span></li>
+                        <li aria-level="1">بيانات أخرى<b>؛</b><b> </b><span style="font-weight: 400;">وتشمل: </span>
+                        </li>
+                    </ul>
+                    <p><span style="font-weight: 400;">&#8211; نظام التشغيل الخاص بالجهاز الشخصي</span></p>
+                    <p><span style="font-weight: 400;">&#8211; عنوان بروتوكول الإنترنت IP</span></p>
+                    <p><span style="font-weight: 400;">&#8211; الموقع المستخدم للوصول</span></p>
+                    <p><span style="font-weight: 400;">&#8211; نوع وإصدار المتصفح</span></p>
+                    <p><span style="font-weight: 400;">&#8211; وقت وتاريخ الدخول</span></p>
+                    <ul>
+                        <li><span style="font-weight: 400;">مزود الإنترنت</span></li>
+                    </ul>
+                    <p><b>ملفات تعريف الارتباط (الكوكيز)</b></p>
+                    <p><span style="font-weight: 400;">تستخدم شركة الخدمات الطبية والصحية المحدودة ملفات تعريف الارتباط
+                            (كوكيز) على موقعها الإلكتروني. تعتبر ملفات تعريف الارتباط نصوصًا تخزن على نظام الحاسوب عبر
+                            متصفح الإنترنت، ويستخدمها العديد من المواقع والخوادم. تحتوي بعض ملفات تعريف الارتباط على
+                            كوكي ID، وهو مؤشر فريد يتيح للمواقع والخوادم التمييز بين متصفحات الإنترنت. </span></p>
+                    <p><span style="font-weight: 400;">تساعد ملفات تعريف الارتباط الشركة على تحسين خدماتها وتوفير خدمات
+                            أفضل للمستخدمين، وتسمح لها بتحديد متصفح الإنترنت بشكل خاص للمستخدمين. يمكن إلغاء ملفات تعريف
+                            الارتباط أو منعها، ويمكن حذفها في أي وقت من خلال المتصفح أو برنامج متخصص.</span></p>
+                    <p><b>لماذا نجمع هذه البيانات؟</b></p>
+                    <p><span style="font-weight: 400;">نجمع هذه البيانات من أجل: تقديم أفضل تجربة مستخدم للزائر، وتحسين
+                            محتوى الموقع، وضمان جدوى تكنولوجيا المعلومات الخاصة بموقع مركز &#8220;يس سمايل&#8221;
+                            وتطويرها على الدوام، والاستفادة من هذه المعلومات في حال حدوث مشاكل قرصنة لأجل تتبع هذه
+                            العمليات أو رفعها إلى السلطات الحكومية والملاحقة القانونية.</span></p>
+                    <p><span style="font-weight: 400;">تجمع هذه البيانات ويتم إحصائها وتحليلها بشكل سري لأجل توفير
+                            حماية للمستخدم، وحماية لبيانات الشركة كذلك. كما نضيف أن البيانات السرية التي تتعلق بملفات
+                            سجل الخادم نقوم بتخزينها بشكل منفصل عن البيانات الشخصية التي زودنا بها المستخدم.</span></p>
+                    <p><b>محو البيانات الشخصية وحقوق المستخدم</b></p>
+                    <p><span style="font-weight: 400;">يجب على مراقب البيانات معالجة وتخزين البيانات الشخصية فقط للفترة
+                            اللازمة لتحقيق الغرض من التخزين، أو بما يسمح به المشرع الأوروبي أو المشرعون الآخرون في
+                            القوانين واللوائح المعمول بها. إذا كان غرض التخزين غير قابل للتطبيق، أو إذا انتهت فترة
+                            التخزين المحددة من قبل المشرع الأوروبي أو أي مشروع آخر مختص، يتم حظر البيانات الشخصية أو
+                            محوها بشكل روتيني وفقًا للمتطلبات القانونية.</span></p>
+                    <p><b>حق التحقق؛ </b><span style="font-weight: 400;">لكل مستخدم الحق في طلب تأكيد أن بياناته
+                            الشخصية المخزنة قيد المعالجة، عبر التواصل مع أحد المراقبين وقتما يشاء.</span></p>
+                    <p><b>حق الولوج؛ </b><span style="font-weight: 400;">يحق للمستخدم طلب نسخة من بياناته الشخصية أو
+                            التحقق منها، عبر تقديم طلب إلى المراقب. يحق للمستخدم الولوج إلى البيانات التالية والتحقق
+                            منها:</span></p>
+                    <ul>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">هدف معالجة
+                                البيانات</span></li>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">تصنيف البيانات
+                                الشخصية</span></li>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">الجهات التي
+                                سيكشف إليها هذه البيانات</span></li>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">الحق في تقديم
+                                طلب شكوى للجهات المشرفة </span></li>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">أن يتم التوضيح
+                                للمستخدم مصدر جمع البيانات الشخصية له</span></li>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">فترة تخزين
+                                البيانات، أو المعايير التي تحدد بناء عليها مدة التخزين</span></li>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">الحق في طلب
+                                تعديل البيانات الشخصية أو محوها، أو تقييد معالجتها</span></li>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">يحظى المستخدم
+                                بحق اتخاذ قرار آلي، بما في ذلك التنميط، وفقًا للمادتين 22(1) و(4) من قانون حماية
+                                البيانات العام الأوروبي (GDPR). يتم توفير هذا الحق لأنه قد يكون للمعالجة الآلية دور مهم
+                                في تحسين الخدمات المقدمة للمستخدمين وتسهيل تجربتهم.</span></li>
+                    </ul>
+                    <p><b>حق التعديل؛</b><span style="font-weight: 400;"> لكل مستخدم الحق في تعديل البيانات غير الصحيحة
+                            بتقديم طلب للمراقب من دون تأخير، وله أن يطلب إكمال بياناته الشخصية غير المكتملة عبر إرسال
+                            طلب.</span></p>
+                    <p><b>حق الحذف؛ </b><span style="font-weight: 400;">يحق للمستخدم تقديم طلب حذف البيانات، وعلى
+                            المراقب المباشرة بحذفها دون تأخير، وذلك عند تحقيق العوامل المذكورة أدناه:</span></p>
+                    <ul>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">انقضاء الغاية
+                                التي جمعت لأجلها البيانات</span></li>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">إبداء عدم موافقة
+                                المستخدم عن معالجة البيانات</span></li>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">إذا تمت معالجة
+                                البيانات معالجة مخالفة للقانون</span></li>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">إبداء اعتراض
+                                المستخدم على طريقة معالجة البيانات</span></li>
+                    </ul>
+                    <p><b>حق وقف المعالجة؛ </b><span style="font-weight: 400;"> لك الحق في تقديم طلب بوقف معالجة
+                            البيانات في ظل الحالات المذكورة أدناه:</span></p>
+                    <ul>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">الطعن في دقة
+                                البيانات، وطلب التدقيق</span></li>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">عدم قانونية
+                                معالجة البيانات مع طلب المستخدم لتقييد المعالجة بدلًا من الحذف.</span></li>
+                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">إبداء اعتراض
+                                المستخدم على معالجة البيانات؛ لتأكيد الأساس القانوني الذي استند عليه المراقب لتجاوز حقوق
+                                المستخدم.</span></li>
+                    </ul>
+                    <p><b>حق نقل البيانات؛</b><span style="font-weight: 400;"> لكل مستخدم حق استلام البيانات الشخصية له
+                            وطلب نقلها لمراقب آخر دون تأخير من المراقب الحالي حال استيفاء الشروط. ويحق له أيضاً نقل
+                            البيانات مباشرة من مراقب إلى آخر في حال غياب المانع التقني.</span></p>
+                    <p><b>حق الاعتراض؛ </b><span style="font-weight: 400;">لكل مستخدم الحق في الاعتراض على معالجة
+                            البيانات الشخصية له. وستتوقف الشركة عن معالجة البيانات حينئذ. ويحق للمستخدم الاعتراض في حال
+                            استخدام الشركة تلك البيانات لأغراض تسويقية.</span></p>
+                    <p><b>الأسس القانونية لمعالجة البيانات</b></p>
+                    <p><span style="font-weight: 400;">يستخدم النظام الأوروبي العام لحماية البيانات (GDPR) المادة 6(1)
+                            بند a كأساس قانوني لعمليات المعالجة التي نطلب فيها الموافقة من المستخدم لأغراض محددة. ويتم
+                            استخدام المادة 6(1) بند b عندما تكون معالجة البيانات الشخصية ضرورية لتنفيذ عقد يكون المستخدم
+                            طرف فيه. </span></p>
+                    <p><span style="font-weight: 400;">ويتم استخدام المادة 6(1) بند c عندما يكون لشركة ما التزام قانوني
+                            بمعالجة البيانات الشخصية، مثل الالتزام بدفع الضرائب. ويتم استخدام المادة 6(1) بند d عندما
+                            تكون معالجة البيانات ضرورية لحماية مصلحة المستخدم أو حماية أي شخص آخر. </span></p>
+                    <p><span style="font-weight: 400;">ويتم استخدام المادة 6(1) بند f عندما تكون المعالجة ضرورية
+                            استنادًا إلى مصلحة مشروعة تسعى إليها الشركة أو طرف ثالث، عدا المصالح التي تتعارض مع الحقوق
+                            الأساسية وحريات المستخدم والتي تتطلب حماية بياناته الشخصية. </span></p>
+                    <p><span style="font-weight: 400;">وعندما يتم استخدام المادة 6(1) بند f، فإن المصلحة المشروعة التي
+                            يسعى إليها المراقب أو الطرف الثالث تكون في تنفيذ أعمالهم بما يتناسب مع مصلحة موظفيهم
+                            والمساهمين. وتحفظ الشركات البيانات للفترة اللازمة لأداء الغرض المحدد في العملية المعالجة
+                            وتتبع القوانين والتشريعات المطبقة عليها. </span></p>
+                    <p><span style="font-weight: 400;">نحن نحترم خصوصية زوار موقعنا الإلكتروني. وتهدف صفحة الخصوصية هذه
+                            إلى شرح كيفية جمعنا واستخدامنا وحماية المعلومات الشخصية التي تقدمها لنا عندما تزور
+                            موقعنا.</span></p>
+                    <p><b>اتصل بنا</b></p>
+                    <p><span style="font-weight: 400;">إذا كان لديك أي أسئلة حول سياسة الخصوصية لدينا، يرجى الاتصال بنا
+                            عبر البريد الإلكتروني أو الهاتف المتاحين على موقعنا.</span></p>
+                    <p><span style="font-weight: 400;">شكراً لزيارتك موقع يس سمايل، ونحن نقدر ثقتك فينا ونتعهد بحماية
+                            خصوصيتك وأمان معلوماتك الشخصية.</span></p>
                 </div>
             </div>
         </div>
@@ -1873,9 +1289,9 @@
                             src="../wp-content/themes/yessmile-wp/assets/images/footer-logo.svg" /></div>
                     <h3 class="mb-[20px] font-medium text-[2.4rem] md:text-[3.6rem]">تواصل معنا</h3>
                     <a class="block text-light/70    mb-3"
-                        href="../cdn-cgi/l/email-protection.html#e1828e8f95808295a1988492928c888d84cf8084"><span
+                        href="../cdn-cgi/l/email-protection.html#f89b97968c999b8cb8819d8b8b9591949dd6999d"><span
                             class="__cf_email__"
-                            data-cfemail="5635393822373522162f3325253b3f3a33783733">[email&#160;protected]</span></a>
+                            data-cfemail="abc8c4c5dfcac8dfebd2ced8d8c6c2c7ce85cace">[email&#160;protected]</span></a>
                     <a class="block text-right ltr-dir text-light/70   " target="_blank"
                         href="https://wa.me/+905399356722">+90 539 935 67 22</a>
                     <h3 class="mb-[2rem] font-medium  text-[1.6rem] md:text-[2rem] mt-[1rem]  ">إسطنبول - تركيا</h3>
@@ -1889,8 +1305,7 @@
         </div>
         <div class="main-container mt-[3rem]">
             <div class="footer-bottom-links text-light/70  font-extrabold">
-                <a class="text-[1.6rem] ml-[3rem] inline-block font-normal " href="../privacy-policy/index.html">سياسة
-                    الخصوصية</a>
+                <a class="text-[1.6rem] ml-[3rem] inline-block font-normal " href="index.html">سياسة الخصوصية</a>
                 <a class="text-[1.6rem] ml-[3rem] inline-block font-normal "
                     href="../terms-and-conditions/index.html">الشروط والأحكام</a>
             </div>
@@ -1908,8 +1323,9 @@
         id="YSMILE-slick-js"></script>
     <script type="text/javascript" src="{{ asset('wp-content/themes/yessmile-wp/assets/js/custom84fc.js') }}"
         id="YSMILE-custom-js"></script>
+
 </body>
 
-<!-- Mirrored from yessmile.ae/blog/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Mar 2024 14:38:07 GMT -->
+<!-- Mirrored from yessmile.ae/privacy-policy/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Mar 2024 14:38:20 GMT -->
 
 </html>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ar" dir="rtl" class="scroll-smooth">
 
-<!-- Mirrored from yessmile.ae/blog/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Mar 2024 14:37:59 GMT -->
+<!-- Mirrored from yessmile.ae/removal-of-zirconia-teeth-2/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Mar 2024 14:38:29 GMT -->
 <!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
@@ -12,22 +12,36 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
 
-    <title>مدونة يس سمايل - YesSmile</title>
+    <title>أسباب تؤدي إلى إزالة تركيبات الزيركون وإعادة تركيبها - YesSmile</title>
     <meta name="description"
-        content="يهدف فريقنا الطبي المتخصص إلى توفير معلومات طبية حول أحدث التقنيات في طب ترميم وتجميل الأسنان،" />
+        content="من أسباب تؤدي إلى إزالة تركيبات الزيركون هي ضعف وتشقق الأسنان، ويوجد أشياء أخى تؤدي إلى خلع تركيبات الزيركون للتفاصيل اقرأ هذا المقال." />
     <link rel="canonical" href="index.html" />
     <meta property="og:locale" content="ar_AR" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="مدونة يس سمايل - YesSmile" />
+    <meta property="og:title" content="أسباب تؤدي إلى إزالة تركيبات الزيركون وإعادة تركيبها - YesSmile" />
     <meta property="og:description"
-        content="يهدف فريقنا الطبي المتخصص إلى توفير معلومات طبية حول أحدث التقنيات في طب ترميم وتجميل الأسنان،" />
+        content="من أسباب تؤدي إلى إزالة تركيبات الزيركون هي ضعف وتشقق الأسنان، ويوجد أشياء أخى تؤدي إلى خلع تركيبات الزيركون للتفاصيل اقرأ هذا المقال." />
     <meta property="og:url" content="index.html" />
     <meta property="og:site_name" content="YesSmile" />
-    <meta property="article:modified_time" content="2023-12-06T14:16:14+00:00" />
+    <meta property="article:published_time" content="2023-06-04T23:49:37+00:00" />
+    <meta property="article:modified_time" content="2024-01-25T07:58:41+00:00" />
+    <meta property="og:image"
+        content="../wp-content/uploads/2023/06/%d8%a7%d9%84%d9%81%d8%b1%d9%82-%d8%a8%d9%8a%d9%86-%d8%b2%d8%b1%d8%a7%d8%b9%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d9%86%d8%a7%d9%86-%d8%a7%d9%84%d9%81%d9%88%d8%b1%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%82%d9%84%d9%8a%d8%af%d9%8a%d8%a9-copy.webp" />
+    <meta property="og:image:width" content="980" />
+    <meta property="og:image:height" content="550" />
+    <meta property="og:image:type" content="image/webp" />
+    <meta name="author" content="yessmile" />
     <meta name="twitter:card" content="summary_large_image" />
-    <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://yessmile.ae/blog/","url":"https://yessmile.ae/blog/","name":"مدونة يس سمايل - YesSmile","isPartOf":{"@id":"https://yessmile.ae/#website"},"datePublished":"2023-06-04T23:51:16+00:00","dateModified":"2023-12-06T14:16:14+00:00","description":"يهدف فريقنا الطبي المتخصص إلى توفير معلومات طبية حول أحدث التقنيات في طب ترميم وتجميل الأسنان،","breadcrumb":{"@id":"https://yessmile.ae/blog/#breadcrumb"},"inLanguage":"ar","potentialAction":[{"@type":"ReadAction","target":["https://yessmile.ae/blog/"]}]},{"@type":"BreadcrumbList","@id":"https://yessmile.ae/blog/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://yessmile.ae/"},{"@type":"ListItem","position":2,"name":"مدونة يس سمايل"}]},{"@type":"WebSite","@id":"https://yessmile.ae/#website","url":"https://yessmile.ae/","name":"YesSmile","description":"نعم لإبتسامة جميلة","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://yessmile.ae/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"ar"}]}</script>
+    <meta name="twitter:label1" content="كُتب بواسطة" />
+    <meta name="twitter:data1" content="yessmile" />
+    <meta name="twitter:label2" content="وقت القراءة المُقدّر" />
+    <meta name="twitter:data2" content="9 دقائق" />
+    <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://yessmile.ae/removal-of-zirconia-teeth-2/","url":"https://yessmile.ae/removal-of-zirconia-teeth-2/","name":"أسباب تؤدي إلى إزالة تركيبات الزيركون وإعادة تركيبها - YesSmile","isPartOf":{"@id":"https://yessmile.ae/#website"},"primaryImageOfPage":{"@id":"https://yessmile.ae/removal-of-zirconia-teeth-2/#primaryimage"},"image":{"@id":"https://yessmile.ae/removal-of-zirconia-teeth-2/#primaryimage"},"thumbnailUrl":"https://yessmile.ae/wp-content/uploads/2023/06/الفرق-بين-زراعة-الاسنان-الفورية-والتقليدية-copy.webp","datePublished":"2023-06-04T23:49:37+00:00","dateModified":"2024-01-25T07:58:41+00:00","author":{"@id":"https://yessmile.ae/#/schema/person/2debf3d4e851e562224e7a5c02f518f6"},"description":"من أسباب تؤدي إلى إزالة تركيبات الزيركون هي ضعف وتشقق الأسنان، ويوجد أشياء أخى تؤدي إلى خلع تركيبات الزيركون للتفاصيل اقرأ هذا المقال.","breadcrumb":{"@id":"https://yessmile.ae/removal-of-zirconia-teeth-2/#breadcrumb"},"inLanguage":"ar","potentialAction":[{"@type":"ReadAction","target":["https://yessmile.ae/removal-of-zirconia-teeth-2/"]}]},{"@type":"ImageObject","inLanguage":"ar","@id":"https://yessmile.ae/removal-of-zirconia-teeth-2/#primaryimage","url":"https://yessmile.ae/wp-content/uploads/2023/06/الفرق-بين-زراعة-الاسنان-الفورية-والتقليدية-copy.webp","contentUrl":"https://yessmile.ae/wp-content/uploads/2023/06/الفرق-بين-زراعة-الاسنان-الفورية-والتقليدية-copy.webp","width":980,"height":550},{"@type":"BreadcrumbList","@id":"https://yessmile.ae/removal-of-zirconia-teeth-2/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://yessmile.ae/"},{"@type":"ListItem","position":2,"name":"علاجات الأسنان \"الحشوات والتركيبات\"","item":"https://yessmile.ae/category/%d8%b9%d9%84%d8%a7%d8%ac%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%b3%d9%86%d8%a7%d9%86-%d8%a7%d9%84%d8%ad%d8%b4%d9%88%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a%d8%a8%d8%a7%d8%aa/"},{"@type":"ListItem","position":3,"name":"أسباب تؤدي إلى إزالة تركيبات الزيركون وإعادة تركيبها"}]},{"@type":"WebSite","@id":"https://yessmile.ae/#website","url":"https://yessmile.ae/","name":"YesSmile","description":"نعم لإبتسامة جميلة","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://yessmile.ae/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"ar"},{"@type":"Person","@id":"https://yessmile.ae/#/schema/person/2debf3d4e851e562224e7a5c02f518f6","name":"yessmile","image":{"@type":"ImageObject","inLanguage":"ar","@id":"https://yessmile.ae/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/3a2942e6976b87dc3dae891350ec6024?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/3a2942e6976b87dc3dae891350ec6024?s=96&d=mm&r=g","caption":"yessmile"},"sameAs":["https://serene-swanson.85-214-246-2.plesk.page"],"url":"https://yessmile.ae/author/yessmile/"}]}</script>
 
     <link rel="dns-prefetch" href="http://cdnjs.cloudflare.com/" />
+    <link rel="alternate" type="application/rss+xml"
+        title="YesSmile &laquo; أسباب تؤدي إلى إزالة تركيبات الزيركون وإعادة تركيبها خلاصة التعليقات"
+        href="feed/index.html" />
     <script type="text/javascript">
         /* <![CDATA[ */
         window._wpemojiSettings = {
@@ -561,12 +575,13 @@
     <script type="text/javascript" src="{{ asset('wp-includes/js/jquery/jquery-migrate.min5589.js') }}"
         id="jquery-migrate-js"></script>
     <link rel="https://api.w.org/" href="{{ asset('wp-json/index.html') }}" />
-    <link rel="alternate" type="application/json" href="{{ asset('wp-json/wp/v2/pages/1297.json') }}" />
+    <link rel="alternate" type="application/json" href="{{ asset('wp-json/wp/v2/posts/1294.json') }}" />
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="{{ asset('xmlrpc0db0.php') }}" />
     <meta name="generator" content="WordPress 6.4.3" />
-    <link rel="shortlink" href="../index214b.html?p=1297" />
-    <link rel="alternate" type="application/json+oembed" href="{{ asset('wp-json/oembed/1.0/embedeed3.json') }}" />
-    <link rel="alternate" type="text/xml+oembed" href="{{ asset('wp-json/oembed/1.0/embedfe86&amp;format=xml') }}" />
+    <link rel="shortlink" href="{{ asset('indexc804.html') }}" />
+    <link rel="alternate" type="application/json+oembed" href="{{ asset('wp-json/oembed/1.0/embed3f3f.json') }}" />
+    <link rel="alternate" type="text/xml+oembed"
+        href="{{ asset('wp-json/oembed/1.0/embed6064&amp;format=xml') }}" />
 
 
     <script>
@@ -594,7 +609,7 @@
 </head>
 
 <body data-rsssl="1"
-    class="rtl page-template page-template-template-blog page-template-template-blog-php page page-id-1297 innerpage">
+    class="rtl post-template-default single single-post postid-1294 single-format-standard innerpage">
 
     <header class="z-50 sticky">
         <div class="bg-primary w-full px-[4rem] xl:px-0 ">
@@ -852,7 +867,7 @@
                                 </div>
                             </li>
                             <li><a class="nav-item-link" href="../contact-us/index.html">تواصل معنا</a></li>
-                            <li><a class="nav-item-link" href="index.html">مدونة يس سمايل</a></li>
+                            <li><a class="nav-item-link" href="../blog/index.html">مدونة يس سمايل</a></li>
                         </ul>
                     </nav>
                     <div
@@ -1061,7 +1076,7 @@
                         </div>
                     </li>
                     <li><a class="nav-item-link-mobile" href="../contact-us/index.html">تواصل معنا</a></li>
-                    <li><a class="nav-item-link-mobile" href="index.html">مدونة يس سمايل</a></li>
+                    <li><a class="nav-item-link-mobile" href="../blog/index.html">مدونة يس سمايل</a></li>
                 </ul>
                 <div class="flex justify-center">
                     <div class="btn-secondary">
@@ -1075,746 +1090,402 @@
 
     <main>
 
-        <div class="py-[2.7rem] ">
-            <form>
-                <div class="mx-auto max-w-[26.3rem]  sm:max-w-[43rem] relative">
-                    <input
-                        class="bg-[#ecf0fa] placeholder:text-[1.6rem] block  border-0 w-full text-center  p-[.9rem] sm:p-[1.5rem] rounded-[8.2rem] relative"
-                        type="text" name="s" id placeholder="ابحث عن موضوع">
-                    <span style="background-image:url(../wp-content/themes/yessmile-wp/assets/images/search-icon.svg);"
-                        class="absolute left-[1rem] top-1/2 transform -translate-y-1/2 w-[2.8rem] h-[2.8rem]  inline-block "></span>
-                </div>
-            </form>
-        </div>
-
-
-        <div class="pt-[6rem] md:pt-[10rem] pb-[2.5rem] md:pb-[5rem]" style="background-color:#EEF4FB">
+        <div class="py-[6rem] sm:py-[10rem] ">
             <div class="main-container text-center">
-                <h2 class="mb-[3rem] sm:mb-[6rem]"></h2>
-            </div>
-            <div class="xl:ml-[calc((100%-1270px)/2)] ">
-                <div class="slider-wrapper relative ">
-                    <div class="ysm-slider posts-slider" dots="1" speed="700" slidesToShow_xl="1"
-                        slidesToShow_lg="1" slidesToShow_md="1" slidesToShow_sm="1" slidesToScroll="1"
-                        centerMode="0">
-                        <div class="slide-wrap bg-light rounded-[2rem] mb-[3rem]  w-full mx-[1.5rem] relative group  ">
-                            <div class="flex md:flex-row flex-col">
-                                <div
-                                    class="md:w-[46.66666666666667%] md:pl-[5.333333333333333%] pr-[3rem] py-[3rem] pl-[3rem]  extra-line-height slide-match-height order-2 md:order-1">
-                                    <h3 class="text-[2rem] sm:text-[3.2rem] mb-[3rem] "></h3>
-                                    <p>يهدف فريقنا الطبي المتخصص إلى توفير معلومات طبية حول أحدث التقنيات في طب ترميم
-                                        وتجميل الأسنان، وتقديمها بأسلوب سهل الفهم، سواء كانت نصوصاً مكتوبة أو مرئية.
-                                        <br />
-                                        نحرص بذلك على توضيح طرق العناية الصحيحة بالأسنان وأحدث الطرق العلاجية
-                                        والتجميلية، وذلك لإبقائك على اطلاع دائم بأفضل الخيارات المتاحة للحفاظ على أسنانك
-                                        صحية ونظيفة.
-                                    </p>
-                                </div>
-                                <div class="md:flex-1 h-[30rem] md:min-h-[53.2rem] order-1 md:order-2">
-                                    <div style="background-image:url(../wp-content/uploads/2023/08/dentist-doctor-uniform-writing-information-patient-paperwork-checklist-clipboard-1.png);"
-                                        class="w-full h-full rounded-[2rem] bg-cover bg-no-repeat bg-center "></div>
-                                </div>
-                            </div>
-                            <a class="absolute left-0 top-0 right-0 bottom-0" href></a>
-                        </div>
-                        <div class="slide-wrap bg-light rounded-[2rem] mb-[3rem]  w-full mx-[1.5rem] relative group  ">
-                            <div class="flex md:flex-row flex-col">
-                                <div
-                                    class="md:w-[46.66666666666667%] md:pl-[5.333333333333333%] pr-[3rem] py-[3rem] pl-[3rem]  extra-line-height slide-match-height order-2 md:order-1">
-                                    <h3 class="text-[2rem] sm:text-[3.2rem] mb-[3rem] "></h3>
-                                    <p>نتمنى لك قراءة ممتعة و الاستفادة من محتوي يس سمايل وأن يساعدك في المحافظة على
-                                        أسنانك بشكل صحيح وأن تحافظ على ابتسامة جميلة. <br />
-                                        شكراً لثقتك بنا، ونتمنى لك قراءة ممتعة.</p>
-                                </div>
-                                <div class="md:flex-1 h-[30rem] md:min-h-[53.2rem] order-1 md:order-2">
-                                    <div style="background-image:url(../wp-content/uploads/2023/08/dental-care-arrangement-copy-space-1.png);"
-                                        class="w-full h-full rounded-[2rem] bg-cover bg-no-repeat bg-center "></div>
-                                </div>
-                            </div>
-                            <a class="absolute left-0 top-0 right-0 bottom-0" href></a>
-                        </div>
-                    </div>
-                </div>
+                <span class="text-[2.2rem] font-bold text-dark/50">05.06.2023</span>
+                <h1>أسباب تؤدي إلى إزالة تركيبات الزيركون وإعادة تركيبها</h1>
             </div>
         </div>
 
 
-        <div class="md:pt-[5rem] pb-[7rem] relative" style="background-color:#EEF4FB">
-            <div class="main-container text-center">
-                <h2 class="mb-[3rem] sm:mb-[6rem]">تجميل الأسنان فى <b>YesSmile</b></h2>
-            </div>
-            <div class="main-container">
-                <div class="grid grid-cols-1 lg:grid-cols-12 relative">
-                    <div class="lg:col-span-4">
-                        <div
-                            class="px-[3rem] py-[1rem] flex md:hidden bg-light rounded-[2rem] mb-[3rem] flex-col filters-wrap relative cursor-pointer filters-toggle">
-                            <h3 class="text-[2.4rem] mb-0">فئات</h3>
-                            <div style="background-image:url(../wp-content/themes/yessmile-wp/assets/images/dropdown-icon.svg);"
-                                class="filter-icon block md:small absolute left-[3rem] top-1/2 transition ease-out -translate-y-1/2 w-[3rem] h-[3rem] bg-no-repeat bg-contain bg-center">
-                            </div>
-                        </div>
-                        <div
-                            class="p-[3rem]  bg-light rounded-[2rem] mb-[3rem] flex-col transition-all ease-in-out filters-wrap hidden md:flex filters-box">
-                            <div class="hidden md:flex">
-                                <h3 class="text-[3.6rem]">فئات</h3>
-                            </div>
-                            <div class="cat-item selected" term-id="-1">الكل</div>
-                            <div class="cat-item" term-id="8">ترميم الأسنان</div>
-                            <div class="cat-item" term-id="2">علاجات اللثة التجميلية</div>
-                            <div class="cat-item" term-id="4">علاجات الأسنان "الحشوات والتركيبات"</div>
-                            <div class="cat-item" term-id="5">تجارب مرضى يس سمايل</div>
-                        </div>
-                    </div>
-                    <div class="lg:col-start-6 lg:col-span-7  scroll-posts-wrap relative overflow-y-clip">
-                        <div class="snap-y overflow-y-auto h-[100vh] md:pb-[10rem]">
-
-                            <div class="p-[3rem] flex flex-col md:flex-row bg-light rounded-[2rem] mb-[3rem] relative group featured-post-item"
-                                cat-ids="4">
-                                <div
-                                    class="flex md:flex-1 flex-col gap-y-[2rem] md:gap-y-0 justify-between md:pl-[13.42281879194631%] order-2 md:order-1">
-                                    <div class="mt-[2rem] md:mt-0"><span
-                                            class="text-primary opacity-[.3] text-[2rem] font-bold ">05.06.2023</span>
-                                    </div>
-                                    <h3 class="mb-0">أسباب تؤدي إلى إزالة تركيبات الزيركون وإعادة تركيبها</h3>
-                                    <div class="post-list-content-box">
-                                        <p class="mb-0">نحرص بذلك على توضيح طرق العناية الصحيحة بالأسنان وأحدث الطرق
-                                            العلاجية والتجميلية، وذلك لإبقائك على اطلاع دائم بأفضل الخيارات
-                                            المتاحة.&hellip;</p>
-                                    </div>
-                                    <div class="btn-secondary small left-arrow ">
-                                        <a class="transition ease-in  group-hover:scale-[1.1]"
-                                            href="../removal-of-zirconia-teeth-2/index.html">متابعة</a>
-                                    </div>
-                                </div>
-                                <div class="order-1 md:order-2">
-                                    <div class="h-[26rem] w-[26rem]  bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                        style="background-image:url(../wp-content/uploads/2023/06/%d8%a7%d9%84%d9%81%d8%b1%d9%82-%d8%a8%d9%8a%d9%86-%d8%b2%d8%b1%d8%a7%d8%b9%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d9%86%d8%a7%d9%86-%d8%a7%d9%84%d9%81%d9%88%d8%b1%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%82%d9%84%d9%8a%d8%af%d9%8a%d8%a9-copy-300x168.webp)">
-                                    </div>
-                                </div>
-                                <a class="absolute left-0 top-0 right-0 bottom-0"
-                                    href="../removal-of-zirconia-teeth-2/index.html"></a>
-                            </div>
-
-
-                            <div class="p-[3rem] flex flex-col md:flex-row bg-light rounded-[2rem] mb-[3rem] relative group featured-post-item"
-                                cat-ids="3">
-                                <div
-                                    class="flex md:flex-1 flex-col gap-y-[2rem] md:gap-y-0 justify-between md:pl-[13.42281879194631%] order-2 md:order-1">
-                                    <div class="mt-[2rem] md:mt-0"><span
-                                            class="text-primary opacity-[.3] text-[2rem] font-bold ">22.02.2023</span>
-                                    </div>
-                                    <h3 class="mb-0">أشياء يجب معرفتها قبل تركيب فينير الاسنان</h3>
-                                    <div class="post-list-content-box">
-                                        <p class="mb-0">فينير الأسنان هو خطوة محورية للغاية في رحلة تصميم الابتسامة
-                                            المثالية. ولكن! هناك الكثير من التفاصيل طوال مسيرك في هذه&hellip;</p>
-                                    </div>
-                                    <div class="btn-secondary small left-arrow ">
-                                        <a class="transition ease-in  group-hover:scale-[1.1]"
-                                            href="../before-installing-dental-veneers/index.html">متابعة</a>
-                                    </div>
-                                </div>
-                                <div class="order-1 md:order-2">
-                                    <div class="h-[26rem] w-[26rem]  bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                        style="background-image:url(../wp-content/uploads/2023/02/%d9%82%d8%a8%d9%84-%d8%aa%d8%b1%d9%83%d9%8a%d8%a8-%d9%81%d9%8a%d9%86%d9%8a%d8%b1-%d8%a7%d9%84%d8%a7%d8%b3%d9%86%d8%a7%d9%86-300x180.webp)">
-                                    </div>
-                                </div>
-                                <a class="absolute left-0 top-0 right-0 bottom-0"
-                                    href="../before-installing-dental-veneers/index.html"></a>
-                            </div>
-
-
-                            <div class="p-[3rem] flex flex-col md:flex-row bg-light rounded-[2rem] mb-[3rem] relative group featured-post-item"
-                                cat-ids="3">
-                                <div
-                                    class="flex md:flex-1 flex-col gap-y-[2rem] md:gap-y-0 justify-between md:pl-[13.42281879194631%] order-2 md:order-1">
-                                    <div class="mt-[2rem] md:mt-0"><span
-                                            class="text-primary opacity-[.3] text-[2rem] font-bold ">09.03.2023</span>
-                                    </div>
-                                    <h3 class="mb-0">أعرف الفرق بين الكومبوزيت وفينير البورسلين</h3>
-                                    <div class="post-list-content-box">
-                                        <p class="mb-0">رقائق الفينير لها أنواع كثيرة، منها البورسلين، وبورسلين
-                                            الإيماكس، والزيركون، والكومبوزيت. جمال ابتسامتك الجديدة مرهون باختيارك من
-                                            بين هذه الأنواع.&hellip;</p>
-                                    </div>
-                                    <div class="btn-secondary small left-arrow ">
-                                        <a class="transition ease-in  group-hover:scale-[1.1]"
-                                            href="../composite-and-porcelain-veneers-differences/index.html">متابعة</a>
-                                    </div>
-                                </div>
-                                <div class="order-1 md:order-2">
-                                    <div class="h-[26rem] w-[26rem]  bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                        style="background-image:url(../wp-content/uploads/2023/03/%d8%a7%d9%84%d9%81%d8%b1%d9%82-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d9%83%d9%88%d9%85%d8%a8%d9%88%d8%b2%d9%8a%d8%aa-%d9%88%d9%81%d9%8a%d9%86%d9%8a%d8%b1-%d8%a7%d9%84%d8%a8%d9%88%d8%b1%d8%b3%d9%84%d9%8a%d9%86-300x150.webp)">
-                                    </div>
-                                </div>
-                                <a class="absolute left-0 top-0 right-0 bottom-0"
-                                    href="../composite-and-porcelain-veneers-differences/index.html"></a>
-                            </div>
-
-
-                            <div class="p-[3rem] flex flex-col md:flex-row bg-light rounded-[2rem] mb-[3rem] relative group featured-post-item"
-                                cat-ids="8">
-                                <div
-                                    class="flex md:flex-1 flex-col gap-y-[2rem] md:gap-y-0 justify-between md:pl-[13.42281879194631%] order-2 md:order-1">
-                                    <div class="mt-[2rem] md:mt-0"><span
-                                            class="text-primary opacity-[.3] text-[2rem] font-bold ">23.12.2022</span>
-                                    </div>
-                                    <h3 class="mb-0">أهم 6 أسباب زراعة الأسنان وكيفية تجنب مضاعفات ما بعد العملية
-                                    </h3>
-                                    <div class="post-list-content-box">
-                                        <p class="mb-0">تتعدد أسباب زراعة الأسنان لكنها تظل أفضل خيار مثالي يلجأ إليه
-                                            المريض في حالة فقدانه سن أو أكثر،إذ أن فقد&hellip;</p>
-                                    </div>
-                                    <div class="btn-secondary small left-arrow ">
-                                        <a class="transition ease-in  group-hover:scale-[1.1]"
-                                            href="../dental-implant-reasons/index.html">متابعة</a>
-                                    </div>
-                                </div>
-                                <div class="order-1 md:order-2">
-                                    <div class="h-[26rem] w-[26rem]  bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                        style="background-image:url(../wp-content/uploads/2022/12/%d8%af%d9%88%d8%a7%d8%b9%d9%8a-%d8%b2%d8%b1%d8%a7%d8%b9%d8%a9-%d8%a7%d9%84%d8%a3%d8%b3%d9%86%d8%a7%d9%86-300x130.jpg)">
-                                    </div>
-                                </div>
-                                <a class="absolute left-0 top-0 right-0 bottom-0"
-                                    href="../dental-implant-reasons/index.html"></a>
-                            </div>
-
-
-                            <div class="p-[3rem] flex flex-col md:flex-row bg-light rounded-[2rem] mb-[3rem] relative group featured-post-item"
-                                cat-ids="3">
-                                <div
-                                    class="flex md:flex-1 flex-col gap-y-[2rem] md:gap-y-0 justify-between md:pl-[13.42281879194631%] order-2 md:order-1">
-                                    <div class="mt-[2rem] md:mt-0"><span
-                                            class="text-primary opacity-[.3] text-[2rem] font-bold ">08.02.2023</span>
-                                    </div>
-                                    <h3 class="mb-0">إليك مراحل تركيب ابتسامة هوليود في 7 أيام فقط</h3>
-                                    <div class="post-list-content-box">
-                                        <p class="mb-0">لا تستغرق مراحل تركيب ابتسامة هوليود أكثر من 7 أيام فقط! يشرف
-                                            على ذلك نخبة أطباء طب وتجميل الأسنان في&hellip;</p>
-                                    </div>
-                                    <div class="btn-secondary small left-arrow ">
-                                        <a class="transition ease-in  group-hover:scale-[1.1]"
-                                            href="../stages-of-installation-of-a-hollywood-smile/index.html">متابعة</a>
-                                    </div>
-                                </div>
-                                <div class="order-1 md:order-2">
-                                    <div class="h-[26rem] w-[26rem]  bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                        style="background-image:url(../wp-content/uploads/2023/02/%d8%b7%d8%b1%d9%8a%d9%82%d8%a9-%d8%aa%d8%b1%d9%83%d9%8a%d8%a8-%d8%a7%d8%b3%d9%86%d8%a7%d9%86-%d9%87%d9%88%d9%84%d9%8a%d9%88%d8%af-300x130.jpg)">
-                                    </div>
-                                </div>
-                                <a class="absolute left-0 top-0 right-0 bottom-0"
-                                    href="../stages-of-installation-of-a-hollywood-smile/index.html"></a>
-                            </div>
-
-
-                            <div class="p-[3rem] flex flex-col md:flex-row bg-light rounded-[2rem] mb-[3rem] relative group featured-post-item"
-                                cat-ids="3">
-                                <div
-                                    class="flex md:flex-1 flex-col gap-y-[2rem] md:gap-y-0 justify-between md:pl-[13.42281879194631%] order-2 md:order-1">
-                                    <div class="mt-[2rem] md:mt-0"><span
-                                            class="text-primary opacity-[.3] text-[2rem] font-bold ">12.01.2023</span>
-                                    </div>
-                                    <h3 class="mb-0">إيجابيات وسلبيات ابتسامة هوليود</h3>
-                                    <div class="post-list-content-box">
-                                        <p class="mb-0">هل تفكر في عمل ابتسامة هوليود وتريد معرفة إيجابيات وسلبيات
-                                            ابتسامة هوليود إذا كانت إجابتك بنعم، تابعنا فى هذا المقال لتتعرف&hellip;</p>
-                                    </div>
-                                    <div class="btn-secondary small left-arrow ">
-                                        <a class="transition ease-in  group-hover:scale-[1.1]"
-                                            href="../advantages-and-disadvantages-of-hollywood-smile/index.html">متابعة</a>
-                                    </div>
-                                </div>
-                                <div class="order-1 md:order-2">
-                                    <div class="h-[26rem] w-[26rem]  bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                        style="background-image:url(../wp-content/uploads/2023/01/%d8%a5%d9%8a%d8%ac%d8%a7%d8%a8%d9%8a%d8%a7%d8%aa-%d9%88%d8%b3%d9%84%d8%a8%d9%8a%d8%a7%d8%aa-%d8%a7%d8%a8%d8%aa%d8%b3%d8%a7%d9%85%d8%a9-%d9%87%d9%88%d9%84%d9%8a%d9%88%d8%af-4-300x195.webp)">
-                                    </div>
-                                </div>
-                                <a class="absolute left-0 top-0 right-0 bottom-0"
-                                    href="../advantages-and-disadvantages-of-hollywood-smile/index.html"></a>
-                            </div>
-
-
-                            <div class="p-[3rem] flex flex-col md:flex-row bg-light rounded-[2rem] mb-[3rem] relative group featured-post-item"
-                                cat-ids="3">
-                                <div
-                                    class="flex md:flex-1 flex-col gap-y-[2rem] md:gap-y-0 justify-between md:pl-[13.42281879194631%] order-2 md:order-1">
-                                    <div class="mt-[2rem] md:mt-0"><span
-                                            class="text-primary opacity-[.3] text-[2rem] font-bold ">02.01.2023</span>
-                                    </div>
-                                    <h3 class="mb-0">هل ابتسامة هوليود تغني عن التقويم؟</h3>
-                                    <div class="post-list-content-box">
-                                        <p class="mb-0">من أجل تصميم ابتسامة مثالية ننصح باختيار هوليود سمايل 3D؛
-                                            ابتسامة مثالية خالية من العيوب ومطابقة لتطلعاتك تماماً. يقوم أطباؤنا&hellip;
-                                        </p>
-                                    </div>
-                                    <div class="btn-secondary small left-arrow ">
-                                        <a class="transition ease-in  group-hover:scale-[1.1]"
-                                            href="../hollywood-smile-and-orthodontics/index.html">متابعة</a>
-                                    </div>
-                                </div>
-                                <div class="order-1 md:order-2">
-                                    <div class="h-[26rem] w-[26rem]  bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                        style="background-image:url(../wp-content/uploads/2023/01/%d9%87%d9%84-%d8%a7%d8%a8%d8%aa%d8%b3%d8%a7%d9%85%d8%a9-%d9%87%d9%88%d9%84%d9%8a%d9%88%d8%af-%d8%aa%d8%ba%d9%86%d9%8a-%d8%b9%d9%86-%d8%a7%d9%84%d8%aa%d9%82%d9%88%d9%8a%d9%85-300x130.jpg)">
-                                    </div>
-                                </div>
-                                <a class="absolute left-0 top-0 right-0 bottom-0"
-                                    href="../hollywood-smile-and-orthodontics/index.html"></a>
-                            </div>
-
-
-                            <div class="p-[3rem] flex flex-col md:flex-row bg-light rounded-[2rem] mb-[3rem] relative group featured-post-item"
-                                cat-ids="3">
-                                <div
-                                    class="flex md:flex-1 flex-col gap-y-[2rem] md:gap-y-0 justify-between md:pl-[13.42281879194631%] order-2 md:order-1">
-                                    <div class="mt-[2rem] md:mt-0"><span
-                                            class="text-primary opacity-[.3] text-[2rem] font-bold ">08.02.2023</span>
-                                    </div>
-                                    <h3 class="mb-0">إليك مراحل تركيب ابتسامة هوليود في 7 أيام فقط</h3>
-                                    <div class="post-list-content-box">
-                                        <p class="mb-0">لا تستغرق مراحل تركيب ابتسامة هوليود أكثر من 7 أيام فقط! يشرف
-                                            على ذلك نخبة أطباء طب وتجميل الأسنان في&hellip;</p>
-                                    </div>
-                                    <div class="btn-secondary small left-arrow ">
-                                        <a class="transition ease-in  group-hover:scale-[1.1]"
-                                            href="../stages-of-installation-of-a-hollywood-smile/index.html">متابعة</a>
-                                    </div>
-                                </div>
-                                <div class="order-1 md:order-2">
-                                    <div class="h-[26rem] w-[26rem]  bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                        style="background-image:url(../wp-content/uploads/2023/02/%d8%b7%d8%b1%d9%8a%d9%82%d8%a9-%d8%aa%d8%b1%d9%83%d9%8a%d8%a8-%d8%a7%d8%b3%d9%86%d8%a7%d9%86-%d9%87%d9%88%d9%84%d9%8a%d9%88%d8%af-300x130.jpg)">
-                                    </div>
-                                </div>
-                                <a class="absolute left-0 top-0 right-0 bottom-0"
-                                    href="../stages-of-installation-of-a-hollywood-smile/index.html"></a>
-                            </div>
-
-
-                            <div class="p-[3rem] flex flex-col md:flex-row bg-light rounded-[2rem] mb-[3rem] relative group featured-post-item"
-                                cat-ids="3">
-                                <div
-                                    class="flex md:flex-1 flex-col gap-y-[2rem] md:gap-y-0 justify-between md:pl-[13.42281879194631%] order-2 md:order-1">
-                                    <div class="mt-[2rem] md:mt-0"><span
-                                            class="text-primary opacity-[.3] text-[2rem] font-bold ">12.01.2023</span>
-                                    </div>
-                                    <h3 class="mb-0">ابتسامة هوليود أرنبية | صيحة جديدة في تصميم ابتسامات هوليوود
-                                    </h3>
-                                    <div class="post-list-content-box">
-                                        <p class="mb-0">تختلف مفاهيم الجمال بالنسبة إليك عن غيرك، وتختلف معاييره كذلك
-                                            بمرور الوقت. ومنذ ظهرت ابتسامة هوليوود؛ فقد تنوعت الإجراءات
-                                            التجميلية&hellip;</p>
-                                    </div>
-                                    <div class="btn-secondary small left-arrow ">
-                                        <a class="transition ease-in  group-hover:scale-[1.1]"
-                                            href="../hollywood-smile-rabbit-teeth/index.html">متابعة</a>
-                                    </div>
-                                </div>
-                                <div class="order-1 md:order-2">
-                                    <div class="h-[26rem] w-[26rem]  bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                        style="background-image:url(../wp-content/uploads/2023/01/%d8%a7%d8%a8%d8%aa%d8%b3%d8%a7%d9%85%d8%a9-%d9%87%d9%88%d9%84%d9%8a%d9%88%d8%af-%d8%a3%d8%b1%d9%86%d8%a8%d9%8a%d8%a9-300x143.webp)">
-                                    </div>
-                                </div>
-                                <a class="absolute left-0 top-0 right-0 bottom-0"
-                                    href="../hollywood-smile-rabbit-teeth/index.html"></a>
-                            </div>
-
-
-                            <div class="p-[3rem] flex flex-col md:flex-row bg-light rounded-[2rem] mb-[3rem] relative group featured-post-item"
-                                cat-ids="8">
-                                <div
-                                    class="flex md:flex-1 flex-col gap-y-[2rem] md:gap-y-0 justify-between md:pl-[13.42281879194631%] order-2 md:order-1">
-                                    <div class="mt-[2rem] md:mt-0"><span
-                                            class="text-primary opacity-[.3] text-[2rem] font-bold ">21.12.2022</span>
-                                    </div>
-                                    <h3 class="mb-0">تعرف على شكل الاسنان بعد الزراعه وأهم التعليمات للمحافظة على
-                                        الأسنان</h3>
-                                    <div class="post-list-content-box">
-                                        <p class="mb-0">هل تعاني من فقدان أحد أسنانك و تريد تركيب سن جديد ولديك
-                                            الكثير من التساؤلات عن كيفية زراعة الاسنان، وكيف&hellip;</p>
-                                    </div>
-                                    <div class="btn-secondary small left-arrow ">
-                                        <a class="transition ease-in  group-hover:scale-[1.1]"
-                                            href="../teeth-shape-after-implantation/index.html">متابعة</a>
-                                    </div>
-                                </div>
-                                <div class="order-1 md:order-2">
-                                    <div class="h-[26rem] w-[26rem]  bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                        style="background-image:url(../wp-content/uploads/2022/12/%d8%b4%d9%83%d9%84-%d8%a7%d9%84%d8%a7%d8%b3%d9%86%d8%a7%d9%86-%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d8%b2%d8%b1%d8%a7%d8%b9%d9%87-300x130.jpg)">
-                                    </div>
-                                </div>
-                                <a class="absolute left-0 top-0 right-0 bottom-0"
-                                    href="../teeth-shape-after-implantation/index.html"></a>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div
-                class="absolute pointer-events-none h-[20rem] md:h-[30rem] bg-gradient-to-t from-primary-extra-light via-primary-extra-light to-primary-extra-light/0 bottom-0 w-full z-10">
-            </div>
-        </div>
-
-
-        <div class="pt-[3.4rem] md:pt-[10rem] pb-[5rem]" style="background-color:#2A4CC7">
-            <div class="main-container text-center">
-                <h2 class="mb-[3rem] sm:mb-[6rem] text-right text-light">المواضيع الأكثر قراءة</h2>
-            </div>
-            <div class="xl:ml-[calc((100%-1270px)/2)]  ">
-                <div class="slider-wrapper relative">
-                    <div class="ysm-slider posts-slider popular" dots="1" speed="1000" slidesToShow_xl="1"
-                        slidesToShow_lg="1" slidesToShow_md="1" slidesToShow_sm="1" slidesToScroll="1"
-                        centerMode="0">
-                        <div class="slide-wrap bg-light rounded-[2rem] mb-[3rem]  w-full mx-[1.5rem] relative group">
-                            <div style="background-image:url(../wp-content/uploads/2023/02/%d8%a3%d9%81%d8%b6%d9%84-%d9%85%d8%b9%d8%ac%d9%88%d9%86-%d8%aa%d8%a8%d9%8a%d9%8a%d8%b6-%d8%a7%d9%84%d8%a7%d8%b3%d9%86%d8%a7%d9%86-1024x442.jpg);"
-                                class="w-full h-full rounded-[2rem] bg-cover bg-no-repeat bg-center absolute left-0 top-0 right-0 bottom-0 ">
-                            </div>
-                            <div
-                                class="flex justify-end flex-col relative h-[55.1rem] bg-gradient-to-t from-dark/80 via-dark/50 to-dark/0 rounded-[2rem] ">
-                                <div
-                                    class="px-[3.7rem] p-[2.3rem] text-[1.6rem] text-light max-w-[90%] md:max-w-[68.6734693877551%]  ">
-                                    <h3 class="text-[2rem] sm:text-[3.6rem] mb-0 ">أفضل معجون تبييض الأسنان وطرق
-                                        الاستخدام الصحيحة</h3>
-                                    <p class="mb-[1.5rem]">هل تبحث عن طريقة مناسبة من أجل تبييض أسنانك في المنزل
-                                        والحصول على ابتسامة جميلة؟ تعرف معنا على أفضل معجون تبييض الأسنان، والأنواع
-                                        الأخرى التي...</p>
-                                    <span class="text-[1.6rem] font-bold text-light/50">09.02.2023</span>
-                                </div>
-                            </div>
-                            <a class="absolute left-0 top-0 right-0 bottom-0"
-                                href="../the-best-whitening-toothpaste/index.html"></a>
-                        </div>
-                        <div class="slide-wrap bg-light rounded-[2rem] mb-[3rem]  w-full mx-[1.5rem] relative group">
-                            <div style="background-image:url(../wp-content/uploads/2023/02/%d9%81%d9%8a%d9%86%d9%8a%d8%b1-%d8%a7%d9%84%d8%b2%d9%8a%d8%b1%d9%83%d9%88%d9%86-%d9%88%d8%a7%d9%84%d8%a7%d9%8a%d9%85%d8%a7%d9%83%d8%b3-2-1024x563.webp);"
-                                class="w-full h-full rounded-[2rem] bg-cover bg-no-repeat bg-center absolute left-0 top-0 right-0 bottom-0 ">
-                            </div>
-                            <div
-                                class="flex justify-end flex-col relative h-[55.1rem] bg-gradient-to-t from-dark/80 via-dark/50 to-dark/0 rounded-[2rem] ">
-                                <div
-                                    class="px-[3.7rem] p-[2.3rem] text-[1.6rem] text-light max-w-[90%] md:max-w-[68.6734693877551%]  ">
-                                    <h3 class="text-[2rem] sm:text-[3.6rem] mb-0 ">الفرق بين فينير الزيركون والايماكس
-                                        والكمبوزيت</h3>
-                                    <p class="mb-[1.5rem]">فينير الأسنان هو أفضل قرار قد تأخذه لتجميل أسنانك، وهو ذو
-                                        تأثير ساحر للغاية. إذا كنت تبحث عن أفضل ابتسامة جذابة، فهذا المقال سيدلك على...
-                                    </p>
-                                    <span class="text-[1.6rem] font-bold text-light/50">28.02.2023</span>
-                                </div>
-                            </div>
-                            <a class="absolute left-0 top-0 right-0 bottom-0"
-                                href="../emax-vs-zirconia-veneers/index.html"></a>
-                        </div>
-                        <div class="slide-wrap bg-light rounded-[2rem] mb-[3rem]  w-full mx-[1.5rem] relative group">
-                            <div style="background-image:url(../wp-content/uploads/2023/02/%d8%af%d8%b1%d8%ac%d8%a7%d8%aa-%d8%a7%d9%84%d9%88%d8%a7%d9%86-%d9%81%d9%8a%d9%86%d9%8a%d8%b1-%d8%a7%d9%84%d8%a7%d8%b3%d9%86%d8%a7%d9%86-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%b9%d9%8a%d8%a9-3-1024x576.webp);"
-                                class="w-full h-full rounded-[2rem] bg-cover bg-no-repeat bg-center absolute left-0 top-0 right-0 bottom-0 ">
-                            </div>
-                            <div
-                                class="flex justify-end flex-col relative h-[55.1rem] bg-gradient-to-t from-dark/80 via-dark/50 to-dark/0 rounded-[2rem] ">
-                                <div
-                                    class="px-[3.7rem] p-[2.3rem] text-[1.6rem] text-light max-w-[90%] md:max-w-[68.6734693877551%]  ">
-                                    <h3 class="text-[2rem] sm:text-[3.6rem] mb-0 ">درجات ألوان فينير الأسنان الطبيعية
-                                    </h3>
-                                    <p class="mb-[1.5rem]">إذا كنت ترغب في تركيب عدسات فينير الأسنان؛ إذاً فأنت تبحث عن
-                                        ابتسامة مثالية وجذابة. في هذه الحال ننصحك باختيار واحد من الأنواع الثلاثة
-                                        الأفضل...</p>
-                                    <span class="text-[1.6rem] font-bold text-light/50">21.02.2023</span>
-                                </div>
-                            </div>
-                            <a class="absolute left-0 top-0 right-0 bottom-0"
-                                href="../veneer-color-chart/index.html"></a>
-                        </div>
-                    </div>
-                    <div class="main-container relative xl:ml-0 ">
-                        <span
-                            class="slick-nav cursor-pointer prev absolute inline-block w-[4.4rem] h-[4.4rem] bottom-[-1rem] rounded-full md:right-[7rem] right-[8rem] bg-center bg-no-repeat bg-[url(../images/pop-prev-icon.svg)] "></span>
-                        <span
-                            class="slick-nav cursor-pointer next absolute inline-block w-[4.4rem] h-[4.4rem] bottom-[-1rem] rounded-full md:right-0 right-[1.5rem] bg-center bg-no-repeat bg-[url(../images/pop-next-icon.svg)]  "></span>
-                    </div>
+        <div class="main-container relative">
+            <div class="h-[20rem] md:h-[55rem]  relative flex justify-start bg-[#e8f5fc] rounded-[5rem]">
+                <div class="  absolute bg-no-repeat bg-cover opacity-20 md:opacity-100 rounded-[5rem] bg-center z-0 left-0 top-0 right-0 bottom-0"
+                    style="background-image:url(../wp-content/uploads/2023/06/%d8%a7%d9%84%d9%81%d8%b1%d9%82-%d8%a8%d9%8a%d9%86-%d8%b2%d8%b1%d8%a7%d8%b9%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d9%86%d8%a7%d9%86-%d8%a7%d9%84%d9%81%d9%88%d8%b1%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%82%d9%84%d9%8a%d8%af%d9%8a%d8%a9-copy.webp)">
                 </div>
             </div>
         </div>
-
-
-        <div class="py-[6rem] sm:py-[10rem]" style="background-color:#EEF4FB" id="posts_list">
-            <div class="main-container">
-                <h2 class="mb-[3rem] sm:mb-[6rem] text-center">المزيد من المقالات</h2>
-                <div class="grid grid-cols-1 lg:grid-cols-2 gap-x-[3rem] gap-y-[1.5rem]">
-
-                    <div
-                        class="p-[2rem] flex  rounded-[2rem] mb-[3rem] border-[.2rem] border-primary/50 relative transition ease-linear hover:bg-light">
-                        <div class="flex flex-1 pl-[13.42281879194631%]">
-                            <div class="post-list-content-box-two relative flex flex-col justify-between">
-                                <div><span class="text-primary opacity-[.3] text-[2rem] font-bold ">27.02.2024</span>
-                                </div>
-                                <h3 class="mb-[1rem]">الطريقة الصحيحة لاستخدام جل تثبيت طقم الأسنان</h3>
-                                <p class="hidden md:flex">جل تثبيت طقم الأسنان هو لاصق يستخدم لتثبيت تركيبات
-                                    الأسنان&hellip;</p>
-                                <div class>
-                                    <a href="../denture-fixing-gel/index.html">متابعة ></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="h-[9.4rem] md:h-[18.5rem] w-[9rem] md:w-[18.5rem] bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                style="background-image:url(../wp-content/uploads/2024/02/%d8%ac%d9%84-%d8%aa%d8%ab%d8%a8%d9%8a%d8%aa-%d8%b7%d9%82%d9%85-%d8%a7%d9%84%d8%a3%d8%b3%d9%86%d8%a7%d9%86-2-300x200.webp)">
-                            </div>
-                        </div>
-                        <a class="absolute left-0 top-0 right-0 bottom-0" href="../denture-fixing-gel/index.html"></a>
+        <div class="main-container">
+            <div id="breadcrumbs" style="padding: 15px; font-size: 12px;"><span><span><a
+                            href="../index.html">الرئيسية</a></span> » <span><a
+                            href="../category/%d8%b9%d9%84%d8%a7%d8%ac%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%b3%d9%86%d8%a7%d9%86-%d8%a7%d9%84%d8%ad%d8%b4%d9%88%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a%d8%a8%d8%a7%d8%aa/index.html">علاجات
+                            الأسنان "الحشوات والتركيبات"</a></span> » <span class="breadcrumb_last"
+                        aria-current="page">أسباب تؤدي إلى إزالة تركيبات الزيركون وإعادة تركيبها</span></span></div>
+        </div>
+        <div
+            class="pb-[10rem] bg-primary-extra-light -mt-[10rem] md:-mt-[30rem] pt-[15rem] md:pt-[40rem] rounded-[5rem]">
+            <div class="main-container grid grid-cols-12 gap-[1.5rem] ">
+                <div class="col-span-12 md:col-span-7 single-post-content-wrap">
+                    <p>تركيبة الزيركون هي من أفضل تركيبات الأسنان وأكثرهم قوة؛ وهي تغير حياة المريض جذرياً. فهي تمنحك
+                        ابتسامة جميلة، ولها نتيجة طبية مذهلة في ترميم وتعويض الأسنان، لكن في بعض الأحيان قد نحتاج إلى
+                        خلع تركيبات الزريكون، وفي هذا المقال سوف نتعرف على أشهر أسباب تؤدي إلى إزالة تركيبات الزيركون..
+                        تابعونا.</p>
+                    <p>  <strong>جدول المحتويات</strong></p>
+                    <ol>
+                        <li>لماذا قد تحتاج إلى إزالة تركيبات الزيركون؟</li>
+                        <li>كيف يتم خلع اسنان الزيركون لاستبدالها؟</li>
+                        <li>أضرار ازالة تلبيسات الزيركون</li>
+                        <li>كيفية المحافظة على تركيبة الاسنان الزيركون لتجنب الخلع</li>
+                        <li>أسئلة شائعة</li>
+                    </ol>
+                    <h2> أشهر 6 استخدامات لأسنان الزيركون:</h2>
+                    <ol>
+                        <li>ترميم الأسنان</li>
+                        <li>حشوات البطانة</li>
+                        <li>تعويض الأسنان المفقودة</li>
+                        <li>سد الفجوات بين الأسنان</li>
+                        <li><a href="../veneer-types/index.html">تركيبة تجميلية</a>؛ تزيد جمال ابتسامتك</li>
+                        <li>تلبيس زرعات الأسنان، وهي نوع من تركيبة الزيركون المستعمل في عمليات الزراعة.</li>
+                    </ol>
+                    <h2 class="wp-block-heading">أسباب تؤدي إلى إزالة تركيبات الزيركون</h2>
+                    <div id="attachment_7223" style="width: 608px" class="wp-caption aligncenter"><img
+                            fetchpriority="high" decoding="async" aria-describedby="caption-attachment-7223"
+                            class="wp-image-7223"
+                            src="../wp-content/uploads/2023/04/%d8%a5%d8%b2%d8%a7%d9%84%d8%a9-%d8%aa%d8%b1%d9%83%d9%8a%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7%d8%b3%d9%86%d8%a7%d9%86-%d8%a7%d9%84%d8%b2%d9%8a%d8%b1%d9%83%d9%88%d9%86-e1686232942179-1024x558.webp"
+                            alt="إزالة تركيبات الاسنان الزيركون" width="598" height="326" />
+                        <p id="caption-attachment-7223" class="wp-caption-text">أسباب تؤدي إلى إزالة تركيبات الزيركون
+                        </p>
                     </div>
-
-
-                    <div
-                        class="p-[2rem] flex  rounded-[2rem] mb-[3rem] border-[.2rem] border-primary/50 relative transition ease-linear hover:bg-light">
-                        <div class="flex flex-1 pl-[13.42281879194631%]">
-                            <div class="post-list-content-box-two relative flex flex-col justify-between">
-                                <div><span class="text-primary opacity-[.3] text-[2rem] font-bold ">23.02.2024</span>
-                                </div>
-                                <h3 class="mb-[1rem]">سعر طقم أسنان سيليكون والأكريليك والمعدني</h3>
-                                <p class="hidden md:flex">إذا كنت في رحلة البحث عن أفضل طقم أسنان فهذا&hellip;</p>
-                                <div class>
-                                    <a href="../silicone-denture-price/index.html">متابعة ></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="h-[9.4rem] md:h-[18.5rem] w-[9rem] md:w-[18.5rem] bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                style="background-image:url(../wp-content/uploads/2024/02/%d8%b3%d8%b9%d8%b1-%d8%b7%d9%82%d9%85-%d8%a3%d8%b3%d9%86%d8%a7%d9%86-%d8%b3%d9%8a%d9%84%d9%8a%d9%83%d9%88%d9%86-2-300x169.webp)">
-                            </div>
-                        </div>
-                        <a class="absolute left-0 top-0 right-0 bottom-0"
-                            href="../silicone-denture-price/index.html"></a>
-                    </div>
-
-
-                    <div
-                        class="p-[2rem] flex  rounded-[2rem] mb-[3rem] border-[.2rem] border-primary/50 relative transition ease-linear hover:bg-light">
-                        <div class="flex flex-1 pl-[13.42281879194631%]">
-                            <div class="post-list-content-box-two relative flex flex-col justify-between">
-                                <div><span class="text-primary opacity-[.3] text-[2rem] font-bold ">22.02.2024</span>
-                                </div>
-                                <h3 class="mb-[1rem]">العناية بأطقم الأسنان: ما هي طريقة حفظ طقم الأسنان؟</h3>
-                                <p class="hidden md:flex">العناية بأطقم الأسنان لا تحافظ على صحتك الفموية فقط!
-                                    فهي&hellip;</p>
-                                <div class>
-                                    <a href="../denture-care/index.html">متابعة ></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="h-[9.4rem] md:h-[18.5rem] w-[9rem] md:w-[18.5rem] bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                style="background-image:url(../wp-content/uploads/2024/02/%d8%a7%d9%84%d8%b9%d9%86%d8%a7%d9%8a%d8%a9-%d8%a8%d8%a3%d8%b7%d9%82%d9%85-%d8%a7%d9%84%d8%a3%d8%b3%d9%86%d8%a7%d9%86-300x200.webp)">
-                            </div>
-                        </div>
-                        <a class="absolute left-0 top-0 right-0 bottom-0" href="../denture-care/index.html"></a>
-                    </div>
-
-
-                    <div
-                        class="p-[2rem] flex  rounded-[2rem] mb-[3rem] border-[.2rem] border-primary/50 relative transition ease-linear hover:bg-light">
-                        <div class="flex flex-1 pl-[13.42281879194631%]">
-                            <div class="post-list-content-box-two relative flex flex-col justify-between">
-                                <div><span class="text-primary opacity-[.3] text-[2rem] font-bold ">22.02.2024</span>
-                                </div>
-                                <h3 class="mb-[1rem]">كم سعر تركيبة الأسنان المتحركة؟</h3>
-                                <p class="hidden md:flex">تركيبات الأسنان هي بديل مناسب لزراعة الأسنان، حيث أنها
-                                    تقدم&hellip;</p>
-                                <div class>
-                                    <a href="../price-of-removable-dentures/index.html">متابعة ></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="h-[9.4rem] md:h-[18.5rem] w-[9rem] md:w-[18.5rem] bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                style="background-image:url(../wp-content/uploads/2024/02/%d8%b3%d8%b9%d8%b1-%d8%aa%d8%b1%d9%83%d9%8a%d8%a8%d8%a9-%d8%a7%d9%84%d8%a3%d8%b3%d9%86%d8%a7%d9%86-%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%b1%d9%83%d8%a9-300x157.webp)">
-                            </div>
-                        </div>
-                        <a class="absolute left-0 top-0 right-0 bottom-0"
-                            href="../price-of-removable-dentures/index.html"></a>
-                    </div>
-
-
-                    <div
-                        class="p-[2rem] flex  rounded-[2rem] mb-[3rem] border-[.2rem] border-primary/50 relative transition ease-linear hover:bg-light">
-                        <div class="flex flex-1 pl-[13.42281879194631%]">
-                            <div class="post-list-content-box-two relative flex flex-col justify-between">
-                                <div><span class="text-primary opacity-[.3] text-[2rem] font-bold ">21.02.2024</span>
-                                </div>
-                                <h3 class="mb-[1rem]">مسكن ألم الأسنان | أنواع آمنة للحوامل وأصحاب الأمراض المزمنة</h3>
-                                <p class="hidden md:flex">ينصف ألم الأسنان على أنه من أشد أنواع الألم، وفي&hellip;</p>
-                                <div class>
-                                    <a href="../toothache-reliever/index.html">متابعة ></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="h-[9.4rem] md:h-[18.5rem] w-[9rem] md:w-[18.5rem] bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                style="background-image:url(../wp-content/uploads/2024/02/%d9%85%d8%b3%d9%83%d9%86-%d8%a3%d9%84%d9%85-%d8%a7%d9%84%d8%a3%d8%b3%d9%86%d8%a7%d9%86-300x150.webp)">
-                            </div>
-                        </div>
-                        <a class="absolute left-0 top-0 right-0 bottom-0" href="../toothache-reliever/index.html"></a>
-                    </div>
-
-
-                    <div
-                        class="p-[2rem] flex  rounded-[2rem] mb-[3rem] border-[.2rem] border-primary/50 relative transition ease-linear hover:bg-light">
-                        <div class="flex flex-1 pl-[13.42281879194631%]">
-                            <div class="post-list-content-box-two relative flex flex-col justify-between">
-                                <div><span class="text-primary opacity-[.3] text-[2rem] font-bold ">20.02.2024</span>
-                                </div>
-                                <h3 class="mb-[1rem]">جراحة الأسنان المدفونة لتصحيح الأسنان</h3>
-                                <p class="hidden md:flex">إذا طُلب منك الاختيار بين خلع أسنانك أو إجراء جراحة&hellip;
-                                </p>
-                                <div class>
-                                    <a href="../buried-dental-surgery/index.html">متابعة ></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="h-[9.4rem] md:h-[18.5rem] w-[9rem] md:w-[18.5rem] bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                style="background-image:url(../wp-content/uploads/2024/02/%d8%ac%d8%b1%d8%a7%d8%ad%d8%a9-%d8%a7%d9%84%d8%a3%d8%b3%d9%86%d8%a7%d9%86-%d8%a7%d9%84%d9%85%d8%af%d9%81%d9%88%d9%86%d8%a9-300x200.webp)">
-                            </div>
-                        </div>
-                        <a class="absolute left-0 top-0 right-0 bottom-0"
-                            href="../buried-dental-surgery/index.html"></a>
-                    </div>
-
-
-                    <div
-                        class="p-[2rem] flex  rounded-[2rem] mb-[3rem] border-[.2rem] border-primary/50 relative transition ease-linear hover:bg-light">
-                        <div class="flex flex-1 pl-[13.42281879194631%]">
-                            <div class="post-list-content-box-two relative flex flex-col justify-between">
-                                <div><span class="text-primary opacity-[.3] text-[2rem] font-bold ">15.02.2024</span>
-                                </div>
-                                <h3 class="mb-[1rem]">الفرق بين خيط الأسنان المشمع والغير مشمع</h3>
-                                <p class="hidden md:flex">سواء خيط الأسنان المشمع والغير مشمع فهو جزء أساسي من&hellip;
-                                </p>
-                                <div class>
-                                    <a href="../waxed-and-unwaxed-dental-floss/index.html">متابعة ></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="h-[9.4rem] md:h-[18.5rem] w-[9rem] md:w-[18.5rem] bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                style="background-image:url(../wp-content/uploads/2024/02/%d8%ae%d9%8a%d8%b7-%d8%a7%d9%84%d8%a3%d8%b3%d9%86%d8%a7%d9%86-%d8%a7%d9%84%d9%85%d8%b4%d9%85%d8%b9-%d9%88%d8%a7%d9%84%d8%ba%d9%8a%d8%b1-%d9%85%d8%b4%d9%85%d8%b9-300x169.webp)">
-                            </div>
-                        </div>
-                        <a class="absolute left-0 top-0 right-0 bottom-0"
-                            href="../waxed-and-unwaxed-dental-floss/index.html"></a>
-                    </div>
-
-
-                    <div
-                        class="p-[2rem] flex  rounded-[2rem] mb-[3rem] border-[.2rem] border-primary/50 relative transition ease-linear hover:bg-light">
-                        <div class="flex flex-1 pl-[13.42281879194631%]">
-                            <div class="post-list-content-box-two relative flex flex-col justify-between">
-                                <div><span class="text-primary opacity-[.3] text-[2rem] font-bold ">14.02.2024</span>
-                                </div>
-                                <h3 class="mb-[1rem]">ما هي معايير اختيار فرشاة إزالة الجير وتنظيف الأسنان؟</h3>
-                                <p class="hidden md:flex">العناية بنظافة الأسنان هو روتين يومي مهم للغاية، وذلك
-                                    للحفاظ&hellip;</p>
-                                <div class>
-                                    <a href="../tartar-removal-toothbrush/index.html">متابعة ></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="h-[9.4rem] md:h-[18.5rem] w-[9rem] md:w-[18.5rem] bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                style="background-image:url(../wp-content/uploads/2024/02/%d9%81%d8%b1%d8%b4%d8%a7%d8%a9-%d8%a5%d8%b2%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%ac%d9%8a%d8%b1-3-300x180.webp)">
-                            </div>
-                        </div>
-                        <a class="absolute left-0 top-0 right-0 bottom-0"
-                            href="../tartar-removal-toothbrush/index.html"></a>
-                    </div>
-
-
-                    <div
-                        class="p-[2rem] flex  rounded-[2rem] mb-[3rem] border-[.2rem] border-primary/50 relative transition ease-linear hover:bg-light">
-                        <div class="flex flex-1 pl-[13.42281879194631%]">
-                            <div class="post-list-content-box-two relative flex flex-col justify-between">
-                                <div><span class="text-primary opacity-[.3] text-[2rem] font-bold ">08.02.2024</span>
-                                </div>
-                                <h3 class="mb-[1rem]">كيف سيتغير شكل ابتسامتك قبل وبعد تنظيف الأسنان؟</h3>
-                                <p class="hidden md:flex">تنظيف الأسنان له دور مهم للغاية في الحفاظ على نظافة&hellip;
-                                </p>
-                                <div class>
-                                    <a href="../before-and-after-brushing-teeth/index.html">متابعة ></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="h-[9.4rem] md:h-[18.5rem] w-[9rem] md:w-[18.5rem] bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                style="background-image:url(../wp-content/uploads/2024/02/%d9%82%d8%a8%d9%84-%d9%88%d8%a8%d8%b9%d8%af-%d8%aa%d9%86%d8%b8%d9%8a%d9%81-%d8%a7%d9%84%d8%a3%d8%b3%d9%86%d8%a7%d9%86-300x199.webp)">
-                            </div>
-                        </div>
-                        <a class="absolute left-0 top-0 right-0 bottom-0"
-                            href="../before-and-after-brushing-teeth/index.html"></a>
-                    </div>
-
-
-                    <div
-                        class="p-[2rem] flex  rounded-[2rem] mb-[3rem] border-[.2rem] border-primary/50 relative transition ease-linear hover:bg-light">
-                        <div class="flex flex-1 pl-[13.42281879194631%]">
-                            <div class="post-list-content-box-two relative flex flex-col justify-between">
-                                <div><span class="text-primary opacity-[.3] text-[2rem] font-bold ">08.02.2024</span>
-                                </div>
-                                <h3 class="mb-[1rem]">تنظيف الجير بالليزر | ما هو مقدار تأثيره وكفاءته؟</h3>
-                                <p class="hidden md:flex">تجميل الأسنان بالليزر كان له دور كبير في تغيير شكل&hellip;
-                                </p>
-                                <div class>
-                                    <a href="../laser-teeth-cleaning/index.html">متابعة ></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="h-[9.4rem] md:h-[18.5rem] w-[9rem] md:w-[18.5rem] bg-cover bg-no-repeat  rounded-[2rem] bg-[#e8f5fc]"
-                                style="background-image:url(../wp-content/uploads/2024/02/%d8%aa%d9%86%d8%b8%d9%8a%d9%81-%d8%a7%d9%84%d8%ac%d9%8a%d8%b1-%d8%a8%d8%a7%d9%84%d9%84%d9%8a%d8%b2%d8%b1-300x200.webp)">
-                            </div>
-                        </div>
-                        <a class="absolute left-0 top-0 right-0 bottom-0"
-                            href="../laser-teeth-cleaning/index.html"></a>
-                    </div>
-
-                </div>
-                <div class="pagination-wrap">
-                    <ul class="pagination__list">
-                        <li class="pagination__list-item pagination__list-item--current"><a
-                                href="index.html#posts_list">1</a></li>
-                        <li class="pagination__list-item"><a href="page/2/index.html#posts_list">2</a></li>
+                    <p>في الفقرة التالية سوف نتعرف على أسباب تؤدي إلى إزالة تركيبات الزيركون:-</p>
+                    <h3>انتهاء العمر الافتراضي</h3>
+                    <p>لاحظ أن تركيبات الزيركون قد تدوم لما يصل إلى 15 عاماً إذا اهتممت بها. وستحتاج إلى استبدالها بأخرى
+                        جديدة بعد ذلك.</p>
+                    <h3>ضعف وتشقق الأسنان</h3>
+                    <p>وهذا يحدث في حال إهمال التوصيات الطبية التي نوصيك بها، أو بانقضاء عمر طويل على تركيب هذه الأسنان.
+                    </p>
+                    <h3>تسوس الأسنان</h3>
+                    <p>وذلك يحدث في بعض الأحيان، أن تنمو البكتيريا بالسن الأصلي تحت تركيبة الزيركون.</p>
+                    <h3>التهاب اللثة</h3>
+                    <p>وهنا قد نضطر إلى إزالة تركيبات الزيركون، وعلاج مشكلة اللثة والسبب الأصلي وراءها.</p>
+                    <h3>انكسار تركيبة الزيركون</h3>
+                    <p>احتمالية هذا الأمر ضعيفة للغاية، إذ أنها أكثر متانة من أي تركيبات أخرى.</p>
+                    <h3>تصبغ التركيبة وتغير لونها</h3>
+                    <p>على الرغم أن تركيبات الزيركون مقاومة للصبغات؛ إلا أن ذلك لا يكتمل إلا بالعناية بالأسنان.</p>
+                    <h3>عدم التوفيق لاختيار اللون المناسب</h3>
+                    <p>وهذه المشكلة قد تكون مقبولة مع التركيبات الخلفية، ولكنها تسلب المريض الفائدة الجمالية من تركيبات
+                        الزيركون للأسنان الأمامية.</p>
+                    <ul>
+                        <li>نستطيع تحقيق النتيجة المثالية وتفادي هذه المشكلة بمركز يس سمايل؛ وذلك باستخدام كتالوج
+                            الألوان الذي يظهر لك كافة ألوان الأسنان الطبيعية، ونرشح لك الدرجة المناسبة لك.</li>
                     </ul>
+                    <h3>تصميم طبعات سنية غير ملائمة لأسنانك</h3>
+                    <p>إذ أن تصميم تركيبة الأسنان يحتاج مقياساً دقيقاً لتصميم تركيبة مثالية لك، وتحافظ على تناسق
+                        الأسنان.</p>
+                    <p>تمكنا من تفادي هذا الخطأ الذي قد يحدث عند تصميم الأسنان بالمختبر, لذلك؛ جهزنا مختبراً خاصاً بنا
+                        بمركز يس سمايل، يشرف عليه خبراء تركيبات الأسنان في تركيا. بهذا نصمم لك تركيبات أسنان مخصصة
+                        لعملائنا فقط، وباحترافية عالية.</p>
+                    <ol></ol>
+                    <p><strong>دوافع التركيب وأسباب الاستبدال | معلومات تهمك عن تركيبات الزيركون</strong></p>
+                    <figure class="wp-block-table">
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <td class="has-text-align-center" data-align="center"><strong>دوافع
+                                            التركيب</strong></td>
+                                    <td class="has-text-align-center" data-align="center"><strong>أسباب
+                                            الاستبدال</strong></td>
+                                </tr>
+                                <tr>
+                                    <td class="has-text-align-center" data-align="center">ترميم الأسنان وتدعيمها</td>
+                                    <td class="has-text-align-center" data-align="center">انقضاء العمر الافتراضي</td>
+                                </tr>
+                                <tr>
+                                    <td class="has-text-align-center" data-align="center">تعويض الأسنان</td>
+                                    <td class="has-text-align-center" data-align="center">تغيير لون التركيبات</td>
+                                </tr>
+                                <tr>
+                                    <td class="has-text-align-center" data-align="center">تجميل الأسنان</td>
+                                    <td class="has-text-align-center" data-align="center">علاج أمراض الأسنان واللثة
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="has-text-align-center" data-align="center">حشوات البطانة وسد فجوات
+                                        الأسنان</td>
+                                    <td class="has-text-align-center" data-align="center">تصميم تركيبة أكثر ملائمة
+                                        لحجم أسنانك</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </figure>
+                    <h2 class="wp-block-heading">كيف يتم خلع اسنان الزيركون لاستبدالها؟</h2>
+                    <p>إزالة تركيبات الزيركون، أو ازالة الاسنان المركبة جميعاً يجب أن يتم على يد الطبيب، ويمنع خلع اسنان
+                        الزيركون منزلياً دون إشراف طبي.</p>
+                    <p>تعتمد تقنية خلع أو نزع تركيبة الزيركون على حالة التركيبة، ونوع التركيبة نفسها (مثل إذا كانت تاج
+                        أو جسر أسنان) وذلك بشكل أساسي.</p>
+                    <p><strong>طرق ازالة تلبيسة الزيركون تشمل:</strong></p>
+                    <ol>
+                        <li>كسر طبقة اللاصق، وسحب تلبيسة الأسنان دون الإضرار بها</li>
+                        <li>ثقب جزء صغير من تركيبة الأسنان لإزالة اللاصق، ثم استخراج تركيبة الأسنان</li>
+                        <li>تقسيم تركيبة الأسنان إلى أجزاء صغيرة ثم إزالتها.</li>
+                    </ol>
+                    <p>إزالة تركيبات الزيركون والأسنان تتم باحترافية شديدة ودقة متناهية؛ حتى لا نمس السن الطبيعي أو
+                        تركيبة الأسنان بالضرر. وننهي الجلسة في وقت قصير، دون التسبب لك بألم أو انزعاج.</p>
+                    <h2 class="wp-block-heading">هل يتم نزع تلبيسة الاسنان منزليا؟</h2>
+                    <p><strong>لا؛ </strong>ليس عليك أن تنزع تركيبة الأسنان منزلياً؛ فذلك قد يضر بالفم واللثة ويعرضك
+                        للجروح والعدوي، أو بالسن الأصلي. تنزع تركيبات الأسنان في العيادة باحترافية، بدون ألم، وفي وقت
+                        قياسي وتركيب الزيركون الذي يفوق في المتانة .</p>
+                    <h2 class="wp-block-heading">فوائد  ازالة تلبيسات الزيركون</h2>
+                    <div id="attachment_7226" style="width: 549px" class="wp-caption aligncenter"><img
+                            decoding="async" aria-describedby="caption-attachment-7226" class="wp-image-7226"
+                            src="../wp-content/uploads/2023/04/%d9%86%d8%b2%d8%b9-%d8%aa%d9%84%d8%a8%d9%8a%d8%b3%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d9%86%d8%a7%d9%86-e1686233699484-1024x550.webp"
+                            alt=" نزع تلبيسة الاسنان" width="539" height="289" />
+                        <p id="caption-attachment-7226" class="wp-caption-text">فوائد  ازالة تلبيسات الزيركون</p>
+                    </div>
+                    <p>حتى نزيل عنك القلق؛ فإن إزالة تركيبات الزيركون <strong>لا ضرر منها على الأسنان.</strong> ولكن ذلك
+                        لا ينفي أن المرور بمثل هذه التجربة ليس أمراً مريحاً. فلماذا تضطر إلى استبدال السن الجديد بعد مدة
+                        قصيرة؟! بينما ينبغي أن يدوم معك في الوضع الطبيعي لمدة تتراوح بين 10 &#8211; 15 عاماً؟!</p>
+                    <p><strong>في مركز يس سمايل:</strong></p>
+                    <ul>
+                        <li>نرشح لك نوع تركيبة الأسنان التي تناسب احتياجك (الأسنان الأمامية/الضروس)؛ حتى تمنحك النتيجة
+                            الأفضل.</li>
+                        <li>نصمم لك تركيبة الأسنان بالطبعات السنية الملائمة لك، والتي تحافظ على تناسق الأسنان ✔ نختار لك
+                            درجة اللون اللتي تتناسب مع أسنانك الطبيعية، وتضفي جمالاً على ابتسامتك.</li>
+                        <li> نصمم لك التركيبات الجديدة بمختبرنا الخاص، تحت إشراف خبراء تركيبات الأسنان.
+                        </li>
+                    </ul>
+                    <p>لمعاينة حالة اسنانك وتركيب تلبيسات تدوم معك طوال العمر، <a
+                            href="http://xn-- -qmcmbicct6brm2spa0d/">احجز استشارتك المجانية</a> مع احد خبرائنا.</p>
+                    <p class="wp-block-heading"><strong>تلبيسات الزيركون تمنحك نتيجة رائعة لأكثر من 10+ سنوات</strong>
+                    </p>
+                    <p>تركيبات الزيركون واحدة من أفضل 3 تركيبات للأسنان، وتحقق نتائج رائعة لمدة زمنية تتراوح بين 10
+                        &#8211; 15 عاماً (مع ضرورة العناية بها). وتناسب هذه التركيبات: ترميم الأسنان وتدعيمها، أو تعويض
+                        المفقود منها. ويمكن الاعتماد عليها في استبدال الأسنان الأمامية (لكنه ليس الخيار الذي يحقق نتيجة
+                        مثالية).</p>
+                    <p><a href="../calculator/index.html" target rel="noopener">تحدث إلى أطباء يس سمايل مجاناً</a>
+                    </p>
+                    <h2>خصائص الزيركون المميزة:</h2>
+                    <h3>1. المتانة الفائقة</h3>
+                    <p>حيث أن تركيبات الزيركون هي أكثر التركيبات متانة؛ لذلك نستعملها بكثرة عند تعويض الضروس.</p>
+                    <h3>2. جمال طبيعي</h3>
+                    <p>أسنان الزيركون تشبه كثيراً الأسنان الطبيعية في لونها. وإن كانت <a
+                            href="../zirconia-and-ceramic-teeth-differences/index.html">تركيبات البورسلين </a>هي الأكثر
+                        شبهاً بها، وأكثر جمالاً من الزيركون.</p>
+                    <h3>3. تركيبة صديقة للثة</h3>
+                    <p>تتوافق تركيبات الزيركون حيوياً مع اللثة؛ وهو ما يعني الحماية من التهابات اللثة ونحوها.</p>
+                    <h3><strong>4. سهولة الاستبدال</strong></h3>
+                    <p>يسهل تصميم تركيبة الأسنان من الزيركون، والتي لا تستغرق أكثر من جلسة أو جلستين بعيادة الأسنان. كما
+                        يمكن استبدالها في أي وقت، وتعويضها بتركيبة أخرى من الزيركون أو البورسلين.</p>
+                    <h3>5. مقاومة للتصبغات</h3>
+                    <p>تدوم تركيبات الزيركون لفترة زمنية تتراوح بين 10 &#8211; 15 عاماً. وتحافظ على لونها ومتانتها طيلة
+                        هذه المدة. فإذا اعتنيت بها جيداً؛ لن تقلق حيال استبدالها في وقت قريب.</p>
+                    <p><strong>تعرف على:</strong><a href="../zircon-teeth-prices-in-turkey/index.html"> كيفية حساب
+                            تركيبات الاسنان واسعارها</a></p>
+                    <h2 class="wp-block-heading">كيفية المحافظة على تركيبة الاسنان الزيركون </h2>
+                    <div id="attachment_7224" style="width: 606px" class="wp-caption aligncenter"><img
+                            decoding="async" aria-describedby="caption-attachment-7224" class="wp-image-7224"
+                            src="../wp-content/uploads/2023/04/%d8%a5%d8%b2%d8%a7%d9%84%d8%a9-%d8%aa%d8%b1%d9%83%d9%8a%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%b2%d9%8a%d8%b1%d9%83%d9%88%d9%86-1-e1686233152165.webp"
+                            alt="إزالة تركيبات الزيركون" width="596" height="363" />
+                        <p id="caption-attachment-7224" class="wp-caption-text">كيفية المحافظة على تركيبة الاسنان
+                            الزيركون</p>
+                    </div>
+                    <ol>
+                        <li>وقف التدخين</li>
+                        <li>تنظيف الأسنان يومياً</li>
+                        <li>اختيار نوع فرشاة ومعجون جيدين</li>
+                        <li>استخدام غسول الفم وخيط الأسنان</li>
+                        <li>لا تكثر من المشروبات الساخنة أو الأطعمة اللزجة</li>
+                        <li>لا ننصح بالأكل حتى انقضاء 2 &#8211; 3 ساعات بعد التركيب</li>
+                        <li>لا ننصح بالجز الشديد على الأسنان، أو العض بها على الأغراض</li>
+                        <li>ننصح بالالتزام بزيارة العيادة في المواعيد المحددة، والخضوع للفحص السنوي.</li>
+                    </ol>
+                    <p class="has-text-align-center">اقرا المزيد ايضآ عن: <a
+                            href="../zirconia-in-dentistry/index.html">مزايا وعيوب تركيبات الزيركون للاسنان</a></p>
+                    <h2 class="wp-block-heading">أسئلة شائعة</h2>
+                    <h3 class="wp-block-heading">كم سنة تدوم تلبيسة الزيركون؟</h3>
+                    <p>10 &#8211; 15 عاماً؛ إذا التزمت بالتوصيات الطبية التي نوصيك بها، وحافظ على السن الجديد واعتنيت به
+                        جيداً.</p>
+                    <h3 class="wp-block-heading">هل يمكن تغير لون اسنان الزيركون؟</h3>
+                    <p>تحافظ أسنان الزيركون على قوتها ولونها طوال فترة عمرها الافتراضي (10 &#8211; 15 عاماً). وذلك يلزم
+                        منك الاهتمام والحفاظ على السن.</p>
+                    <h3 class="wp-block-heading">هل ينكسر السن تحت التلبيسة؟</h3>
+                    <p>طالما تهتم وتعتني بالأسنان؛ فلا تقلق من مثل هذه المشاكل. إذ أننا نحرص قبل تركيب السن الجديد على
+                        تقييم حالة السن، وتحديد الاختيار الأفضل لك.</p>
+                    <h3 class="wp-block-heading">متى يجب تغيير تلبيسة الأسنان؟</h3>
+                    <p>نقوم بإزالة تركيبات الزيركون عند انتهاء عمرها الافتراضي، أو إذا تغير لونها، أو تعرضت للشقوق
+                        والكسور، ونحو ذلك.</p>
+                    <div class="flex justify-between max-w-[21rem] gap-[3.8rem] my-[6.3rem]">
+                        <div style="background-image:url(../wp-content/themes/yessmile-wp/assets/images/post-url.svg);"
+                            class="social-icon-wrap w-[2.2rem] h-[2.1rem] bg-contain bg-center bg-no-repeat relative ">
+                            <a class="absolute left-0 top-0 right-0 bottom-0" href="#"></a>
+                        </div>
+                        <div style="background-image:url(../wp-content/themes/yessmile-wp/assets/images/post-email.svg);"
+                            class="social-icon-wrap w-[2.2rem] h-[2.1rem] bg-contain bg-center bg-no-repeat relative ">
+                            <a class="absolute left-0 top-0 right-0 bottom-0"
+                                href="../cdn-cgi/l/email-protection.html#bb84e8ced9d1ded8cf86631863086313631c63139b6311631f631462319b631e623f62329b631e6309631c623f63129b6311630a623862316313631c63119b631c623f63096231630a62386233623d9b6233631e6302631c631463129b6311630a623862316313623c631c9ddad6cb80f9d4dfc286d3cfcfcbc8819494c2dec8c8d6d2d7de95dade94c9ded6d4cddad796d4dd96c1d2c9d8d4d5d2da96cfdedecfd3968994"></a>
+                        </div>
+                        <div style="background-image:url(../wp-content/themes/yessmile-wp/assets/images/post-twitter.svg);"
+                            class="social-icon-wrap w-[2.2rem] h-[2.1rem] bg-contain bg-center bg-no-repeat relative ">
+                            <a class="absolute left-0 top-0 right-0 bottom-0" href="http://twitter.com/"
+                                onclick="popUp=window.open(
+								'index.html',
+								'popupwindow',
+								'scrollbars=yes,width=800,height=400');
+								popUp.focus();
+								return false"></a>
+                        </div>
+                        <div style="background-image:url(../wp-content/themes/yessmile-wp/assets/images/post-facebook.svg);"
+                            class="social-icon-wrap w-[2.2rem] h-[2.1rem] bg-contain bg-center bg-no-repeat relative ">
+                            <a class="absolute left-0 top-0 right-0 bottom-0" href="http://www.facebook.com/"
+                                onclick="popUp=window.open(
+								'index.html',
+								'popupwindow',
+								'scrollbars=yes,width=800,height=400');
+								popUp.focus();
+								return false"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-span-12  md:col-span-4 md:col-start-9 relative   ">
+                    <div class=" scroll-posts-wrap sm:top-[5rem] relative sm:sticky ">
+
+                        <div class="rounded-[2rem] bg-light p-[3rem] text-center mb-[5.6rem]">
+                            <div style="background-image:url(../wp-content/uploads/2023/06/closeup-beautiful-smiling-brunette-girl-touching-cheeks-blushing-white-background-1.png);"
+                                class="h-[22.7rem] rounded-[2rem] bg-cover bg-center mb-[3rem] "></div>
+                            <p>هل ترغب في تصميم ابتسامة أحلامك؟<br />
+                                سجل واستلم خطة العلاج مجانا</p>
+                            <div class="btn-light-border small">
+                                <a target href="../calculator/index.html">احجز استشارة مجانية</a>
+                            </div>
+                        </div>
+
+
+                        <div class="rounded-[2rem] bg-light p-[3rem] text-center mb-[10rem] md:mb-[5.6rem]">
+                            <h3 class="text-center text-[2rem]">المزيد من المقالات</h3>
+                            <div class="snap-y overflow-y-auto h-[72.8rem] pb-[10rem]">
+
+                                <div
+                                    class="p-[2rem] flex  rounded-[2rem] mb-[3rem] border-[.2rem] border-primary/50 relative transition ease-linear hover:bg-light">
+                                    <div class="flex flex-1 flex-col pl-[6.493506493506494%] text-right">
+                                        <div><span
+                                                class="text-primary opacity-[.3] text-[2rem] font-bold ">27.02.2024</span>
+                                        </div>
+                                        <div class="post-list-content-box-two relative">
+                                            <h3 class="mb-[1rem]">الطريقة الصحيحة لاستخدام جل تثبيت طقم الأسنان</h3>
+                                            <div>
+                                                <a href="../denture-fixing-gel/index.html">متابعة ></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div style="background-image:url(../wp-content/uploads/2024/02/%d8%ac%d9%84-%d8%aa%d8%ab%d8%a8%d9%8a%d8%aa-%d8%b7%d9%82%d9%85-%d8%a7%d9%84%d8%a3%d8%b3%d9%86%d8%a7%d9%86-2-300x200.webp);"
+                                        class="w-[40.58441558441558%] h-[14.3rem] bg-cover bg-center rounded-[1rem]">
+                                    </div>
+                                    <a class="absolute left-0 top-0 right-0 bottom-[10rem]"
+                                        href="../denture-fixing-gel/index.html"></a>
+                                </div>
+
+
+                                <div
+                                    class="p-[2rem] flex  rounded-[2rem] mb-[3rem] border-[.2rem] border-primary/50 relative transition ease-linear hover:bg-light">
+                                    <div class="flex flex-1 flex-col pl-[6.493506493506494%] text-right">
+                                        <div><span
+                                                class="text-primary opacity-[.3] text-[2rem] font-bold ">23.02.2024</span>
+                                        </div>
+                                        <div class="post-list-content-box-two relative">
+                                            <h3 class="mb-[1rem]">سعر طقم أسنان سيليكون والأكريليك والمعدني</h3>
+                                            <div>
+                                                <a href="../silicone-denture-price/index.html">متابعة ></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div style="background-image:url(../wp-content/uploads/2024/02/%d8%b3%d8%b9%d8%b1-%d8%b7%d9%82%d9%85-%d8%a3%d8%b3%d9%86%d8%a7%d9%86-%d8%b3%d9%8a%d9%84%d9%8a%d9%83%d9%88%d9%86-2-300x169.webp);"
+                                        class="w-[40.58441558441558%] h-[14.3rem] bg-cover bg-center rounded-[1rem]">
+                                    </div>
+                                    <a class="absolute left-0 top-0 right-0 bottom-[10rem]"
+                                        href="../silicone-denture-price/index.html"></a>
+                                </div>
+
+
+                                <div
+                                    class="p-[2rem] flex  rounded-[2rem] mb-[3rem] border-[.2rem] border-primary/50 relative transition ease-linear hover:bg-light">
+                                    <div class="flex flex-1 flex-col pl-[6.493506493506494%] text-right">
+                                        <div><span
+                                                class="text-primary opacity-[.3] text-[2rem] font-bold ">22.02.2024</span>
+                                        </div>
+                                        <div class="post-list-content-box-two relative">
+                                            <h3 class="mb-[1rem]">العناية بأطقم الأسنان: ما هي طريقة حفظ طقم الأسنان؟
+                                            </h3>
+                                            <div>
+                                                <a href="../denture-care/index.html">متابعة ></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div style="background-image:url(../wp-content/uploads/2024/02/%d8%a7%d9%84%d8%b9%d9%86%d8%a7%d9%8a%d8%a9-%d8%a8%d8%a3%d8%b7%d9%82%d9%85-%d8%a7%d9%84%d8%a3%d8%b3%d9%86%d8%a7%d9%86-300x200.webp);"
+                                        class="w-[40.58441558441558%] h-[14.3rem] bg-cover bg-center rounded-[1rem]">
+                                    </div>
+                                    <a class="absolute left-0 top-0 right-0 bottom-[10rem]"
+                                        href="../denture-care/index.html"></a>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div
+                            class="absolute pointer-events-none h-[10rem] md:h-[30rem] bg-gradient-to-t from-primary-extra-light via-primary-extra-light to-primary-extra-light/0 bottom-0 w-full z-10">
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>
 
 
-        <div class="mb-[6rem] sm:mb-[10rem]
-                        gn-image-text-section main-container">
-            <div class="flex flex-col gap-[50px] xl:gap-0 xl:flex-row ">
-                <div class="xl:pl-[80px] pr-0">
-                    <div class="flex flex-col justify-center h-full  text-center xl:text-right ">
-                        <h2>مرحباً بك في مدونة يس سمايل</h2>
-                        <div
-                            class="video-wrap relative flex xl:hidden  xl:flex-grow xl:min-w-[50rem] xxl:min-w-[67.5em]  max-w-[67.5rem] md:mx-auto w-full justify-center mb-[3rem] xxl:mb-0    ">
-                            <div style="background-image:url();"
-                                class="video-cover absolute top-0 left-0 w-full h-full z-10 bg-center bg-no-repeat bg-cover rounded-[20px] ">
-                            </div>
-                            <video controls
-                                class="video  w-full  h-full max-h-[44.7rem]  rounded-[1.25rem]  object-cover " poster>
-                                <source src type="video/mp4">
-                            </video>
-                            <div class="absolute top-0 left-0 w-full h-full cursor-pointer video-icon-play z-20"></div>
-                        </div>
-                        <div>
-                        </div>
-                        <div>
-                        </div>
-                    </div>
+        <div
+            class="like-box   main-container py-[3rem]  md:py-[.6rem] px-[7rem] md:px-0 border-[.1rem] border-primary -mt-[20rem] md:-mt-[3.7rem] md:mb-[10rem] flex flex-col md:flex-row justify-between rounded-[2rem] md:rounded-full max-w-[34.8rem] mx-auto md:max-w-[111rem] relative">
+            <div><span
+                    class="text-[2.4rem] text-primary text-center mb-[2rem] md:mb-0 md:py-[1.3rem] md:px-[4.3rem] font-medium leading-[3.6rem] inline-block">هل
+                    أعجبتك مدونتنا YesSmile؟</span></div>
+            <div class="flex flex-col md:flex-row like-btns gap-y-[3rem] md:gap-y-0 ">
+                <div like-val="2"
+                    class="post-like-btn md:ml-[2.4rem] leading-[1.4rem] py-[2.3rem] pr-[3rem] pl-[7rem] text-[1.8rem] font-bold text-[#80CAFF] border-[.2rem] rounded-full border-[#80CAFF] bg-primary-light/20 relative cursor-pointer group ">
+                    <span style="background-image:url(../wp-content/themes/yessmile-wp/assets/images/like-icon.svg);"
+                        class="w-[4rem] h-[4rem] absolute  top-[1rem]  left-[2rem] group-hover:scale-[1.5] transition-all ease-in-out "></span>أعجبتني
                 </div>
-                <div
-                    class="video-wrap relative hidden xl:flex  xl:flex-grow xl:min-w-[50rem] xxl:min-w-[67.5em] max-h-[44.7rem] max-w-[67.5rem] md:mx-auto w-full justify-center    ">
-                    <div style="background-image:url();"
-                        class="video-cover absolute top-0 left-0 w-full h-full z-10 bg-center bg-no-repeat bg-cover rounded-[20px] ">
-                    </div>
-                    <video controls class="video  w-full  h-full rounded-[1.25rem]  object-cover " poster>
-                        <source src type="video/mp4">
-                    </video>
-                    <div class="absolute top-0 left-0 w-full h-full cursor-pointer video-icon-play z-20"></div>
+                <div like-val="1"
+                    class="post-like-btn md:ml-[.6rem]  leading-[1.4rem] py-[2.3rem] pr-[3rem] pl-[7rem] text-[1.8rem] font-bold text-[#FF4441] border-[.2rem] rounded-full border-[#FF4441] bg-[#FF4441]/20 relative cursor-pointer group ">
+                    <span style="background-image:url(../wp-content/themes/yessmile-wp/assets/images/dlike-icon.svg);"
+                        class="w-[4rem] h-[4rem] absolute  top-[1rem]  left-[2rem] group-hover:scale-[1.5] transition-all ease-in-out "></span>لم
+                    تعجبني
+                </div>
+            </div>
+            <div class="like-msg absolute left-[10rem] -bottom-[4rem] text-[1.6rem] text-secondary hidden">شكراً لك على
+                رأيك!</div>
+        </div>
+
+
+        <div class="main-container mb-[6rem] sm:mb-[10rem] max-w-[111rem] mt-[6rem] md:mt-0  ">
+            <div class="bg-light rounded-[2rem] shadow-items-slider-box-shadow p-[3rem] flex flex-col md:flex-row ">
+                <div class="md:pl-[14.59459459459459%] flex md:flex-1 gap-0 order-2 md:order-1">
+                    <form class="w-full block" id="commentform" action="https://yessmile.ae/wp-comments-post.php"
+                        method="post" id="commentform">
+                        <div class="flex flex-col justify-between gap-y-[3rem] h-full">
+                            <div>
+                                <h2 class="mb-0 pt-[2rem] sm:pt-0 md:text-right text-center">اترك تعليقك هنا</h2>
+                            </div>
+                            <div>
+                                <div class="mb-[2rem]"><input required
+                                        class="bg-light-gray rounded-[2rem] py-[2.4rem] pr-[2rem] pl-[5rem] text-[1.6rem] font-bold w-full"
+                                        type="text" id="author" name="author" type="text"
+                                        placeholder="الاسم الأول" value /></div>
+                                <div class="mb-[2rem]"><input required
+                                        class="bg-light-gray rounded-[2rem] py-[2.4rem] pr-[2rem] pl-[5rem] text-[1.6rem] font-bold w-full"
+                                        type="email" id="email" name="email" type="text"
+                                        placeholder="الإيميل" value /></div>
+                                <div>
+                                    <textarea id="comment"
+                                        class="bg-light-gray h-[18rem] rounded-[2rem] py-[2.4rem] pr-[2rem] pl-[5rem] text-[1.6rem] font-bold w-full"
+                                        name="comment"></textarea>
+                                </div>
+                            </div>
+                            <div><input
+                                    class="min-w-[10rem] text-[1.6rem] font-bold px-[4rem] py-[1.45rem] border-[.1rem] rounded-[4.7rem] border-secondary  text-secondary  transition-all duration-500 ease-in-out
+            group-hover:shadow-btn-border-shadow inline-block hover:bg-secondary/10 "
+                                    name="submit" type="submit" id="submit-comment" value="أضف تعليق"></div>
+                        </div>
+                        <input type="hidden" name="comment_post_ID" value="1294" id="comment_post_ID">
+                        <input type="hidden" name="comment_parent" id="comment_parent" value="0">
+                    </form>
+                </div>
+                <div style="background-image:url(../wp-content/themes/yessmile-wp/assets/images/comments-image.png);"
+                    class="h-[24.2rem] md:h-[54.2rem] w-full md:w-[46.76190476190476%] rounded-[1rem]  bg-cover bg-no-repeat order-1 md:order-2 bg-center ">
                 </div>
             </div>
         </div>
@@ -1873,14 +1544,14 @@
                             src="../wp-content/themes/yessmile-wp/assets/images/footer-logo.svg" /></div>
                     <h3 class="mb-[20px] font-medium text-[2.4rem] md:text-[3.6rem]">تواصل معنا</h3>
                     <a class="block text-light/70    mb-3"
-                        href="../cdn-cgi/l/email-protection.html#e1828e8f95808295a1988492928c888d84cf8084"><span
+                        href="../cdn-cgi/l/email-protection.html#accfc3c2d8cdcfd8ecd5c9dfdfc1c5c0c982cdc9"><span
                             class="__cf_email__"
-                            data-cfemail="5635393822373522162f3325253b3f3a33783733">[email&#160;protected]</span></a>
+                            data-cfemail="73101c1d07121007330a1600001e1a1f165d1216">[email&#160;protected]</span></a>
                     <a class="block text-right ltr-dir text-light/70   " target="_blank"
                         href="https://wa.me/+905399356722">+90 539 935 67 22</a>
                     <h3 class="mb-[2rem] font-medium  text-[1.6rem] md:text-[2rem] mt-[1rem]  ">إسطنبول - تركيا</h3>
                     <div class="mt-4">
-                        <div><iframe style="border: 0; border-radius: 20px; width: 100%;"
+                        <div><iframe loading="lazy" style="border: 0; border-radius: 20px; width: 100%;"
                                 src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12025.824987199421!2d28.9822116!3d41.1027258!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab7ffde03555b%3A0xf7da3506dd5bd838!2zWWVzU21pbGUgY2xpbmljIC0g2YXYsdmD2LIg2YrYsyDYs9mF2KfZitmE!5e0!3m2!1sen!2s!4v1684752158041!5m2!1sen!2s"
                                 width="450" height="450" allowfullscreen="allowfullscreen"></iframe></div>
                     </div>
@@ -1908,8 +1579,23 @@
         id="YSMILE-slick-js"></script>
     <script type="text/javascript" src="{{ asset('wp-content/themes/yessmile-wp/assets/js/custom84fc.js') }}"
         id="YSMILE-custom-js"></script>
+    <script type="text/javascript" id="YSMILE-posts-script-js-extra">
+        /* <![CDATA[ */
+        var script_vars = {
+            "home_url": "https:\/\/yessmile.ae",
+            "ajax_url": "https:\/\/yessmile.ae\/wp-admin\/admin-ajax.php",
+            "map_pins": null
+        };
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="{{ asset('wp-content/themes/yessmile-wp/assets/js/posts-script84fc.js') }}"
+        id="YSMILE-posts-script-js"></script>
+    <script type="text/javascript" src="{{ asset('wp-includes/js/dist/interactivity.min84fc.js') }}"
+        id="wp-interactivity-js" defer="defer" data-wp-strategy="defer"></script>
+    <script type="text/javascript" src="{{ asset('wp-includes/blocks/image/view.min5d0e.js') }}"
+        id="wp-block-image-view-js" defer="defer" data-wp-strategy="defer"></script>
 </body>
 
-<!-- Mirrored from yessmile.ae/blog/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Mar 2024 14:38:07 GMT -->
+<!-- Mirrored from yessmile.ae/removal-of-zirconia-teeth-2/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Mar 2024 14:38:31 GMT -->
 
 </html>
