@@ -548,6 +548,50 @@
             font-size: 1.5em;
             line-height: 1.6;
         }
+
+        input#session-date {
+            display: inline-block;
+            position: relative;
+        }
+
+        input[type="date"]::-webkit-calendar-picker-indicator {
+            background: transparent;
+            bottom: 0;
+            color: transparent;
+            cursor: pointer;
+            height: auto;
+            left: 0;
+            position: absolute;
+            right: 0;
+            top: 0;
+            width: auto;
+        }
+
+        /* The alert message box */
+        .alert {
+            padding: 20px;
+            background-color: #4CAF50;
+            /* Red */
+            color: white;
+            margin-bottom: 15px;
+        }
+
+        /* The close button */
+        .closebtn {
+            margin-left: 15px;
+            color: white;
+            font-weight: bold;
+            float: right;
+            font-size: 22px;
+            line-height: 20px;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+        /* When moving the mouse over the close button */
+        .closebtn:hover {
+            color: black;
+        }
     </style>
     <link rel="stylesheet" id="YSMILE-main-style-css"
         href="{{ asset('wp-content/themes/yessmile-wp/assets/css/style84fc.css') }}" type="text/css" media="all" />
@@ -1109,15 +1153,15 @@
                     السوشال ميديا</h3>
                 <div class="flex justify-start gap-[50px]">
                     <a href="https://www.instagram.com/yessmile.ae" target="_blank"><img
-                            src="wp-content/uploads/2023/05/insta_icon.svg" /></a>
+                            src="{{ asset('insta_icon.svg') }}" /></a>
                     <a href="https://www.facebook.com/yessmile.ae" target="_blank"><img
-                            src="wp-content/uploads/2023/05/facebook_icon.svg" /></a>
+                            src="{{ asset('facebook_icon.svg') }}" /></a>
                     <a href="https://www.youtube.com/@yessmile-ae" target="_blank"><img
-                            src="wp-content/uploads/2023/05/youtube_icon.svg" /></a>
+                            src="{{ asset('youtube_icon.svg') }}" /></a>
                     <a href="https://www.tiktok.com/@yessmile.ae" target="_blank"><img
-                            src="wp-content/uploads/2023/05/tiktok_icon.svg" /></a>
+                            src="{{ asset('tiktok_icon.svg') }}" /></a>
                     <a href="https://www.snapchat.com/add/yessmile.ae" target="_blank"><img
-                            src="wp-content/uploads/2023/06/icons8-snapchat.svg" /></a>
+                            src="{{ asset('snapchat.svg') }}" /></a>
                 </div>
             </div>
             <div class="flex justify-end order-1 md:order-2">
