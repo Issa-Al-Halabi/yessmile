@@ -1,16 +1,15 @@
 <?php
 
-namespace App\Filament\Resources\CategoryResource\Pages;
+namespace App\Filament\Resources\AppointmentResource\Pages;
 
-use App\Filament\Resources\CategoryResource;
+use App\Filament\Resources\AppointmentResource;
 use Filament\Actions;
 use Filament\Resources\Pages\EditRecord;
 
-class EditCategory extends EditRecord
+class EditAppointment extends EditRecord
 {
     use EditRecord\Concerns\Translatable;
-
-    protected static string $resource = CategoryResource::class;
+    protected static string $resource = AppointmentResource::class;
 
     protected function getHeaderActions(): array
     {

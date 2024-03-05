@@ -1,17 +1,15 @@
 <?php
 
-namespace App\Filament\Resources\CategoryResource\Pages;
+namespace App\Filament\Resources\ConsultationRequestResource\Pages;
 
-use App\Filament\Resources\CategoryResource;
+use App\Filament\Resources\ConsultationRequestResource;
 use Filament\Actions;
 use Filament\Resources\Pages\CreateRecord;
 
-class CreateCategory extends CreateRecord
+class CreateConsultationRequest extends CreateRecord
 {
     use CreateRecord\Concerns\Translatable;
-
-    protected static string $resource = CategoryResource::class;
-
+    protected static string $resource = ConsultationRequestResource::class;
     protected function getHeaderActions(): array
     {
         return [

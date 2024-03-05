@@ -11,13 +11,14 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('conultation_requests', function (Blueprint $table) {
+        Schema::create('consultation_requests', function (Blueprint $table) {
             $table->id();
             $table->string('patient_name');
             $table->integer('age');
             $table->string('country');
             $table->longText('diagnose_description');
             $table->longText('images');
+            $table->timestamps();
         });
     }
 

@@ -11,7 +11,7 @@ class Service extends Model
     use HasFactory, HasTranslations;
 
     protected $table = "services";
-
+    public $timestamps = false;
     protected $translatable = [
         "name",
         "description",
@@ -21,5 +21,9 @@ class Service extends Model
         "name",
         "description",
         "images",
+    ];
+
+    protected $casts = [
+        'images' => 'json',
     ];
 }

@@ -9,6 +9,7 @@ use Spatie\Translatable\HasTranslations;
 class Appointment extends Model
 {
     use HasFactory, HasTranslations;
+    public $timestamps = false;
 
     protected $table = "appointments";
 

@@ -10,7 +10,8 @@ class Faq extends Model
 {
     use HasFactory, HasTranslations;
 
-    protected $table = "faq";
+    protected $table = "faqs";
+    public $timestamps = false;
 
     protected $translatable = [
         "question",
