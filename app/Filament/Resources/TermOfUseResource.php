@@ -29,7 +29,7 @@ class TermOfUseResource extends Resource
     {
         return $form
             ->schema([
-                Forms\Components\Textarea::make('body')
+                Forms\Components\RichEditor::make('body')
                     ->required()
                     ->columnSpanFull(),
             ]);
