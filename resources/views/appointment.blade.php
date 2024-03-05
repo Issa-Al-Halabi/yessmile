@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ar" dir="rtl" class="scroll-smooth">
 
-<!-- Mirrored from yessmile.ae/removal-of-zirconia-teeth-2/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Mar 2024 14:38:29 GMT -->
+<!-- Mirrored from yessmile.ae/contact-us/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Mar 2024 14:37:54 GMT -->
 <!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
@@ -9,39 +9,90 @@
     <meta name="”robots”" content="”noindex”">
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var gform;
+        gform || (document.addEventListener("gform_main_scripts_loaded", function() {
+            gform.scriptsLoaded = !0
+        }), window.addEventListener("DOMContentLoaded", function() {
+            gform.domLoaded = !0
+        }), gform = {
+            domLoaded: !1,
+            scriptsLoaded: !1,
+            initializeOnLoaded: function(o) {
+                gform.domLoaded && gform.scriptsLoaded ? o() : !gform.domLoaded && gform.scriptsLoaded ? window
+                    .addEventListener("DOMContentLoaded", o) : document.addEventListener(
+                        "gform_main_scripts_loaded", o)
+            },
+            hooks: {
+                action: {},
+                filter: {}
+            },
+            addAction: function(o, n, r, t) {
+                gform.addHook("action", o, n, r, t)
+            },
+            addFilter: function(o, n, r, t) {
+                gform.addHook("filter", o, n, r, t)
+            },
+            doAction: function(o) {
+                gform.doHook("action", o, arguments)
+            },
+            applyFilters: function(o) {
+                return gform.doHook("filter", o, arguments)
+            },
+            removeAction: function(o, n) {
+                gform.removeHook("action", o, n)
+            },
+            removeFilter: function(o, n, r) {
+                gform.removeHook("filter", o, n, r)
+            },
+            addHook: function(o, n, r, t, i) {
+                null == gform.hooks[o][n] && (gform.hooks[o][n] = []);
+                var e = gform.hooks[o][n];
+                null == i && (i = n + "_" + e.length), gform.hooks[o][n].push({
+                    tag: i,
+                    callable: r,
+                    priority: t = null == t ? 10 : t
+                })
+            },
+            doHook: function(n, o, r) {
+                var t;
+                if (r = Array.prototype.slice.call(r, 1), null != gform.hooks[n][o] && ((o = gform.hooks[n][o])
+                        .sort(function(o, n) {
+                            return o.priority - n.priority
+                        }), o.forEach(function(o) {
+                            "function" != typeof(t = o.callable) && (t = window[t]), "action" == n ? t
+                                .apply(null, r) : r[0] = t.apply(null, r)
+                        })), "filter" == n) return r[0]
+            },
+            removeHook: function(o, n, t, i) {
+                var r;
+                null != gform.hooks[o][n] && (r = (r = gform.hooks[o][n]).filter(function(o, n, r) {
+                    return !!(null != i && i != o.tag || null != t && t != o.priority)
+                }), gform.hooks[o][n] = r)
+            }
+        });
+        /* ]]> */
+    </script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
 
-    <title>أسباب تؤدي إلى إزالة تركيبات الزيركون وإعادة تركيبها - YesSmile</title>
+    <title>إتصل بنا - YesSmile</title>
     <meta name="description"
-        content="من أسباب تؤدي إلى إزالة تركيبات الزيركون هي ضعف وتشقق الأسنان، ويوجد أشياء أخى تؤدي إلى خلع تركيبات الزيركون للتفاصيل اقرأ هذا المقال." />
+        content="إتصل بنا على موقع يس سمايل لمعرفة كافة التفاصيل لعلاج الأسنان، ولمعرفة جميع الخدمات المتعلقة بتجميل الأسنان وزراعة وتركيب الأسنان." />
     <link rel="canonical" href="index.html" />
     <meta property="og:locale" content="ar_AR" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="أسباب تؤدي إلى إزالة تركيبات الزيركون وإعادة تركيبها - YesSmile" />
+    <meta property="og:title" content="إتصل بنا - YesSmile" />
     <meta property="og:description"
-        content="من أسباب تؤدي إلى إزالة تركيبات الزيركون هي ضعف وتشقق الأسنان، ويوجد أشياء أخى تؤدي إلى خلع تركيبات الزيركون للتفاصيل اقرأ هذا المقال." />
-    <meta property="og:url" content="index.html" />
+        content="إتصل بنا على موقع يس سمايل لمعرفة كافة التفاصيل لعلاج الأسنان، ولمعرفة جميع الخدمات المتعلقة بتجميل الأسنان وزراعة وتركيب الأسنان." />
+    <meta property="og:url" content="https://yessmile.ae/contact-us/" />
     <meta property="og:site_name" content="YesSmile" />
-    <meta property="article:published_time" content="2023-06-04T23:49:37+00:00" />
-    <meta property="article:modified_time" content="2024-01-25T07:58:41+00:00" />
-    <meta property="og:image"
-        content="../wp-content/uploads/2023/06/%d8%a7%d9%84%d9%81%d8%b1%d9%82-%d8%a8%d9%8a%d9%86-%d8%b2%d8%b1%d8%a7%d8%b9%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d9%86%d8%a7%d9%86-%d8%a7%d9%84%d9%81%d9%88%d8%b1%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%82%d9%84%d9%8a%d8%af%d9%8a%d8%a9-copy.webp" />
-    <meta property="og:image:width" content="980" />
-    <meta property="og:image:height" content="550" />
-    <meta property="og:image:type" content="image/webp" />
-    <meta name="author" content="yessmile" />
+    <meta property="article:modified_time" content="2023-12-06T12:39:22+00:00" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:label1" content="كُتب بواسطة" />
-    <meta name="twitter:data1" content="yessmile" />
-    <meta name="twitter:label2" content="وقت القراءة المُقدّر" />
-    <meta name="twitter:data2" content="9 دقائق" />
-    <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://yessmile.ae/removal-of-zirconia-teeth-2/","url":"https://yessmile.ae/removal-of-zirconia-teeth-2/","name":"أسباب تؤدي إلى إزالة تركيبات الزيركون وإعادة تركيبها - YesSmile","isPartOf":{"@id":"https://yessmile.ae/#website"},"primaryImageOfPage":{"@id":"https://yessmile.ae/removal-of-zirconia-teeth-2/#primaryimage"},"image":{"@id":"https://yessmile.ae/removal-of-zirconia-teeth-2/#primaryimage"},"thumbnailUrl":"https://yessmile.ae/wp-content/uploads/2023/06/الفرق-بين-زراعة-الاسنان-الفورية-والتقليدية-copy.webp","datePublished":"2023-06-04T23:49:37+00:00","dateModified":"2024-01-25T07:58:41+00:00","author":{"@id":"https://yessmile.ae/#/schema/person/2debf3d4e851e562224e7a5c02f518f6"},"description":"من أسباب تؤدي إلى إزالة تركيبات الزيركون هي ضعف وتشقق الأسنان، ويوجد أشياء أخى تؤدي إلى خلع تركيبات الزيركون للتفاصيل اقرأ هذا المقال.","breadcrumb":{"@id":"https://yessmile.ae/removal-of-zirconia-teeth-2/#breadcrumb"},"inLanguage":"ar","potentialAction":[{"@type":"ReadAction","target":["https://yessmile.ae/removal-of-zirconia-teeth-2/"]}]},{"@type":"ImageObject","inLanguage":"ar","@id":"https://yessmile.ae/removal-of-zirconia-teeth-2/#primaryimage","url":"https://yessmile.ae/wp-content/uploads/2023/06/الفرق-بين-زراعة-الاسنان-الفورية-والتقليدية-copy.webp","contentUrl":"https://yessmile.ae/wp-content/uploads/2023/06/الفرق-بين-زراعة-الاسنان-الفورية-والتقليدية-copy.webp","width":980,"height":550},{"@type":"BreadcrumbList","@id":"https://yessmile.ae/removal-of-zirconia-teeth-2/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://yessmile.ae/"},{"@type":"ListItem","position":2,"name":"علاجات الأسنان \"الحشوات والتركيبات\"","item":"https://yessmile.ae/category/%d8%b9%d9%84%d8%a7%d8%ac%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%b3%d9%86%d8%a7%d9%86-%d8%a7%d9%84%d8%ad%d8%b4%d9%88%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a%d8%a8%d8%a7%d8%aa/"},{"@type":"ListItem","position":3,"name":"أسباب تؤدي إلى إزالة تركيبات الزيركون وإعادة تركيبها"}]},{"@type":"WebSite","@id":"https://yessmile.ae/#website","url":"https://yessmile.ae/","name":"YesSmile","description":"نعم لإبتسامة جميلة","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://yessmile.ae/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"ar"},{"@type":"Person","@id":"https://yessmile.ae/#/schema/person/2debf3d4e851e562224e7a5c02f518f6","name":"yessmile","image":{"@type":"ImageObject","inLanguage":"ar","@id":"https://yessmile.ae/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/3a2942e6976b87dc3dae891350ec6024?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/3a2942e6976b87dc3dae891350ec6024?s=96&d=mm&r=g","caption":"yessmile"},"sameAs":["https://serene-swanson.85-214-246-2.plesk.page"],"url":"https://yessmile.ae/author/yessmile/"}]}</script>
+    <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://yessmile.ae/contact-us/","url":"https://yessmile.ae/contact-us/","name":"إتصل بنا - YesSmile","isPartOf":{"@id":"https://yessmile.ae/#website"},"datePublished":"2023-05-16T13:56:03+00:00","dateModified":"2023-12-06T12:39:22+00:00","description":"إتصل بنا على موقع يس سمايل لمعرفة كافة التفاصيل لعلاج الأسنان، ولمعرفة جميع الخدمات المتعلقة بتجميل الأسنان وزراعة وتركيب الأسنان.","breadcrumb":{"@id":"https://yessmile.ae/contact-us/#breadcrumb"},"inLanguage":"ar","potentialAction":[{"@type":"ReadAction","target":["https://yessmile.ae/contact-us/"]}]},{"@type":"BreadcrumbList","@id":"https://yessmile.ae/contact-us/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://yessmile.ae/"},{"@type":"ListItem","position":2,"name":"إتصل بنا"}]},{"@type":"WebSite","@id":"https://yessmile.ae/#website","url":"https://yessmile.ae/","name":"YesSmile","description":"نعم لإبتسامة جميلة","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://yessmile.ae/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"ar"}]}</script>
 
     <link rel="dns-prefetch" href="http://cdnjs.cloudflare.com/" />
-    <link rel="alternate" type="application/rss+xml"
-        title="YesSmile &laquo; أسباب تؤدي إلى إزالة تركيبات الزيركون وإعادة تركيبها خلاصة التعليقات"
-        href="feed/index.html" />
     <script type="text/javascript">
         /* <![CDATA[ */
         window._wpemojiSettings = {
@@ -175,6 +226,7 @@
             padding: 0 !important;
         }
     </style>
+
     <link rel="stylesheet" id="wp-block-library-rtl-css"
         href="{{ asset('wp-includes/css/dist/block-library/style-rtl.min84fc.css') }}" type="text/css" media="all" />
     <style id="classic-theme-styles-inline-css" type="text/css">
@@ -575,13 +627,12 @@
     <script type="text/javascript" src="{{ asset('wp-includes/js/jquery/jquery-migrate.min5589.js') }}"
         id="jquery-migrate-js"></script>
     <link rel="https://api.w.org/" href="{{ asset('wp-json/index.html') }}" />
-    <link rel="alternate" type="application/json" href="{{ asset('wp-json/wp/v2/posts/1294.json') }}" />
+    <link rel="alternate" type="application/json" href="{{ asset('wp-json/wp/v2/pages/1297.json') }}" />
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="{{ asset('xmlrpc0db0.php') }}" />
     <meta name="generator" content="WordPress 6.4.3" />
-    <link rel="shortlink" href="{{ asset('indexc804.html') }}" />
-    <link rel="alternate" type="application/json+oembed" href="{{ asset('wp-json/oembed/1.0/embed3f3f.json') }}" />
-    <link rel="alternate" type="text/xml+oembed"
-        href="{{ asset('wp-json/oembed/1.0/embed6064&amp;format=xml') }}" />
+    <link rel="shortlink" href="../index214b.html?p=1297" />
+    <link rel="alternate" type="application/json+oembed" href="{{ asset('wp-json/oembed/1.0/embedeed3.json') }}" />
+    <link rel="alternate" type="text/xml+oembed" href="{{ asset('wp-json/oembed/1.0/embedfe86&amp;format=xml') }}" />
 
 
     <script>
@@ -601,16 +652,14 @@
         })(window, document, 'script', 'dataLayer', 'GTM-PN5LVP4');
     </script>
 
-    <link rel="icon" href="{{ asset('wp-content/uploads/2023/06/yessmile-favicon-150x150.png') }}"
-        sizes="32x32" />
-    <link rel="icon" href="{{ asset('wp-content/uploads/2023/06/yessmile-favicon.png') }}" sizes="192x192" />
-    <link rel="apple-touch-icon" href="{{ asset('wp-content/uploads/2023/06/yessmile-favicon.png') }}" />
+    <link rel="icon" href="{{ asset('yessmile-favicon-150x150.png') }}" sizes="32x32" />
+    <link rel="icon" href="{{ asset('yessmile-favicon.png') }}" sizes="192x192" />
+    <link rel="apple-touch-icon" href=".{{ asset('yessmile-favicon.png') }}" />
     <meta name="msapplication-TileImage"
         content="https://yessmile.ae/wp-content/uploads/2023/06/yessmile-favicon.png" />
 </head>
 
-<body data-rsssl="1"
-    class="rtl post-template-default single single-post postid-1294 single-format-standard innerpage">
+<body data-rsssl="1" class="rtl page-template-default page page-id-744 innerpage">
 
     <header class="z-50 sticky">
         <div class="bg-primary w-full px-[4rem] xl:px-0 ">
@@ -867,7 +916,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a class="nav-item-link" href="../contact-us/index.html">تواصل معنا</a></li>
+                            <li><a class="nav-item-link" href="index.html">تواصل معنا</a></li>
                             <li><a class="nav-item-link" href="../blog/index.html">مدونة يس سمايل</a></li>
                         </ul>
                     </nav>
@@ -1076,7 +1125,7 @@
                             </div>
                         </div>
                     </li>
-                    <li><a class="nav-item-link-mobile" href="../contact-us/index.html">تواصل معنا</a></li>
+                    <li><a class="nav-item-link-mobile" href="index.html">تواصل معنا</a></li>
                     <li><a class="nav-item-link-mobile" href="../blog/index.html">مدونة يس سمايل</a></li>
                 </ul>
                 <div class="flex justify-center">
@@ -1091,402 +1140,287 @@
 
     <main>
 
-        <div class="py-[6rem] sm:py-[10rem] ">
-            <div class="main-container text-center">
-                <span class="text-[2.2rem] font-bold text-dark/50">05.06.2023</span>
-                <h1>أسباب تؤدي إلى إزالة تركيبات الزيركون وإعادة تركيبها</h1>
-            </div>
-        </div>
-
-
-        <div class="main-container relative">
-            <div class="h-[20rem] md:h-[55rem]  relative flex justify-start bg-[#e8f5fc] rounded-[5rem]">
-                <div class="  absolute bg-no-repeat bg-cover opacity-20 md:opacity-100 rounded-[5rem] bg-center z-0 left-0 top-0 right-0 bottom-0"
-                    style="background-image:url(../wp-content/uploads/2023/06/%d8%a7%d9%84%d9%81%d8%b1%d9%82-%d8%a8%d9%8a%d9%86-%d8%b2%d8%b1%d8%a7%d8%b9%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d9%86%d8%a7%d9%86-%d8%a7%d9%84%d9%81%d9%88%d8%b1%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%82%d9%84%d9%8a%d8%af%d9%8a%d8%a9-copy.webp)">
-                </div>
-            </div>
-        </div>
-        <div class="main-container">
-            <div id="breadcrumbs" style="padding: 15px; font-size: 12px;"><span><span><a
-                            href="../index.html">الرئيسية</a></span> » <span><a
-                            href="../category/%d8%b9%d9%84%d8%a7%d8%ac%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%b3%d9%86%d8%a7%d9%86-%d8%a7%d9%84%d8%ad%d8%b4%d9%88%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a%d8%a8%d8%a7%d8%aa/index.html">علاجات
-                            الأسنان "الحشوات والتركيبات"</a></span> » <span class="breadcrumb_last"
-                        aria-current="page">أسباب تؤدي إلى إزالة تركيبات الزيركون وإعادة تركيبها</span></span></div>
-        </div>
-        <div
-            class="pb-[10rem] bg-primary-extra-light -mt-[10rem] md:-mt-[30rem] pt-[15rem] md:pt-[40rem] rounded-[5rem]">
-            <div class="main-container grid grid-cols-12 gap-[1.5rem] ">
-                <div class="col-span-12 md:col-span-7 single-post-content-wrap">
-                    <p>تركيبة الزيركون هي من أفضل تركيبات الأسنان وأكثرهم قوة؛ وهي تغير حياة المريض جذرياً. فهي تمنحك
-                        ابتسامة جميلة، ولها نتيجة طبية مذهلة في ترميم وتعويض الأسنان، لكن في بعض الأحيان قد نحتاج إلى
-                        خلع تركيبات الزريكون، وفي هذا المقال سوف نتعرف على أشهر أسباب تؤدي إلى إزالة تركيبات الزيركون..
-                        تابعونا.</p>
-                    <p>  <strong>جدول المحتويات</strong></p>
-                    <ol>
-                        <li>لماذا قد تحتاج إلى إزالة تركيبات الزيركون؟</li>
-                        <li>كيف يتم خلع اسنان الزيركون لاستبدالها؟</li>
-                        <li>أضرار ازالة تلبيسات الزيركون</li>
-                        <li>كيفية المحافظة على تركيبة الاسنان الزيركون لتجنب الخلع</li>
-                        <li>أسئلة شائعة</li>
-                    </ol>
-                    <h2> أشهر 6 استخدامات لأسنان الزيركون:</h2>
-                    <ol>
-                        <li>ترميم الأسنان</li>
-                        <li>حشوات البطانة</li>
-                        <li>تعويض الأسنان المفقودة</li>
-                        <li>سد الفجوات بين الأسنان</li>
-                        <li><a href="../veneer-types/index.html">تركيبة تجميلية</a>؛ تزيد جمال ابتسامتك</li>
-                        <li>تلبيس زرعات الأسنان، وهي نوع من تركيبة الزيركون المستعمل في عمليات الزراعة.</li>
-                    </ol>
-                    <h2 class="wp-block-heading">أسباب تؤدي إلى إزالة تركيبات الزيركون</h2>
-                    <div id="attachment_7223" style="width: 608px" class="wp-caption aligncenter"><img
-                            fetchpriority="high" decoding="async" aria-describedby="caption-attachment-7223"
-                            class="wp-image-7223"
-                            src="../wp-content/uploads/2023/04/%d8%a5%d8%b2%d8%a7%d9%84%d8%a9-%d8%aa%d8%b1%d9%83%d9%8a%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7%d8%b3%d9%86%d8%a7%d9%86-%d8%a7%d9%84%d8%b2%d9%8a%d8%b1%d9%83%d9%88%d9%86-e1686232942179-1024x558.webp"
-                            alt="إزالة تركيبات الاسنان الزيركون" width="598" height="326" />
-                        <p id="caption-attachment-7223" class="wp-caption-text">أسباب تؤدي إلى إزالة تركيبات الزيركون
-                        </p>
-                    </div>
-                    <p>في الفقرة التالية سوف نتعرف على أسباب تؤدي إلى إزالة تركيبات الزيركون:-</p>
-                    <h3>انتهاء العمر الافتراضي</h3>
-                    <p>لاحظ أن تركيبات الزيركون قد تدوم لما يصل إلى 15 عاماً إذا اهتممت بها. وستحتاج إلى استبدالها بأخرى
-                        جديدة بعد ذلك.</p>
-                    <h3>ضعف وتشقق الأسنان</h3>
-                    <p>وهذا يحدث في حال إهمال التوصيات الطبية التي نوصيك بها، أو بانقضاء عمر طويل على تركيب هذه الأسنان.
-                    </p>
-                    <h3>تسوس الأسنان</h3>
-                    <p>وذلك يحدث في بعض الأحيان، أن تنمو البكتيريا بالسن الأصلي تحت تركيبة الزيركون.</p>
-                    <h3>التهاب اللثة</h3>
-                    <p>وهنا قد نضطر إلى إزالة تركيبات الزيركون، وعلاج مشكلة اللثة والسبب الأصلي وراءها.</p>
-                    <h3>انكسار تركيبة الزيركون</h3>
-                    <p>احتمالية هذا الأمر ضعيفة للغاية، إذ أنها أكثر متانة من أي تركيبات أخرى.</p>
-                    <h3>تصبغ التركيبة وتغير لونها</h3>
-                    <p>على الرغم أن تركيبات الزيركون مقاومة للصبغات؛ إلا أن ذلك لا يكتمل إلا بالعناية بالأسنان.</p>
-                    <h3>عدم التوفيق لاختيار اللون المناسب</h3>
-                    <p>وهذه المشكلة قد تكون مقبولة مع التركيبات الخلفية، ولكنها تسلب المريض الفائدة الجمالية من تركيبات
-                        الزيركون للأسنان الأمامية.</p>
-                    <ul>
-                        <li>نستطيع تحقيق النتيجة المثالية وتفادي هذه المشكلة بمركز يس سمايل؛ وذلك باستخدام كتالوج
-                            الألوان الذي يظهر لك كافة ألوان الأسنان الطبيعية، ونرشح لك الدرجة المناسبة لك.</li>
-                    </ul>
-                    <h3>تصميم طبعات سنية غير ملائمة لأسنانك</h3>
-                    <p>إذ أن تصميم تركيبة الأسنان يحتاج مقياساً دقيقاً لتصميم تركيبة مثالية لك، وتحافظ على تناسق
-                        الأسنان.</p>
-                    <p>تمكنا من تفادي هذا الخطأ الذي قد يحدث عند تصميم الأسنان بالمختبر, لذلك؛ جهزنا مختبراً خاصاً بنا
-                        بمركز يس سمايل، يشرف عليه خبراء تركيبات الأسنان في تركيا. بهذا نصمم لك تركيبات أسنان مخصصة
-                        لعملائنا فقط، وباحترافية عالية.</p>
-                    <ol></ol>
-                    <p><strong>دوافع التركيب وأسباب الاستبدال | معلومات تهمك عن تركيبات الزيركون</strong></p>
-                    <figure class="wp-block-table">
-                        <table>
-                            <tbody>
-                                <tr>
-                                    <td class="has-text-align-center" data-align="center"><strong>دوافع
-                                            التركيب</strong></td>
-                                    <td class="has-text-align-center" data-align="center"><strong>أسباب
-                                            الاستبدال</strong></td>
-                                </tr>
-                                <tr>
-                                    <td class="has-text-align-center" data-align="center">ترميم الأسنان وتدعيمها</td>
-                                    <td class="has-text-align-center" data-align="center">انقضاء العمر الافتراضي</td>
-                                </tr>
-                                <tr>
-                                    <td class="has-text-align-center" data-align="center">تعويض الأسنان</td>
-                                    <td class="has-text-align-center" data-align="center">تغيير لون التركيبات</td>
-                                </tr>
-                                <tr>
-                                    <td class="has-text-align-center" data-align="center">تجميل الأسنان</td>
-                                    <td class="has-text-align-center" data-align="center">علاج أمراض الأسنان واللثة
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="has-text-align-center" data-align="center">حشوات البطانة وسد فجوات
-                                        الأسنان</td>
-                                    <td class="has-text-align-center" data-align="center">تصميم تركيبة أكثر ملائمة
-                                        لحجم أسنانك</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </figure>
-                    <h2 class="wp-block-heading">كيف يتم خلع اسنان الزيركون لاستبدالها؟</h2>
-                    <p>إزالة تركيبات الزيركون، أو ازالة الاسنان المركبة جميعاً يجب أن يتم على يد الطبيب، ويمنع خلع اسنان
-                        الزيركون منزلياً دون إشراف طبي.</p>
-                    <p>تعتمد تقنية خلع أو نزع تركيبة الزيركون على حالة التركيبة، ونوع التركيبة نفسها (مثل إذا كانت تاج
-                        أو جسر أسنان) وذلك بشكل أساسي.</p>
-                    <p><strong>طرق ازالة تلبيسة الزيركون تشمل:</strong></p>
-                    <ol>
-                        <li>كسر طبقة اللاصق، وسحب تلبيسة الأسنان دون الإضرار بها</li>
-                        <li>ثقب جزء صغير من تركيبة الأسنان لإزالة اللاصق، ثم استخراج تركيبة الأسنان</li>
-                        <li>تقسيم تركيبة الأسنان إلى أجزاء صغيرة ثم إزالتها.</li>
-                    </ol>
-                    <p>إزالة تركيبات الزيركون والأسنان تتم باحترافية شديدة ودقة متناهية؛ حتى لا نمس السن الطبيعي أو
-                        تركيبة الأسنان بالضرر. وننهي الجلسة في وقت قصير، دون التسبب لك بألم أو انزعاج.</p>
-                    <h2 class="wp-block-heading">هل يتم نزع تلبيسة الاسنان منزليا؟</h2>
-                    <p><strong>لا؛ </strong>ليس عليك أن تنزع تركيبة الأسنان منزلياً؛ فذلك قد يضر بالفم واللثة ويعرضك
-                        للجروح والعدوي، أو بالسن الأصلي. تنزع تركيبات الأسنان في العيادة باحترافية، بدون ألم، وفي وقت
-                        قياسي وتركيب الزيركون الذي يفوق في المتانة .</p>
-                    <h2 class="wp-block-heading">فوائد  ازالة تلبيسات الزيركون</h2>
-                    <div id="attachment_7226" style="width: 549px" class="wp-caption aligncenter"><img
-                            decoding="async" aria-describedby="caption-attachment-7226" class="wp-image-7226"
-                            src="../wp-content/uploads/2023/04/%d9%86%d8%b2%d8%b9-%d8%aa%d9%84%d8%a8%d9%8a%d8%b3%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d9%86%d8%a7%d9%86-e1686233699484-1024x550.webp"
-                            alt=" نزع تلبيسة الاسنان" width="539" height="289" />
-                        <p id="caption-attachment-7226" class="wp-caption-text">فوائد  ازالة تلبيسات الزيركون</p>
-                    </div>
-                    <p>حتى نزيل عنك القلق؛ فإن إزالة تركيبات الزيركون <strong>لا ضرر منها على الأسنان.</strong> ولكن ذلك
-                        لا ينفي أن المرور بمثل هذه التجربة ليس أمراً مريحاً. فلماذا تضطر إلى استبدال السن الجديد بعد مدة
-                        قصيرة؟! بينما ينبغي أن يدوم معك في الوضع الطبيعي لمدة تتراوح بين 10 &#8211; 15 عاماً؟!</p>
-                    <p><strong>في مركز يس سمايل:</strong></p>
-                    <ul>
-                        <li>نرشح لك نوع تركيبة الأسنان التي تناسب احتياجك (الأسنان الأمامية/الضروس)؛ حتى تمنحك النتيجة
-                            الأفضل.</li>
-                        <li>نصمم لك تركيبة الأسنان بالطبعات السنية الملائمة لك، والتي تحافظ على تناسق الأسنان ✔ نختار لك
-                            درجة اللون اللتي تتناسب مع أسنانك الطبيعية، وتضفي جمالاً على ابتسامتك.</li>
-                        <li> نصمم لك التركيبات الجديدة بمختبرنا الخاص، تحت إشراف خبراء تركيبات الأسنان.
-                        </li>
-                    </ul>
-                    <p>لمعاينة حالة اسنانك وتركيب تلبيسات تدوم معك طوال العمر، <a
-                            href="http://xn-- -qmcmbicct6brm2spa0d/">احجز استشارتك المجانية</a> مع احد خبرائنا.</p>
-                    <p class="wp-block-heading"><strong>تلبيسات الزيركون تمنحك نتيجة رائعة لأكثر من 10+ سنوات</strong>
-                    </p>
-                    <p>تركيبات الزيركون واحدة من أفضل 3 تركيبات للأسنان، وتحقق نتائج رائعة لمدة زمنية تتراوح بين 10
-                        &#8211; 15 عاماً (مع ضرورة العناية بها). وتناسب هذه التركيبات: ترميم الأسنان وتدعيمها، أو تعويض
-                        المفقود منها. ويمكن الاعتماد عليها في استبدال الأسنان الأمامية (لكنه ليس الخيار الذي يحقق نتيجة
-                        مثالية).</p>
-                    <p><a href="../calculator/index.html" target rel="noopener">تحدث إلى أطباء يس سمايل مجاناً</a>
-                    </p>
-                    <h2>خصائص الزيركون المميزة:</h2>
-                    <h3>1. المتانة الفائقة</h3>
-                    <p>حيث أن تركيبات الزيركون هي أكثر التركيبات متانة؛ لذلك نستعملها بكثرة عند تعويض الضروس.</p>
-                    <h3>2. جمال طبيعي</h3>
-                    <p>أسنان الزيركون تشبه كثيراً الأسنان الطبيعية في لونها. وإن كانت <a
-                            href="../zirconia-and-ceramic-teeth-differences/index.html">تركيبات البورسلين </a>هي الأكثر
-                        شبهاً بها، وأكثر جمالاً من الزيركون.</p>
-                    <h3>3. تركيبة صديقة للثة</h3>
-                    <p>تتوافق تركيبات الزيركون حيوياً مع اللثة؛ وهو ما يعني الحماية من التهابات اللثة ونحوها.</p>
-                    <h3><strong>4. سهولة الاستبدال</strong></h3>
-                    <p>يسهل تصميم تركيبة الأسنان من الزيركون، والتي لا تستغرق أكثر من جلسة أو جلستين بعيادة الأسنان. كما
-                        يمكن استبدالها في أي وقت، وتعويضها بتركيبة أخرى من الزيركون أو البورسلين.</p>
-                    <h3>5. مقاومة للتصبغات</h3>
-                    <p>تدوم تركيبات الزيركون لفترة زمنية تتراوح بين 10 &#8211; 15 عاماً. وتحافظ على لونها ومتانتها طيلة
-                        هذه المدة. فإذا اعتنيت بها جيداً؛ لن تقلق حيال استبدالها في وقت قريب.</p>
-                    <p><strong>تعرف على:</strong><a href="../zircon-teeth-prices-in-turkey/index.html"> كيفية حساب
-                            تركيبات الاسنان واسعارها</a></p>
-                    <h2 class="wp-block-heading">كيفية المحافظة على تركيبة الاسنان الزيركون </h2>
-                    <div id="attachment_7224" style="width: 606px" class="wp-caption aligncenter"><img
-                            decoding="async" aria-describedby="caption-attachment-7224" class="wp-image-7224"
-                            src="../wp-content/uploads/2023/04/%d8%a5%d8%b2%d8%a7%d9%84%d8%a9-%d8%aa%d8%b1%d9%83%d9%8a%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%b2%d9%8a%d8%b1%d9%83%d9%88%d9%86-1-e1686233152165.webp"
-                            alt="إزالة تركيبات الزيركون" width="596" height="363" />
-                        <p id="caption-attachment-7224" class="wp-caption-text">كيفية المحافظة على تركيبة الاسنان
-                            الزيركون</p>
-                    </div>
-                    <ol>
-                        <li>وقف التدخين</li>
-                        <li>تنظيف الأسنان يومياً</li>
-                        <li>اختيار نوع فرشاة ومعجون جيدين</li>
-                        <li>استخدام غسول الفم وخيط الأسنان</li>
-                        <li>لا تكثر من المشروبات الساخنة أو الأطعمة اللزجة</li>
-                        <li>لا ننصح بالأكل حتى انقضاء 2 &#8211; 3 ساعات بعد التركيب</li>
-                        <li>لا ننصح بالجز الشديد على الأسنان، أو العض بها على الأغراض</li>
-                        <li>ننصح بالالتزام بزيارة العيادة في المواعيد المحددة، والخضوع للفحص السنوي.</li>
-                    </ol>
-                    <p class="has-text-align-center">اقرا المزيد ايضآ عن: <a
-                            href="../zirconia-in-dentistry/index.html">مزايا وعيوب تركيبات الزيركون للاسنان</a></p>
-                    <h2 class="wp-block-heading">أسئلة شائعة</h2>
-                    <h3 class="wp-block-heading">كم سنة تدوم تلبيسة الزيركون؟</h3>
-                    <p>10 &#8211; 15 عاماً؛ إذا التزمت بالتوصيات الطبية التي نوصيك بها، وحافظ على السن الجديد واعتنيت به
-                        جيداً.</p>
-                    <h3 class="wp-block-heading">هل يمكن تغير لون اسنان الزيركون؟</h3>
-                    <p>تحافظ أسنان الزيركون على قوتها ولونها طوال فترة عمرها الافتراضي (10 &#8211; 15 عاماً). وذلك يلزم
-                        منك الاهتمام والحفاظ على السن.</p>
-                    <h3 class="wp-block-heading">هل ينكسر السن تحت التلبيسة؟</h3>
-                    <p>طالما تهتم وتعتني بالأسنان؛ فلا تقلق من مثل هذه المشاكل. إذ أننا نحرص قبل تركيب السن الجديد على
-                        تقييم حالة السن، وتحديد الاختيار الأفضل لك.</p>
-                    <h3 class="wp-block-heading">متى يجب تغيير تلبيسة الأسنان؟</h3>
-                    <p>نقوم بإزالة تركيبات الزيركون عند انتهاء عمرها الافتراضي، أو إذا تغير لونها، أو تعرضت للشقوق
-                        والكسور، ونحو ذلك.</p>
-                    <div class="flex justify-between max-w-[21rem] gap-[3.8rem] my-[6.3rem]">
-                        <div style="background-image:url(../wp-content/themes/yessmile-wp/assets/images/post-url.svg);"
-                            class="social-icon-wrap w-[2.2rem] h-[2.1rem] bg-contain bg-center bg-no-repeat relative ">
-                            <a class="absolute left-0 top-0 right-0 bottom-0" href="#"></a>
-                        </div>
-                        <div style="background-image:url(../wp-content/themes/yessmile-wp/assets/images/post-email.svg);"
-                            class="social-icon-wrap w-[2.2rem] h-[2.1rem] bg-contain bg-center bg-no-repeat relative ">
-                            <a class="absolute left-0 top-0 right-0 bottom-0"
-                                href="../cdn-cgi/l/email-protection.html#bb84e8ced9d1ded8cf86631863086313631c63139b6311631f631462319b631e623f62329b631e6309631c623f63129b6311630a623862316313631c63119b631c623f63096231630a62386233623d9b6233631e6302631c631463129b6311630a623862316313623c631c9ddad6cb80f9d4dfc286d3cfcfcbc8819494c2dec8c8d6d2d7de95dade94c9ded6d4cddad796d4dd96c1d2c9d8d4d5d2da96cfdedecfd3968994"></a>
-                        </div>
-                        <div style="background-image:url(../wp-content/themes/yessmile-wp/assets/images/post-twitter.svg);"
-                            class="social-icon-wrap w-[2.2rem] h-[2.1rem] bg-contain bg-center bg-no-repeat relative ">
-                            <a class="absolute left-0 top-0 right-0 bottom-0" href="http://twitter.com/"
-                                onclick="popUp=window.open(
-								'index.html',
-								'popupwindow',
-								'scrollbars=yes,width=800,height=400');
-								popUp.focus();
-								return false"></a>
-                        </div>
-                        <div style="background-image:url(../wp-content/themes/yessmile-wp/assets/images/post-facebook.svg);"
-                            class="social-icon-wrap w-[2.2rem] h-[2.1rem] bg-contain bg-center bg-no-repeat relative ">
-                            <a class="absolute left-0 top-0 right-0 bottom-0" href="http://www.facebook.com/"
-                                onclick="popUp=window.open(
-								'index.html',
-								'popupwindow',
-								'scrollbars=yes,width=800,height=400');
-								popUp.focus();
-								return false"></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-span-12  md:col-span-4 md:col-start-9 relative   ">
-                    <div class=" scroll-posts-wrap sm:top-[5rem] relative sm:sticky ">
-
-                        <div class="rounded-[2rem] bg-light p-[3rem] text-center mb-[5.6rem]">
-                            <div style="background-image:url(../wp-content/uploads/2023/06/closeup-beautiful-smiling-brunette-girl-touching-cheeks-blushing-white-background-1.png);"
-                                class="h-[22.7rem] rounded-[2rem] bg-cover bg-center mb-[3rem] "></div>
-                            <p>هل ترغب في تصميم ابتسامة أحلامك؟<br />
-                                سجل واستلم خطة العلاج مجانا</p>
-                            <div class="btn-light-border small">
-                                <a target href="../calculator/index.html">احجز استشارة مجانية</a>
-                            </div>
-                        </div>
-
-
-                        <div class="rounded-[2rem] bg-light p-[3rem] text-center mb-[10rem] md:mb-[5.6rem]">
-                            <h3 class="text-center text-[2rem]">المزيد من المقالات</h3>
-                            <div class="snap-y overflow-y-auto h-[72.8rem] pb-[10rem]">
-
-                                <div
-                                    class="p-[2rem] flex  rounded-[2rem] mb-[3rem] border-[.2rem] border-primary/50 relative transition ease-linear hover:bg-light">
-                                    <div class="flex flex-1 flex-col pl-[6.493506493506494%] text-right">
-                                        <div><span
-                                                class="text-primary opacity-[.3] text-[2rem] font-bold ">27.02.2024</span>
-                                        </div>
-                                        <div class="post-list-content-box-two relative">
-                                            <h3 class="mb-[1rem]">الطريقة الصحيحة لاستخدام جل تثبيت طقم الأسنان</h3>
-                                            <div>
-                                                <a href="../denture-fixing-gel/index.html">متابعة ></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div style="background-image:url(../wp-content/uploads/2024/02/%d8%ac%d9%84-%d8%aa%d8%ab%d8%a8%d9%8a%d8%aa-%d8%b7%d9%82%d9%85-%d8%a7%d9%84%d8%a3%d8%b3%d9%86%d8%a7%d9%86-2-300x200.webp);"
-                                        class="w-[40.58441558441558%] h-[14.3rem] bg-cover bg-center rounded-[1rem]">
-                                    </div>
-                                    <a class="absolute left-0 top-0 right-0 bottom-[10rem]"
-                                        href="../denture-fixing-gel/index.html"></a>
-                                </div>
-
-
-                                <div
-                                    class="p-[2rem] flex  rounded-[2rem] mb-[3rem] border-[.2rem] border-primary/50 relative transition ease-linear hover:bg-light">
-                                    <div class="flex flex-1 flex-col pl-[6.493506493506494%] text-right">
-                                        <div><span
-                                                class="text-primary opacity-[.3] text-[2rem] font-bold ">23.02.2024</span>
-                                        </div>
-                                        <div class="post-list-content-box-two relative">
-                                            <h3 class="mb-[1rem]">سعر طقم أسنان سيليكون والأكريليك والمعدني</h3>
-                                            <div>
-                                                <a href="../silicone-denture-price/index.html">متابعة ></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div style="background-image:url(../wp-content/uploads/2024/02/%d8%b3%d8%b9%d8%b1-%d8%b7%d9%82%d9%85-%d8%a3%d8%b3%d9%86%d8%a7%d9%86-%d8%b3%d9%8a%d9%84%d9%8a%d9%83%d9%88%d9%86-2-300x169.webp);"
-                                        class="w-[40.58441558441558%] h-[14.3rem] bg-cover bg-center rounded-[1rem]">
-                                    </div>
-                                    <a class="absolute left-0 top-0 right-0 bottom-[10rem]"
-                                        href="../silicone-denture-price/index.html"></a>
-                                </div>
-
-
-                                <div
-                                    class="p-[2rem] flex  rounded-[2rem] mb-[3rem] border-[.2rem] border-primary/50 relative transition ease-linear hover:bg-light">
-                                    <div class="flex flex-1 flex-col pl-[6.493506493506494%] text-right">
-                                        <div><span
-                                                class="text-primary opacity-[.3] text-[2rem] font-bold ">22.02.2024</span>
-                                        </div>
-                                        <div class="post-list-content-box-two relative">
-                                            <h3 class="mb-[1rem]">العناية بأطقم الأسنان: ما هي طريقة حفظ طقم الأسنان؟
-                                            </h3>
-                                            <div>
-                                                <a href="../denture-care/index.html">متابعة ></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div style="background-image:url(../wp-content/uploads/2024/02/%d8%a7%d9%84%d8%b9%d9%86%d8%a7%d9%8a%d8%a9-%d8%a8%d8%a3%d8%b7%d9%82%d9%85-%d8%a7%d9%84%d8%a3%d8%b3%d9%86%d8%a7%d9%86-300x200.webp);"
-                                        class="w-[40.58441558441558%] h-[14.3rem] bg-cover bg-center rounded-[1rem]">
-                                    </div>
-                                    <a class="absolute left-0 top-0 right-0 bottom-[10rem]"
-                                        href="../denture-care/index.html"></a>
-                                </div>
-
-                            </div>
-                        </div>
+        <div class="bg-light-gray lg:h-[calc(100vh-196px)]  mb-[30rem] ">
+            <div class="main-container grid grid-cols-12 pt-[10rem] ">
+                <div class="col-span-12 lg:col-span-7 order-2 lg:order-1">
+                    <div class="flex flex-col  h-full pl-0  lg:pl-[7.5rem]">
                         <div
-                            class="absolute pointer-events-none h-[10rem] md:h-[30rem] bg-gradient-to-t from-primary-extra-light via-primary-extra-light to-primary-extra-light/0 bottom-0 w-full z-10">
+                            class="contact-content-block-wrap text-center lg:text-right max-w-[31rem] lg:max-w-none inline-block lg:block mx-auto lg:mr-0">
+                            <h1 class="hidden lg:block font-normal">تواصل معنا &#8211; <b class="text-dark">يس
+                                    سمايل</b></h1>
+                            <h2 class="hidden lg:block text-[2rem] font-medium">نقدم خدمات استثنائية؛ ترغب في تجربتها
+                                بنفسك!</h2>
+                            <p>&nbsp;</p>
+                            <p><b class="text-dark">نحن جاهزون للرد على رسائلك واستفساراتك على مدار الساعة</b></p>
+                            <p><span style="font-weight: 400;">أرسل لنا استفسارك في رسالة، أو احجز معاينة أسنان مجانية
+                                    عبر الإنترنت لتحصل على؛          </span></p>
+                            <p><span style="font-weight: 400;">✔ تقييم صحي شامل</span></p>
+                            <p><span style="font-weight: 400;">✔ تحديد أفضل طرق العلاج</span></p>
+                            <p><span style="font-weight: 400;">✔ وضع خطة علاجية مناسبة لك</span></p>
+                            <p><span style="font-weight: 400;">✔ توضيح خطة العلاج وإجابة الأسئلة الخاصة بك</span></p>
                         </div>
                     </div>
-
                 </div>
-            </div>
-        </div>
-
-
-        <div
-            class="like-box   main-container py-[3rem]  md:py-[.6rem] px-[7rem] md:px-0 border-[.1rem] border-primary -mt-[20rem] md:-mt-[3.7rem] md:mb-[10rem] flex flex-col md:flex-row justify-between rounded-[2rem] md:rounded-full max-w-[34.8rem] mx-auto md:max-w-[111rem] relative">
-            <div><span
-                    class="text-[2.4rem] text-primary text-center mb-[2rem] md:mb-0 md:py-[1.3rem] md:px-[4.3rem] font-medium leading-[3.6rem] inline-block">هل
-                    أعجبتك مدونتنا YesSmile؟</span></div>
-            <div class="flex flex-col md:flex-row like-btns gap-y-[3rem] md:gap-y-0 ">
-                <div like-val="2"
-                    class="post-like-btn md:ml-[2.4rem] leading-[1.4rem] py-[2.3rem] pr-[3rem] pl-[7rem] text-[1.8rem] font-bold text-[#80CAFF] border-[.2rem] rounded-full border-[#80CAFF] bg-primary-light/20 relative cursor-pointer group ">
-                    <span style="background-image:url(../wp-content/themes/yessmile-wp/assets/images/like-icon.svg);"
-                        class="w-[4rem] h-[4rem] absolute  top-[1rem]  left-[2rem] group-hover:scale-[1.5] transition-all ease-in-out "></span>أعجبتني
-                </div>
-                <div like-val="1"
-                    class="post-like-btn md:ml-[.6rem]  leading-[1.4rem] py-[2.3rem] pr-[3rem] pl-[7rem] text-[1.8rem] font-bold text-[#FF4441] border-[.2rem] rounded-full border-[#FF4441] bg-[#FF4441]/20 relative cursor-pointer group ">
-                    <span style="background-image:url(../wp-content/themes/yessmile-wp/assets/images/dlike-icon.svg);"
-                        class="w-[4rem] h-[4rem] absolute  top-[1rem]  left-[2rem] group-hover:scale-[1.5] transition-all ease-in-out "></span>لم
-                    تعجبني
-                </div>
-            </div>
-            <div class="like-msg absolute left-[10rem] -bottom-[4rem] text-[1.6rem] text-secondary hidden">شكراً لك على
-                رأيك!</div>
-        </div>
-
-
-        <div class="main-container mb-[6rem] sm:mb-[10rem] max-w-[111rem] mt-[6rem] md:mt-0  ">
-            <div class="bg-light rounded-[2rem] shadow-items-slider-box-shadow p-[3rem] flex flex-col md:flex-row ">
-                <div class="md:pl-[14.59459459459459%] flex md:flex-1 gap-0 order-2 md:order-1">
-                    <form class="w-full block" id="commentform" action="https://yessmile.ae/wp-comments-post.php"
-                        method="post" id="commentform">
-                        <div class="flex flex-col justify-between gap-y-[3rem] h-full">
-                            <div>
-                                <h2 class="mb-0 pt-[2rem] sm:pt-0 md:text-right text-center">اترك تعليقك هنا</h2>
+                <div class="col-span-12 lg:col-span-5 order-1 lg:order-2 ">
+                    <div class="contact-content-block-wrap block lg:hidden text-center">
+                        <h1 class="block lg:hidden font-normal">تواصل معنا &#8211; <b class="text-dark">يس سمايل</b>
+                        </h1>
+                        <h2 class="block lg:hidden text-[2rem] font-medium">نقدم خدمات استثنائية؛ ترغب في تجربتها
+                            بنفسك!</h2>
+                    </div>
+                    <div
+                        class="min-h-[75.3rem] bg-light rounded-[2rem] shadow-light-box-shadow mb-[3rem] lg:mb-0 px-[3rem] py-[2rem] sm:px-[8.4rem] sm:py-[6rem]">
+                        <h2 class="text-[1.6rem] font-bold text-center text-primary">أرسل لنا رسالتك وسنجيبك خلال 24
+                            ساعة</h3>
+                            <script type="text/javascript"></script>
+                            <div class="gf_browser_unknown gform_wrapper gravity-theme gform-theme--no-framework ysm-form_wrapper contact-form_wrapper"
+                                data-form-theme="gravity-theme" data-form-index="0" id="gform_wrapper_2">
+                                <div id="gf_2" class="gform_anchor" tabindex="-1"></div>
+                                <form method="post" enctype="multipart/form-data" target="gform_ajax_frame_2"
+                                    id="gform_2" class="ysm-form contact-form"
+                                    action="https://yessmile.ae/contact-us/#gf_2" data-formid="2" novalidate>
+                                    <div class="gform-body gform_body">
+                                        <div id="gform_fields_2"
+                                            class="gform_fields top_label form_sublabel_below description_below">
+                                            <div id="field_2_1"
+                                                class="gfield gfield--type-text name-icon field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible"
+                                                data-js-reload="field_2_1"><label
+                                                    class="gfield_label gform-field-label" for="input_2_1">الاسم الأول
+                                                    والأخير</label>
+                                                <div class="ginput_container ginput_container_text"><input
+                                                        name="input_1" id="input_2_1" type="text" value
+                                                        class="large" aria-invalid="false" /> </div>
+                                            </div>
+                                            <div id="field_2_2"
+                                                class="gfield gfield--type-email gfield--width-full email-icon field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible"
+                                                data-js-reload="field_2_2"><label
+                                                    class="gfield_label gform-field-label" for="input_2_2">البريد
+                                                    الالكتروني</label>
+                                                <div class="ginput_container ginput_container_email">
+                                                    <input name="input_2" id="input_2_2" type="email" value
+                                                        class="large" aria-invalid="false" />
+                                                </div>
+                                            </div>
+                                            <div id="field_2_3"
+                                                class="gfield gfield--type-phone gfield--width-full field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible"
+                                                data-js-reload="field_2_3"><label
+                                                    class="gfield_label gform-field-label" for="input_2_3">رقم
+                                                    الهاتف</label>
+                                                <div class="ginput_container ginput_container_phone"><input
+                                                        name="input_3" id="input_2_3" type="tel" value
+                                                        class="large" aria-invalid="false" /></div>
+                                            </div>
+                                            <div id="field_2_7"
+                                                class="gfield gfield--type-text field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible"
+                                                data-js-reload="field_2_7"><label
+                                                    class="gfield_label gform-field-label" for="input_2_7">كيف سمعت
+                                                    عنا؟</label>
+                                                <div class="ginput_container ginput_container_text"><input
+                                                        name="input_7" id="input_2_7" type="text" value
+                                                        class="large" aria-invalid="false" /> </div>
+                                            </div>
+                                            <div id="field_2_8"
+                                                class="gfield gfield--type-textarea message-icon field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible"
+                                                data-js-reload="field_2_8"><label
+                                                    class="gfield_label gform-field-label" for="input_2_8">اكتب
+                                                    رسالتك</label>
+                                                <div class="ginput_container ginput_container_textarea">
+                                                    <textarea name="input_8" id="input_2_8" class="textarea large" aria-invalid="false" rows="10" cols="50"></textarea>
+                                                </div>
+                                            </div>
+                                            <fieldset id="field_2_9"
+                                                class="gfield gfield--type-checkbox gfield--type-choice privacy-check field_sublabel_below gfield--no-description field_description_below hidden_label gfield_visibility_visible"
+                                                data-js-reload="field_2_9">
+                                                <legend
+                                                    class="gfield_label gform-field-label gfield_label_before_complex">
+                                                    Privacy</legend>
+                                                <div class="ginput_container ginput_container_checkbox">
+                                                    <div class="gfield_checkbox" id="input_2_9">
+                                                        <div class="gchoice gchoice_2_9_1">
+                                                            <input class="gfield-choice-input" name="input_9.1"
+                                                                type="checkbox"
+                                                                value="لقد قرأت وأوافق على شروط سياسة الخصوصية"
+                                                                id="choice_2_9_1" />
+                                                            <label for="choice_2_9_1" id="label_2_9_1"
+                                                                class="gform-field-label gform-field-label--type-inline">لقد
+                                                                قرأت وأوافق على شروط سياسة الخصوصية</label>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </fieldset>
+                                            <div id="field_2_10"
+                                                class="gfield gfield--type-html gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible"
+                                                data-js-reload="field_2_10">
+                                                <p class="form-btm-text">معلوماتك في أمان معنا، يتم نقل البيانات عبر
+                                                    التشفير.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="gform_footer top_label"> <input type="submit"
+                                            id="gform_submit_button_2" class="gform_button button" value="إرسال"
+                                            onclick="if(window[&quot;gf_submitting_2&quot;]){return false;}  if( !jQuery(&quot;#gform_2&quot;)[0].checkValidity || jQuery(&quot;#gform_2&quot;)[0].checkValidity()){window[&quot;gf_submitting_2&quot;]=true;}  "
+                                            onkeypress="if( event.keyCode == 13 ){ if(window[&quot;gf_submitting_2&quot;]){return false;} if( !jQuery(&quot;#gform_2&quot;)[0].checkValidity || jQuery(&quot;#gform_2&quot;)[0].checkValidity()){window[&quot;gf_submitting_2&quot;]=true;}  jQuery(&quot;#gform_2&quot;).trigger(&quot;submit&quot;,[true]); }" />
+                                        <input type="hidden" name="gform_ajax"
+                                            value="form_id=2&amp;title=&amp;description=&amp;tabindex=0&amp;theme=data-form-theme=&#039;gravity-theme&#039;" />
+                                        <input type="hidden" class="gform_hidden" name="is_submit_2"
+                                            value="1" />
+                                        <input type="hidden" class="gform_hidden" name="gform_submit"
+                                            value="2" />
+                                        <input type="hidden" class="gform_hidden" name="gform_unique_id" value />
+                                        <input type="hidden" class="gform_hidden" name="state_2"
+                                            value="WyJbXSIsIjc0MDg0YmViYjQ3ZWJkMmQ4MzNjOGMxMTkzMWFhMTUzIl0=" />
+                                        <input type="hidden" class="gform_hidden" name="gform_target_page_number_2"
+                                            id="gform_target_page_number_2" value="0" />
+                                        <input type="hidden" class="gform_hidden" name="gform_source_page_number_2"
+                                            id="gform_source_page_number_2" value="1" />
+                                        <input type="hidden" name="gform_field_values" value />
+                                    </div>
+                                    <p style="display: none !important;" class="akismet-fields-container"
+                                        data-prefix="ak_"><label>&#916;
+                                            <textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea>
+                                        </label><input type="hidden" id="ak_js_1" name="ak_js"
+                                            value="207" />
+                                        <script>
+                                            document.getElementById("ak_js_1").setAttribute("value", (new Date()).getTime());
+                                        </script>
+                                    </p>
+                                </form>
                             </div>
-                            <div>
-                                <div class="mb-[2rem]"><input required
-                                        class="bg-light-gray rounded-[2rem] py-[2.4rem] pr-[2rem] pl-[5rem] text-[1.6rem] font-bold w-full"
-                                        type="text" id="author" name="author" type="text"
-                                        placeholder="الاسم الأول" value /></div>
-                                <div class="mb-[2rem]"><input required
-                                        class="bg-light-gray rounded-[2rem] py-[2.4rem] pr-[2rem] pl-[5rem] text-[1.6rem] font-bold w-full"
-                                        type="email" id="email" name="email" type="text"
-                                        placeholder="الإيميل" value /></div>
-                                <div>
-                                    <textarea id="comment"
-                                        class="bg-light-gray h-[18rem] rounded-[2rem] py-[2.4rem] pr-[2rem] pl-[5rem] text-[1.6rem] font-bold w-full"
-                                        name="comment"></textarea>
-                                </div>
-                            </div>
-                            <div><input
-                                    class="min-w-[10rem] text-[1.6rem] font-bold px-[4rem] py-[1.45rem] border-[.1rem] rounded-[4.7rem] border-secondary  text-secondary  transition-all duration-500 ease-in-out
-            group-hover:shadow-btn-border-shadow inline-block hover:bg-secondary/10 "
-                                    name="submit" type="submit" id="submit-comment" value="أضف تعليق"></div>
-                        </div>
-                        <input type="hidden" name="comment_post_ID" value="1294" id="comment_post_ID">
-                        <input type="hidden" name="comment_parent" id="comment_parent" value="0">
-                    </form>
+                            <iframe style="display:none;width:0px;height:0px;" src="about:blank"
+                                name="gform_ajax_frame_2" id="gform_ajax_frame_2"
+                                title="يحتوي iframe على المنطق المطلوب للتعامل مع Gravity Forms التي تعمل بتقنية Ajax."></iframe>
+                            <script type="text/javascript">
+                                /* <![CDATA[ */
+                                gform.initializeOnLoaded(function() {
+                                    gformInitSpinner(2, '../wp-content/plugins/gravityforms/images/spinner.svg', true);
+                                    jQuery('#gform_ajax_frame_2').on('load', function() {
+                                        var contents = jQuery(this).contents().find('*').html();
+                                        var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;
+                                        if (!is_postback) {
+                                            return;
+                                        }
+                                        var form_content = jQuery(this).contents().find('#gform_wrapper_2');
+                                        var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_2').length >
+                                            0;
+                                        var is_redirect = contents.indexOf('gformRedirect(){') >= 0;
+                                        var is_form = form_content.length > 0 && !is_redirect && !is_confirmation;
+                                        var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css(
+                                            'margin-top'), 10) + 100;
+                                        if (is_form) {
+                                            jQuery('#gform_wrapper_2').html(form_content.html());
+                                            if (form_content.hasClass('gform_validation_error')) {
+                                                jQuery('#gform_wrapper_2').addClass('gform_validation_error');
+                                            } else {
+                                                jQuery('#gform_wrapper_2').removeClass('gform_validation_error');
+                                            }
+                                            setTimeout(function() {
+                                                /* delay the scroll by 50 milliseconds to fix a bug in chrome */
+                                                jQuery(document).scrollTop(jQuery('#gform_wrapper_2').offset().top - mt);
+                                            }, 50);
+                                            if (window['gformInitDatepicker']) {
+                                                gformInitDatepicker();
+                                            }
+                                            if (window['gformInitPriceFields']) {
+                                                gformInitPriceFields();
+                                            }
+                                            var current_page = jQuery('#gform_source_page_number_2').val();
+                                            gformInitSpinner(2, '../wp-content/plugins/gravityforms/images/spinner.svg', true);
+                                            jQuery(document).trigger('gform_page_loaded', [2, current_page]);
+                                            window['gf_submitting_2'] = false;
+                                        } else if (!is_redirect) {
+                                            var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();
+                                            if (!confirmation_content) {
+                                                confirmation_content = contents;
+                                            }
+                                            setTimeout(function() {
+                                                jQuery('#gform_wrapper_2').replaceWith(confirmation_content);
+                                                jQuery(document).scrollTop(jQuery('#gf_2').offset().top - mt);
+                                                jQuery(document).trigger('gform_confirmation_loaded', [2]);
+                                                window['gf_submitting_2'] = false;
+                                                wp.a11y.speak(jQuery('#gform_confirmation_message_2').text());
+                                            }, 50);
+                                        } else {
+                                            jQuery('#gform_2').append(contents);
+                                            if (window['gformRedirect']) {
+                                                gformRedirect();
+                                            }
+                                        }
+                                        const gformWrapperDiv = document.getElementById("gform_wrapper_2");
+                                        if (gformWrapperDiv) {
+                                            const visibilitySpan = document.createElement("span");
+                                            visibilitySpan.id = "gform_visibility_test_2";
+                                            gformWrapperDiv.insertAdjacentElement("afterend", visibilitySpan);
+                                        }
+                                        const visibilityTestDiv = document.getElementById("gform_visibility_test_2");
+                                        let postRenderFired = false;
+
+                                        function triggerPostRender() {
+                                            if (postRenderFired) {
+                                                return;
+                                            }
+                                            postRenderFired = true;
+                                            jQuery(document).trigger('gform_post_render', [2, current_page]);
+                                            gform.utils.trigger({
+                                                event: 'gform/postRender',
+                                                native: false,
+                                                data: {
+                                                    formId: 2,
+                                                    currentPage: current_page
+                                                }
+                                            });
+                                            if (visibilityTestDiv) {
+                                                visibilityTestDiv.parentNode.removeChild(visibilityTestDiv);
+                                            }
+                                        }
+
+                                        function debounce(func, wait, immediate) {
+                                            var timeout;
+                                            return function() {
+                                                var context = this,
+                                                    args = arguments;
+                                                var later = function() {
+                                                    timeout = null;
+                                                    if (!immediate) func.apply(context, args);
+                                                };
+                                                var callNow = immediate && !timeout;
+                                                clearTimeout(timeout);
+                                                timeout = setTimeout(later, wait);
+                                                if (callNow) func.apply(context, args);
+                                            };
+                                        }
+                                        const debouncedTriggerPostRender = debounce(function() {
+                                            triggerPostRender();
+                                        }, 200);
+                                        if (visibilityTestDiv && visibilityTestDiv.offsetParent === null) {
+                                            const observer = new MutationObserver((mutations) => {
+                                                mutations.forEach((mutation) => {
+                                                    if (mutation.type === 'attributes' && visibilityTestDiv
+                                                        .offsetParent !== null) {
+                                                        debouncedTriggerPostRender();
+                                                        observer.disconnect();
+                                                    }
+                                                });
+                                            });
+                                            observer.observe(document.body, {
+                                                attributes: true,
+                                                childList: false,
+                                                subtree: true,
+                                                attributeFilter: ['style', 'class'],
+                                            });
+                                        } else {
+                                            triggerPostRender();
+                                        }
+                                    });
+                                });
+                                /* ]]&gt; */
+                            </script>
+                    </div>
                 </div>
-                <div style="background-image:url(../wp-content/themes/yessmile-wp/assets/images/comments-image.png);"
-                    class="h-[24.2rem] md:h-[54.2rem] w-full md:w-[46.76190476190476%] rounded-[1rem]  bg-cover bg-no-repeat order-1 md:order-2 bg-center ">
+                <div
+                    class="col-span-12 lg:mt-[-15rem] py-[3rem] order-3 text-center lg:text-right max-w-[31rem] lg:max-w-none inline-block lg:block mx-auto lg:mx-0  ">
+                    <p class="font-medium">املأ النموذج المرفق، وسنوافيك بمواعيد الاستشارة المتاحة لدينا.</p>
+                    <p class="text-secondary text-[2.4rem] lg:text-[3.6rem] font-extrabold">يمكنك التواصل معنا 7/24.
+                    </p>
                 </div>
             </div>
         </div>
@@ -1528,15 +1462,15 @@
                     السوشال ميديا</h3>
                 <div class="flex justify-start gap-[50px]">
                     <a href="https://www.instagram.com/yessmile.ae" target="_blank"><img
-                            src="../wp-content/uploads/2023/05/insta_icon.svg" /></a>
+                            src="{{ asset('insta_icon.svg') }}" /></a>
                     <a href="https://www.facebook.com/yessmile.ae" target="_blank"><img
-                            src="../wp-content/uploads/2023/05/facebook_icon.svg" /></a>
+                            src="{{ asset('facebook_icon.svg') }}" /></a>
                     <a href="https://www.youtube.com/@yessmile-ae" target="_blank"><img
-                            src="../wp-content/uploads/2023/05/youtube_icon.svg" /></a>
+                            src="{{ asset('youtube_icon.svg') }}" /></a>
                     <a href="https://www.tiktok.com/@yessmile.ae" target="_blank"><img
-                            src="../wp-content/uploads/2023/05/tiktok_icon.svg" /></a>
+                            src="{{ asset('tiktok_icon.svg') }}" /></a>
                     <a href="https://www.snapchat.com/add/yessmile.ae" target="_blank"><img
-                            src="../wp-content/uploads/2023/06/icons8-snapchat.svg" /></a>
+                            src="{{ asset('snapchat.svg') }}" /></a>
                 </div>
             </div>
             <div class="flex justify-end order-1 md:order-2">
@@ -1545,14 +1479,14 @@
                             src="../wp-content/themes/yessmile-wp/assets/images/footer-logo.svg" /></div>
                     <h3 class="mb-[20px] font-medium text-[2.4rem] md:text-[3.6rem]">تواصل معنا</h3>
                     <a class="block text-light/70    mb-3"
-                        href="../cdn-cgi/l/email-protection.html#accfc3c2d8cdcfd8ecd5c9dfdfc1c5c0c982cdc9"><span
+                        href="../cdn-cgi/l/email-protection.html#7a1915140e1b190e3a031f09091713161f541b1f"><span
                             class="__cf_email__"
-                            data-cfemail="73101c1d07121007330a1600001e1a1f165d1216">[email&#160;protected]</span></a>
+                            data-cfemail="81e2eeeff5e0e2f5c1f8e4f2f2ece8ede4afe0e4">[email&#160;protected]</span></a>
                     <a class="block text-right ltr-dir text-light/70   " target="_blank"
                         href="https://wa.me/+905399356722">+90 539 935 67 22</a>
                     <h3 class="mb-[2rem] font-medium  text-[1.6rem] md:text-[2rem] mt-[1rem]  ">إسطنبول - تركيا</h3>
                     <div class="mt-4">
-                        <div><iframe loading="lazy" style="border: 0; border-radius: 20px; width: 100%;"
+                        <div><iframe style="border: 0; border-radius: 20px; width: 100%;"
                                 src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12025.824987199421!2d28.9822116!3d41.1027258!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab7ffde03555b%3A0xf7da3506dd5bd838!2zWWVzU21pbGUgY2xpbmljIC0g2YXYsdmD2LIg2YrYsyDYs9mF2KfZitmE!5e0!3m2!1sen!2s!4v1684752158041!5m2!1sen!2s"
                                 width="450" height="450" allowfullscreen="allowfullscreen"></iframe></div>
                     </div>
@@ -1574,29 +1508,259 @@
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PN5LVP4" height="0"
             width="0"></iframe></noscript>
 
+    <link rel="stylesheet" id="forms-style-css"
+        href="{{ asset('wp-content/themes/yessmile-wp/ysmile_blocks/blocks/assets/css/form-style84fc.css') }}"
+        type="text/css" media="all" />
+    <link rel="stylesheet" id="gform_basic-css"
+        href="{{ asset('wp-content/plugins/gravityforms/assets/css/dist/basic.min5e0b.css') }}" type="text/css"
+        media="all" />
     <script data-cfasync="false" src="{{ asset('cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js') }}">
     </script>
     <script type="text/javascript" src="{{ asset('wp-content/themes/yessmile-wp/assets/js/slick.min84fc.js') }}"
         id="YSMILE-slick-js"></script>
     <script type="text/javascript" src="{{ asset('wp-content/themes/yessmile-wp/assets/js/custom84fc.js') }}"
         id="YSMILE-custom-js"></script>
-    <script type="text/javascript" id="YSMILE-posts-script-js-extra">
+    <script type="text/javascript" src="{{ asset('wp-includes/js/dist/vendor/wp-polyfill-inert.min0226.js') }}"
+        id="wp-polyfill-inert-js"></script>
+    <script type="text/javascript" src="{{ asset('wp-includes/js/dist/vendor/regenerator-runtime.min6c85.js') }}"
+        id="regenerator-runtime-js"></script>
+    <script type="text/javascript" src="{{ asset('wp-includes/js/dist/vendor/wp-polyfill.min2c7c.js') }}"
+        id="wp-polyfill-js"></script>
+    <script type="text/javascript" src="{{ asset('wp-includes/js/dist/dom-ready.minded6.js') }}" id="wp-dom-ready-js">
+    </script>
+    <script type="text/javascript" src="{{ asset('wp-includes/js/dist/hooks.min2ebd.js') }}" id="wp-hooks-js"></script>
+    <script type="text/javascript" src="{{ asset('wp-includes/js/dist/i18n.minf92f.js') }}" id="wp-i18n-js"></script>
+    <script type="text/javascript" id="wp-i18n-js-after">
         /* <![CDATA[ */
-        var script_vars = {
-            "home_url": "https:\/\/yessmile.ae",
-            "ajax_url": "https:\/\/yessmile.ae\/wp-admin\/admin-ajax.php",
-            "map_pins": null
+        wp.i18n.setLocaleData({
+            'text direction\u0004ltr': ['rtl']
+        });
+        /* ]]> */
+    </script>
+    <script type="text/javascript" id="wp-a11y-js-translations">
+        /* <![CDATA[ */
+        (function(domain, translations) {
+            var localeData = translations.locale_data[domain] || translations.locale_data.messages;
+            localeData[""].domain = domain;
+            wp.i18n.setLocaleData(localeData, domain);
+        })("default", {
+            "translation-revision-date": "2024-02-13 12:47:46+0000",
+            "generator": "GlotPress\/4.0.0-beta.2",
+            "domain": "messages",
+            "locale_data": {
+                "messages": {
+                    "": {
+                        "domain": "messages",
+                        "plural-forms": "nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));",
+                        "lang": "ar"
+                    },
+                    "Notifications": ["\u0627\u0644\u0625\u0634\u0639\u0627\u0631\u0627\u062a"]
+                }
+            },
+            "comment": {
+                "reference": "wp-includes\/js\/dist\/a11y.js"
+            }
+        });
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="{{ asset('wp-includes/js/dist/a11y.min866e.js') }}" id="wp-a11y-js"></script>
+    <script type="text/javascript" defer="defer"
+        src="{{ asset('wp-content/plugins/gravityforms/js/jquery.json.min5e0b.js') }}" id="gform_json-js"></script>
+    <script type="text/javascript" id="gform_gravityforms-js-extra">
+        /* <![CDATA[ */
+        var gform_i18n = {
+            "datepicker": {
+                "days": {
+                    "monday": "Mo",
+                    "tuesday": "Tu",
+                    "wednesday": "We",
+                    "thursday": "Th",
+                    "friday": "Fr",
+                    "saturday": "Sa",
+                    "sunday": "Su"
+                },
+                "months": {
+                    "january": "\u064a\u0646\u0627\u064a\u0631",
+                    "february": "\u0641\u0628\u0631\u0627\u064a\u0631",
+                    "march": "\u0645\u0627\u0631\u0633",
+                    "april": "\u0627\u0628\u0631\u064a\u0644",
+                    "may": "\u0645\u0627\u064a\u0648",
+                    "june": "\u064a\u0648\u0646\u064a\u0629",
+                    "july": "\u064a\u0648\u0644\u064a\u0648",
+                    "august": "\u0627\u063a\u0633\u0637\u0633",
+                    "september": "\u0633\u0628\u062a\u0645\u0628\u0631",
+                    "october": "\u0627\u0643\u062a\u0648\u0628\u0631",
+                    "november": "\u0646\u0648\u0641\u0645\u0628\u0631",
+                    "december": "\u062f\u064a\u0633\u0645\u0628\u0631"
+                },
+                "firstDay": 6,
+                "iconText": "\u062d\u062f\u062f \u0627\u0644\u062a\u0627\u0631\u064a\u062e"
+            }
+        };
+        var gf_legacy_multi = [];
+        var gform_gravityforms = {
+            "strings": {
+                "invalid_file_extension": "This type of file is not allowed. Must be one of the following:",
+                "delete_file": "Delete this file",
+                "in_progress": "in progress",
+                "file_exceeds_limit": "File exceeds size limit",
+                "illegal_extension": "This type of file is not allowed.",
+                "max_reached": "Maximum number of files reached",
+                "unknown_error": "There was a problem while saving the file on the server",
+                "currently_uploading": "Please wait for the uploading to complete",
+                "cancel": "\u0627\u0644\u063a\u0627\u0621",
+                "cancel_upload": "Cancel this upload",
+                "cancelled": "Cancelled"
+            },
+            "vars": {
+                "images_url": "https:\/\/yessmile.ae\/wp-content\/plugins\/gravityforms\/images"
+            }
+        };
+        var gf_global = {
+            "gf_currency_config": {
+                "name": "\u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0627\u0644\u0627\u0645\u0631\u064a\u0643\u0649",
+                "symbol_left": "$",
+                "symbol_right": "",
+                "symbol_padding": "",
+                "thousand_separator": ",",
+                "decimal_separator": ".",
+                "decimals": 2,
+                "code": "USD"
+            },
+            "base_url": "https:\/\/yessmile.ae\/wp-content\/plugins\/gravityforms",
+            "number_formats": [],
+            "spinnerUrl": "https:\/\/yessmile.ae\/wp-content\/plugins\/gravityforms\/images\/spinner.svg",
+            "version_hash": "aaec19a0005311d3d7d53d9573025ecb",
+            "strings": {
+                "newRowAdded": "\u062a\u0645\u062a \u0625\u0636\u0627\u0641\u0629 \u0635\u0641 \u062c\u062f\u064a\u062f.",
+                "rowRemoved": "\u062a\u0645\u062a \u0625\u0632\u0627\u0644\u0629 \u0627\u0644\u0635\u0641",
+                "formSaved": "\u062a\u0645 \u062d\u0641\u0638 \u0627\u0644\u0646\u0645\u0648\u0630\u062c. \u064a\u062d\u062a\u0648\u064a \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0639\u0644\u0649 \u0627\u0644\u0631\u0627\u0628\u0637 \u0644\u0644\u0639\u0648\u062f\u0629 \u0648\u0627\u0633\u062a\u0643\u0645\u0627\u0644 \u0627\u0644\u0646\u0645\u0648\u0630\u062c."
+            }
         };
         /* ]]> */
     </script>
-    <script type="text/javascript" src="{{ asset('wp-content/themes/yessmile-wp/assets/js/posts-script84fc.js') }}"
-        id="YSMILE-posts-script-js"></script>
-    <script type="text/javascript" src="{{ asset('wp-includes/js/dist/interactivity.min84fc.js') }}"
-        id="wp-interactivity-js" defer="defer" data-wp-strategy="defer"></script>
-    <script type="text/javascript" src="{{ asset('wp-includes/blocks/image/view.min5d0e.js') }}"
-        id="wp-block-image-view-js" defer="defer" data-wp-strategy="defer"></script>
+
+    <script type="text/javascript" defer="defer"
+        src="{{ asset('wp-content/plugins/gravityforms/js/gravityforms.min5e0b.js') }}" id="gform_gravityforms-js">
+    </script>
+    <script type="text/javascript" defer="defer"
+        src="{{ asset('wp-content/plugins/gravityforms/js/jquery.maskedinput.min5e0b.js') }}" id="gform_masked_input-js">
+    </script>
+    <script type="text/javascript" defer="defer"
+        src="{{ asset('wp-content/plugins/gravityforms/assets/js/dist/utils.minbdb4.js') }}"
+        id="gform_gravityforms_utils-js"></script>
+    <script type="text/javascript" defer="defer"
+        src="{{ asset('wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.minca9e.js') }}"
+        id="gform_gravityforms_theme_vendors-js"></script>
+    <script type="text/javascript" id="gform_gravityforms_theme-js-extra">
+        /* <![CDATA[ */
+        var gform_theme_config = {
+            "common": {
+                "form": {
+                    "honeypot": {
+                        "version_hash": "aaec19a0005311d3d7d53d9573025ecb"
+                    }
+                }
+            },
+            "hmr_dev": "",
+            "public_path": "https:\/\/yessmile.ae\/wp-content\/plugins\/gravityforms\/assets\/js\/dist\/"
+        };
+        /* ]]> */
+    </script>
+    <script type="text/javascript" defer="defer"
+        src="{{ asset('wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min00af.js') }}"
+        id="gform_gravityforms_theme-js"></script>
+    <script defer type="text/javascript" src="{{ asset('wp-content/plugins/akismet/_inc/akismet-frontendce31.js') }}"
+        id="akismet-frontend-js"></script>
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        gform.initializeOnLoaded(function() {
+            jQuery(document).on('gform_post_render', function(event, formId, currentPage) {
+                if (formId == 2) {
+                    jQuery('#input_2_3').mask('(999) 999-9999').bind('keypress', function(e) {
+                        if (e.which == 13) {
+                            jQuery(this).blur();
+                        }
+                    });
+                }
+            });
+            jQuery(document).on('gform_post_conditional_logic', function(event, formId, fields, isInit) {})
+        });
+        /* ]]> */
+    </script>
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        gform.initializeOnLoaded(function() {
+            const gformWrapperDiv = document.getElementById("gform_wrapper_2");
+            if (gformWrapperDiv) {
+                const visibilitySpan = document.createElement("span");
+                visibilitySpan.id = "gform_visibility_test_2";
+                gformWrapperDiv.insertAdjacentElement("afterend", visibilitySpan);
+            }
+            const visibilityTestDiv = document.getElementById("gform_visibility_test_2");
+            let postRenderFired = false;
+
+            function triggerPostRender() {
+                if (postRenderFired) {
+                    return;
+                }
+                postRenderFired = true;
+                jQuery(document).trigger('gform_post_render', [2, 1]);
+                gform.utils.trigger({
+                    event: 'gform/postRender',
+                    native: false,
+                    data: {
+                        formId: 2,
+                        currentPage: 1
+                    }
+                });
+                if (visibilityTestDiv) {
+                    visibilityTestDiv.parentNode.removeChild(visibilityTestDiv);
+                }
+            }
+
+            function debounce(func, wait, immediate) {
+                var timeout;
+                return function() {
+                    var context = this,
+                        args = arguments;
+                    var later = function() {
+                        timeout = null;
+                        if (!immediate) func.apply(context, args);
+                    };
+                    var callNow = immediate && !timeout;
+                    clearTimeout(timeout);
+                    timeout = setTimeout(later, wait);
+                    if (callNow) func.apply(context, args);
+                };
+            }
+            const debouncedTriggerPostRender = debounce(function() {
+                triggerPostRender();
+            }, 200);
+            if (visibilityTestDiv && visibilityTestDiv.offsetParent === null) {
+                const observer = new MutationObserver((mutations) => {
+                    mutations.forEach((mutation) => {
+                        if (mutation.type === 'attributes' && visibilityTestDiv.offsetParent !==
+                            null) {
+                            debouncedTriggerPostRender();
+                            observer.disconnect();
+                        }
+                    });
+                });
+                observer.observe(document.body, {
+                    attributes: true,
+                    childList: false,
+                    subtree: true,
+                    attributeFilter: ['style', 'class'],
+                });
+            } else {
+                triggerPostRender();
+            }
+        });
+        /* ]]> */
+    </script>
 </body>
 
-<!-- Mirrored from yessmile.ae/removal-of-zirconia-teeth-2/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Mar 2024 14:38:31 GMT -->
+<!-- Mirrored from yessmile.ae/contact-us/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Mar 2024 14:37:59 GMT -->
 
 </html>
