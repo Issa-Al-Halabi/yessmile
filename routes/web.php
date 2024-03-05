@@ -1,5 +1,6 @@
 <?php
 
+use App\Livewire\ShowHome;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -13,6 +14,4 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('article_detail');
-});
+Route::get('/',ShowHome::class);
