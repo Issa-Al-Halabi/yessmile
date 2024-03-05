@@ -6,11 +6,12 @@ use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Spatie\Translatable\HasTranslations;
 
-class ConultationRequest extends Model
+class ConsultationRequest extends Model
 {
     use HasFactory, HasTranslations;
+    public $timestamps = false;
 
-    protected $table = "conultation_requests";
+    protected $table = "consultation_requests";
 
     protected $translatable = [
         'patient_name',
@@ -24,5 +25,9 @@ class ConultationRequest extends Model
         'country',
         'diagnose_description',
         'images',
+    ];
+
+    protected $casts = [
+        'images' => 'array',
     ];
 }
