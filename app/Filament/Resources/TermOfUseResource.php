@@ -21,7 +21,10 @@ class TermOfUseResource extends Resource
     protected static ?string $navigationIcon = 'heroicon-o-finger-print';
     protected static ?string $navigationLabel = "Term Of Use";
     protected static ?string $modelLabel = "Term Of Use";
+    protected static ?string $pluralModelLabel = "Term Of Use";
 
+    protected static ?string $navigationGroup = "Privacy & Terms";
+    protected static ?int $navigationSort = 2;
     public static function form(Form $form): Form
     {
         return $form

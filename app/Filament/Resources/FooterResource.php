@@ -22,6 +22,7 @@ class FooterResource extends Resource
 
     protected static ?string $navigationIcon = 'heroicon-o-rectangle-stack';
     protected static ?string $navigationLabel = "Footer";
+    protected static ?string $pluralModelLabel = "Footer";
     protected static ?string $modelLabel = "Footer";
 
     public static function form(Form $form): Form

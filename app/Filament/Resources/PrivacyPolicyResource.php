@@ -21,7 +21,9 @@ class PrivacyPolicyResource extends Resource
     protected static ?string $navigationIcon = 'heroicon-o-finger-print';
     protected static ?string $navigationLabel = "Privacy Policy";
     protected static ?string $modelLabel = "Privacy Policy";
-
+    protected static ?string $pluralModelLabel = "Privacy Policy";
+    protected static ?string $navigationGroup = "Privacy & Terms";
+    protected static ?int $navigationSort = 1;
     public static function form(Form $form): Form
     {
         return $form

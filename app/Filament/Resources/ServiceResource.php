@@ -25,7 +25,8 @@ class ServiceResource extends Resource
     protected static ?string $navigationIcon = 'heroicon-o-inbox-stack';
     protected static ?string $navigationLabel = "Service";
     protected static ?string $modelLabel = "Service";
-
+    protected static ?string $navigationGroup = "Home";
+    protected static ?int $navigationSort = 2;
     public static function form(Form $form): Form
     {
 
@@ -33,24 +34,36 @@ class ServiceResource extends Resource
             ->schema([
                 Tabs::make('Tabs')
                     ->tabs([
-                        Tabs\Tab::make('service details')
+                        Tabs\Tab::make('General Informations')
+                            ->icon('heroicon-o-chat-bubble-bottom-center-text')
                             ->schema([
                                 Forms\Components\TextInput::make('name')
                                     ->required()
                                     ->maxLength(255),
+                                Forms\Components\TextInput::make('title')
+                                    ->required()
+                                    ->maxLength(255),
+                                Forms\Components\FileUpload::make('image')
+                                    ->required()
+                                    ->directory('services')
+                                    ->image()
+                                    ->imageEditor(),
                                 Forms\Components\RichEditor::make('description')
                                     ->required()
                                     ->columnSpanFull(),
                             ]),
                         Tabs\Tab::make('images')
+                            ->icon('heroicon-o-document-arrow-up')
                             ->schema([
                                 Repeater::make('images')->schema([
                                     Forms\Components\FileUpload::make('after_image')
                                         ->required()
+                                        ->directory('services/after')
                                         ->image()
                                         ->imageEditor(),
                                     Forms\Components\FileUpload::make('before_image')
                                         ->required()
+                                        ->directory('services/before')
                                         ->image()
                                         ->imageEditor(),
                                 ]),
@@ -66,22 +79,30 @@ class ServiceResource extends Resource
                 Tables\Columns\TextColumn::make('name')
                     ->searchable()
                     ->sortable(),
+                Tables\Columns\TextColumn::make('title')
+                    ->searchable()
+                    ->sortable(),
+                Tables\Columns\ImageColumn::make('image')
+                    ->label("image"),
+
                 Tables\Columns\TextColumn::make('description')
                     ->searchable()
                     ->sortable()
                     ->html()
                     ->toggledHiddenByDefault(),
-                Tables\Columns\ImageColumn::make('images.0'),
 
                 Tables\Columns\ImageColumn::make('images.0')
-                    ->label("socials")
+                    ->label("images")
                     ->getStateUsing(function (Service $record) {
                         $images = [];
                         foreach ($record->images as $image) {
-                            $images[] = $image;
+                            $images[] = $image["before_image"];
+                            $images[] = $image["after_image"];
                         }
                         return $images;
-                    }),
+                    })
+                    ->toggleable(isToggledHiddenByDefault: true),
+
 
                 Tables\Columns\TextColumn::make('created_at')
                     ->dateTime()
@@ -120,5 +141,13 @@ class ServiceResource extends Resource
             'create' => Pages\CreateService::route('/create'),
             'edit' => Pages\EditService::route('/{record}/edit'),
         ];
+    }
+    public static function getNavigationBadge(): ?string
+    {
+        return static::getModel()::count();
+    }
+    public static function getNavigationBadgeColor(): ?string
+    {
+        return static::getModel()::count() > 10 ? 'warning' : 'primary';
     }
 }

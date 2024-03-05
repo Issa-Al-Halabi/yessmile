@@ -3,18 +3,15 @@
 namespace App\Filament\Resources;
 
 use App\Filament\Resources\ConsultationRequestResource\Pages;
-use App\Filament\Resources\ConsultationRequestResource\RelationManagers;
 use App\Models\ConsultationRequest;
 use Filament\Forms;
-use Filament\Forms\Components\Repeater;
 use Filament\Forms\Components\Tabs;
 use Filament\Forms\Form;
 use Filament\Resources\Concerns\Translatable;
 use Filament\Resources\Resource;
 use Filament\Tables;
 use Filament\Tables\Table;
-use Illuminate\Database\Eloquent\Builder;
-use Illuminate\Database\Eloquent\SoftDeletingScope;
+
 
 class ConsultationRequestResource extends Resource
 {
@@ -24,6 +21,8 @@ class ConsultationRequestResource extends Resource
     protected static ?string $navigationIcon = 'heroicon-o-clipboard-document-list';
     protected static ?string $navigationLabel = "Consultations";
     protected static ?string $modelLabel = "Consultations";
+    protected static ?string $navigationGroup = "Forms";
+    protected static ?int $navigationSort = 2;
 
     public static function form(Form $form): Form
     {
@@ -31,7 +30,8 @@ class ConsultationRequestResource extends Resource
             ->schema([
                 Tabs::make('Tabs')
                     ->tabs([
-                        Tabs\Tab::make('Consultation details')
+                        Tabs\Tab::make('General Informations')
+                        ->icon('heroicon-o-chat-bubble-bottom-center-text')
                             ->schema([
                                 Forms\Components\TextInput::make('patient_name')
                                     ->required()
@@ -47,12 +47,13 @@ class ConsultationRequestResource extends Resource
                                     ->columnSpanFull(),
                             ]),
                         Tabs\Tab::make('images')
+                            ->icon('heroicon-o-document-arrow-up')
                             ->schema([
                                 Forms\Components\FileUpload::make('images')
-                                    ->required()
                                     ->multiple()
                                     ->image()
-                                    ->imageEditor(),
+                                        ->directory('conultation')
+                                        ->imageEditor(),
                             ]),
                     ])->columnSpanFull(),
             ]);
@@ -113,5 +114,13 @@ class ConsultationRequestResource extends Resource
             'create' => Pages\CreateConsultationRequest::route('/create'),
             'edit' => Pages\EditConsultationRequest::route('/{record}/edit'),
         ];
+    }
+    public static function getNavigationBadge(): ?string
+    {
+        return static::getModel()::count();
+    }
+    public static function getNavigationBadgeColor(): ?string
+    {
+        return static::getModel()::count() > 10 ? 'warning' : 'primary';
     }
 }

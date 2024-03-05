@@ -23,7 +23,7 @@ class ArticleResource extends Resource
     protected static ?string $navigationGroup = "Articles";
     protected static ?string $navigationLabel = "Articles";
     protected static ?string $modelLabel = "Articles";
-    protected static ?int $navigationSort = 2;
+    protected static ?int $navigationSort = 1;
 
     public static function form(Form $form): Form
     {
@@ -169,5 +169,14 @@ class ArticleResource extends Resource
             'create' => Pages\CreateArticle::route('/create'),
             'edit' => Pages\EditArticle::route('/{record}/edit'),
         ];
+    }
+
+    public static function getNavigationBadge(): ?string
+    {
+        return static::getModel()::count();
+    }
+    public static function getNavigationBadgeColor(): ?string
+    {
+        return static::getModel()::count() > 10 ? 'warning' : 'primary';
     }
 }
