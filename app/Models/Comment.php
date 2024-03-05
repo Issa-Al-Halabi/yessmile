@@ -24,4 +24,9 @@ class Comment extends Model
         "comment",
         "date",
     ];
+
+    public function article()
+    {
+        return $this->belongsTo(Article::class);
+    }
 }
