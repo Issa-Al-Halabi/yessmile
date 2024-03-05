@@ -1,0 +1,193 @@
+.gform_wrapper.ysm-form_wrapper span.name_first input {
+  width: 100%;
+}
+span.name_first label {
+  display: none;
+}
+.gform_wrapper.ysm-form_wrapper .gfield_label {
+  font-size: 16px;
+  font-weight: 700;
+  color: #898989;
+}
+
+.gform_wrapper.ysm-form_wrapper {
+  text-align: right;
+  position: relative;
+  overflow-x: hidden;
+}
+
+.gform_wrapper.ysm-form_wrapper input {
+  padding: 10px;
+  border-bottom: solid 2px #898989;
+  margin-bottom: 5px;
+}
+
+.gform_wrapper.ysm-form_wrapper .gfield_error input {
+  border-color: red;
+}
+.gform_wrapper.ysm-form_wrapper .form-btm-text {
+  margin-bottom: 0;
+}
+
+.gform_wrapper.ysm-form_wrapper input.gform_button {
+  margin-top: 10px;
+}
+
+.gform_wrapper.gravity-theme.ysm-form_wrapper .gfield textarea.large {
+  padding: 10px;
+  border-bottom: solid 2px #898989;
+  height: 121px;
+  margin-bottom: 0;
+}
+
+.gform_wrapper.gravity-theme.ysm-form_wrapper .gfield.privacy-check input,
+.gform_wrapper.gravity-theme.ysm-form_wrapper .gfield.privacy-check .gchoice {
+  margin-bottom: 0;
+}
+
+span.gfield_required .gfield_required {
+  display: none;
+}
+
+.gform_wrapper.ysm-form_wrapper fieldset.custom-radio-group {
+  background: #f5f5f58a;
+  border: solid 1px #fff;
+  border-radius: 10px;
+  padding: 10px 30px;
+  position: relative;
+  padding-top: 60px;
+}
+.gform_wrapper.ysm-form_wrapper input::placeholder {
+  color: #515151;
+  font-weight: 500;
+}
+
+.gform_wrapper.ysm-form_wrapper legend.gfield_label {
+  position: absolute;
+  color: #3d3d3d;
+  top: 18px;
+  right: 30px;
+  font-weight: 700;
+}
+
+.gform_wrapper.ysm-form_wrapper .gchoice {
+  margin-bottom: 16px;
+}
+
+.gform_wrapper.ysm-form_wrapper input.gform_button {
+  width: 100%;
+  margin-top: 30px;
+  background: #ff6663;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 700;
+  border-radius: 10px;
+  padding: 15px 60px;
+  display: block;
+  border: none;
+}
+
+.gform_wrapper.ysm-form_wrapper input#input_1_8 {
+  height: 80px;
+}
+
+.gform_wrapper.ysm-form_wrapper .gform_fields {
+  grid-row-gap: 8px;
+}
+
+.gfield_validation_message {
+  display: none;
+}
+
+.validation_error {
+  color: red;
+  margin-bottom: 10px;
+}
+
+.gform_wrapper.gravity-theme .gfield.name-icon,
+.gform_wrapper.gravity-theme .gfield.email-icon,
+.gform_wrapper.gravity-theme .gfield.message-icon {
+  position: relative;
+}
+
+.gform_wrapper.gravity-theme .gfield.name-icon::before,
+.gform_wrapper.gravity-theme .gfield.email-icon::before,
+.gform_wrapper.gravity-theme .gfield.message-icon::before {
+  content: " ";
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 10px;
+  top: 0;
+  z-index: 10;
+  padding: 10px;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.gform_wrapper.gravity-theme .gfield.name-icon::before {
+  background-image: url(../images/name-icon.svg);
+}
+
+.gform_wrapper.gravity-theme .gfield.email-icon::before {
+  background-image: url(../images/email-icon.svg);
+}
+
+.gform_wrapper.gravity-theme .gfield.message-icon::before {
+  background-image: url(../images/message-icon.svg);
+}
+
+.validation_error {
+  font-size: 18px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 640px) {
+  .gform_wrapper.ysm-form_wrapper input.gform_button {
+    margin: 10px auto 0 auto;
+    font-size: 13px;
+  }
+
+  .gform_wrapper.ysm-form_wrapper input {
+    padding: 6px 10px;
+    font-size: 14px;
+  }
+  .gform_wrapper.ysm-form_wrapper fieldset.custom-radio-group {
+    padding: 50px 10px 10px 10px;
+  }
+
+  .gform_wrapper.ysm-form_wrapper legend.gfield_label {
+    right: 10px;
+  }
+
+  .gform_wrapper.ysm-form_wrapper .gchoice {
+    margin-bottom: 10px;
+    font-size: 14px;
+  }
+
+  fieldset.custom-radio-group .gfield_radio {
+    display: grid;
+    grid-template-columns: 1fr 1fr !important;
+    grid-column-gap: 6%;
+  }
+  .gform_wrapper.gravity-theme .gfield.sm_telephone {
+    grid-column: span 7 !important;
+  }
+
+  .gform_wrapper.gravity-theme .gfield.country_zipcode select {
+    padding: 8px 0 !important;
+    font-size: 12px;
+  }
+
+  .gform_wrapper.gravity-theme .gfield.country_zipcode {
+    grid-column: span 5 !important;
+  }
+
+  .gform_wrapper.gravity-theme .gform_fields {
+    grid-column-gap: 2% !important;
+    grid-row-gap: 10px !important;
+  }
+}

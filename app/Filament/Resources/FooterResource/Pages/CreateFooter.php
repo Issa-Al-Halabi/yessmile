@@ -8,13 +8,12 @@ use Filament\Resources\Pages\CreateRecord;
 
 class CreateFooter extends CreateRecord
 {
-    use CreateRecord\Concerns\Translatable;
     protected static string $resource = FooterResource::class;
 
     protected function getHeaderActions(): array
     {
         return [
-            Actions\LocaleSwitcher::make(),
+            // Actions\LocaleSwitcher::make(),
         ];
     }
     protected function getRedirectUrl(): string

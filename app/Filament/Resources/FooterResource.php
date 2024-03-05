@@ -8,7 +8,6 @@ use App\Models\Footer;
 use Filament\Forms;
 use Filament\Forms\Components\Tabs;
 use Filament\Forms\Form;
-use Filament\Resources\Concerns\Translatable;
 use Filament\Resources\Resource;
 use Filament\Tables;
 use Filament\Tables\Table;
@@ -17,7 +16,6 @@ use Illuminate\Database\Eloquent\SoftDeletingScope;
 
 class FooterResource extends Resource
 {
-    use Translatable;
     protected static ?string $model = Footer::class;
 
     protected static ?string $navigationIcon = 'heroicon-o-rectangle-stack';

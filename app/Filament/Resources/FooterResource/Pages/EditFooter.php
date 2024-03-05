@@ -8,13 +8,12 @@ use Filament\Resources\Pages\EditRecord;
 
 class EditFooter extends EditRecord
 {
-    use EditRecord\Concerns\Translatable;
     protected static string $resource = FooterResource::class;
 
     protected function getHeaderActions(): array
     {
         return [
-            Actions\LocaleSwitcher::make(),
+            // Actions\LocaleSwitcher::make(),
             Actions\DeleteAction::make(),
         ];
     }
