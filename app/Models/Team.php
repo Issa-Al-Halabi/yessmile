@@ -15,6 +15,7 @@ class Team extends Model
     protected $translatable = [
         "name",
         "job_title",
+        "brief",
         "work_history",
         "specialist",
     ];
@@ -22,6 +23,7 @@ class Team extends Model
     protected $fillable = [
         "name",
         "job_title",
+        "brief",
         "image",
         "work_history",
         "specialist",

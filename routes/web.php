@@ -3,6 +3,7 @@
 use App\Livewire\ShowBookAppointment;
 use App\Livewire\ShowConsultation;
 use App\Livewire\ShowHome;
+use App\Livewire\ShowOurTeam;
 use App\Livewire\ShowPrivacyPolicy;
 use App\Livewire\ShowTermOfUse;
 use Illuminate\Support\Facades\Route;
@@ -23,3 +24,4 @@ Route::get('/privacy-policy', ShowPrivacyPolicy::class);
 Route::get('/term-of-use', ShowTermOfUse::class);
 Route::get('/book-appointment', ShowBookAppointment::class);
 Route::get('/consultation', ShowConsultation::class);
+Route::get('/our-team', ShowOurTeam::class);

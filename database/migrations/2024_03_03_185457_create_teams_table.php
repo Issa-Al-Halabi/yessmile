@@ -17,6 +17,7 @@ return new class extends Migration
             $table->id();
             $table->string('name');
             $table->string('job_title');
+            $table->longText('brief');
             $table->string('image');
             $table->json('work_history');
             $table->json('specialist');
