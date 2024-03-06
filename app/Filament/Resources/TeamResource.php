@@ -24,8 +24,9 @@ class TeamResource extends Resource
     protected static ?string $navigationLabel = "Teams";
     protected static ?string $modelLabel = "Team";
 
-    protected static ?string $navigationGroup = "About";
+    protected static ?string $navigationGroup = "Our Team";
     protected static ?int $navigationSort = 2;
+
     public static function form(Form $form): Form
     {
         return $form
@@ -44,6 +45,15 @@ class TeamResource extends Resource
                                 Forms\Components\TextInput::make('job_title')
                                     ->required()
                                     ->maxLength(255),
+                                Forms\Components\RichEditor::make('brief')
+                                    ->required()
+                                    ->columnSpanFull(),
+
+
+                            ])->columns(2),
+                        Tabs\Tab::make('Image')
+                            ->icon('heroicon-o-document-plus')
+                            ->schema([
                                 Forms\Components\FileUpload::make('image')
                                     ->label("Image")
                                     ->image()
@@ -58,8 +68,7 @@ class TeamResource extends Resource
                                     ->imageResizeTargetWidth('800')
                                     ->imageResizeTargetHeight('500')
                                     ->imageEditor(),
-
-                            ])->columns(2),
+                            ]),
                         Tabs\Tab::make('Work History')
                             ->icon('heroicon-o-briefcase')
                             ->schema([
@@ -72,6 +81,7 @@ class TeamResource extends Resource
                                             ->maxLength(255),
                                     ]),
                             ]),
+
                         Tabs\Tab::make('specialities')
                             ->icon('heroicon-o-chat-bubble-left-ellipsis')
                             ->schema([
@@ -100,6 +110,7 @@ class TeamResource extends Resource
                 Tables\Columns\TextColumn::make('job_title')
                     ->sortable()
                     ->searchable(),
+
                 Tables\Columns\ImageColumn::make('image'),
                 Tables\Columns\TextColumn::make('work_history')
                     ->sortable()

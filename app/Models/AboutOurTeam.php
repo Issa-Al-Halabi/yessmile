@@ -6,28 +6,20 @@ use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Spatie\Translatable\HasTranslations;
 
-class WhoWeAre extends Model
+class AboutOurTeam extends Model
 {
     use HasFactory, HasTranslations;
 
-    protected $table = "who_we_are";
+    protected $table = "about_our_team";
 
     protected $translatable = [
         "title",
-        "body",
-        "features",
-        "banner_title",
-        "banner_description",
-        "why_choose_us",
+        "description",
     ];
 
     protected $fillable = [
         "title",
-        "body",
+        "description",
         "image",
-        "features",
-        "banner_title",
-        "banner_description",
-        "why_choose_us",
     ];
 }
