@@ -20,7 +20,7 @@ class ArticleResource extends Resource
     protected static ?string $model = Article::class;
 
     protected static ?string $navigationIcon = 'heroicon-o-rectangle-stack';
-    protected static ?string $navigationGroup = "Articles & News";
+    protected static ?string $navigationGroup = "Our World";
     protected static ?string $navigationLabel = "Articles";
     protected static ?string $modelLabel = "Articles";
     protected static ?int $navigationSort = 1;

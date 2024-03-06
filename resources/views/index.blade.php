@@ -1535,11 +1535,15 @@
                     src="wp-content/uploads/2023/09/Group-346-1.webp" />
                 <div class="lg:py-[5rem] py-[3rem]   md:max-w-[70%]   max-w-none  text-light ]">
                     <div class="px-[3rem]">
-                        <h2 class="my-[5rem] max-w-[20rem] sm:max-w-none ">تحدث مع أطباء <b>YesSmile</b> مجانًا</h2>
+                        <h2 class="my-[5rem] max-w-[20rem] sm:max-w-none ">
+                            تحدث مع أطباء <b>YesSmile</b> مجانًا</h2>
+
                         <p>هل ترغب أن تتميز بابتسامتك؟ هل لديك مشاكل بأسنانك تريد علاجها ومن<br />
                             ثم تجميلها؟</p>
                         <p>تحدث مع أطبائنا مجانًا حول أفضل خطة علاجية مناسبة لحالتك الخاصة!<br />
                             نقدم لك تحليل مجاني ومفصل لنضعك على طريق ابتسامة <b>Hollywood</b> مثالية.</p>
+
+                                
                         <div class="btn-light mt-[6rem] lg:mt-[10rem] mb-[5rem]  text-center md:text-right">
                             <a target href="calculator/index.html">تحدث مع أطبائنا</a>
                         </div>

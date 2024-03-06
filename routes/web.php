@@ -21,7 +21,7 @@ Route::get('/', ShowHome::class);
 // ================= Services ================= //
 Route::get('/service/{id}', Showservice::class)->name('service');
 
-// ================= Articles ================= //
+// ================= Our World ================= //
 Route::get('/our-world', ShowOurWorld::class);
 Route::get('/article/{id}', ShowArticle::class)->name('article');
 Route::get('/news/{id}', ShowNews::class)->name('news');
@@ -34,11 +34,11 @@ Route::get('/term-of-use', ShowTermOfUse::class);
 Route::get('/book-appointment', ShowBookAppointment::class);
 Route::get('/consultation', ShowConsultation::class);
 
-// ================= Team ================= //
-Route::get('/our-team', ShowOurTeam::class);
-
 // ================= About ================= //
 Route::get('/who-we-are', ShowWhoWeAre::class);
 
 // ================= Branches ================= //
 Route::get('/our_branches', ShowBranches::class);
+
+// ================= Our Team ================= //
+Route::get('/our-team', ShowOurTeam::class);

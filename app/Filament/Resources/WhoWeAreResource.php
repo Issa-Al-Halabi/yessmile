@@ -24,7 +24,7 @@ class WhoWeAreResource extends Resource
     protected static ?string $pluralModelLabel = "Who We Are";
 
 
-    protected static ?string $navigationGroup = "About";
+    protected static ?string $navigationGroup = "About Us";
     protected static ?int $navigationSort = 1;
     public static function form(Form $form): Form
     {
