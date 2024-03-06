@@ -16,6 +16,9 @@ return new class extends Migration
             $table->string('phone');
             $table->string('email');
             $table->json('socials');
+            $table->json('book_now');
+            $table->string('lat');
+            $table->string('lang');
             $table->timestamps();
         });
     }
