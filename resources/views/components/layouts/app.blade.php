@@ -548,6 +548,50 @@
             font-size: 1.5em;
             line-height: 1.6;
         }
+
+        input#session-date {
+            display: inline-block;
+            position: relative;
+        }
+
+        input[type="date"]::-webkit-calendar-picker-indicator {
+            background: transparent;
+            bottom: 0;
+            color: transparent;
+            cursor: pointer;
+            height: auto;
+            left: 0;
+            position: absolute;
+            right: 0;
+            top: 0;
+            width: auto;
+        }
+
+        /* The alert message box */
+        .alert {
+            padding: 20px;
+            background-color: #4CAF50;
+            /* Red */
+            color: white;
+            margin-bottom: 15px;
+        }
+
+        /* The close button */
+        .closebtn {
+            margin-left: 15px;
+            color: white;
+            font-weight: bold;
+            float: right;
+            font-size: 22px;
+            line-height: 20px;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+        /* When moving the mouse over the close button */
+        .closebtn:hover {
+            color: black;
+        }
     </style>
     <link rel="stylesheet" id="YSMILE-main-style-css"
         href="{{ asset('wp-content/themes/yessmile-wp/assets/css/style84fc.css') }}" type="text/css" media="all" />
@@ -1124,13 +1168,19 @@
                             src="wp-content/themes/yessmile-wp/assets/images/footer-logo.svg" /></div>
                     <h3 class="mb-[20px] font-medium text-[2.4rem] md:text-[3.6rem]">تواصل معنا</h3>
 
+                    @if (isset($footer['email']))
+
                     <a class="block text-light/70    mb-3"
                         href="mailto:{{$footer['email']}}"><span
                             class="__cf_email__"
                            >{{$footer['email']}}</span></a>
+                    @endif
 
-                    <a class="block text-right ltr-dir text-light/70   " target="_blank"
-                        href="https://wa.me/+{{$footer['phone']}}">+{{$footer['phone']}}</a>
+                        @if (isset($footer['phone']))
+                            <a class="block text-right ltr-dir text-light/70   " target="_blank"
+                                href="https://wa.me/+{{$footer['phone']}}">+{{$footer['phone']}}</a>
+                        @endif
+
                     <div class="mt-4">
                         <div><iframe style="border: 0; border-radius: 20px; width: 100%;"
                                 src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12025.824987199421!2d28.9822116!3d41.1027258!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab7ffde03555b%3A0xf7da3506dd5bd838!2zWWVzU21pbGUgY2xpbmljIC0g2YXYsdmD2LIg2YrYsyDYs9mF2KfZitmE!5e0!3m2!1sen!2s!4v1684752158041!5m2!1sen!2s"
@@ -1141,10 +1191,11 @@
         </div>
         <div class="main-container mt-[3rem]">
             <div class="footer-bottom-links text-light/70  font-extrabold">
-                <a class="text-[1.6rem] ml-[3rem] inline-block font-normal " href="privacy-policy/index.html">سياسة
+                <a class="text-[1.6rem] ml-[3rem] inline-block font-normal " wire:navigate
+                    href="/privacy-policy">سياسة
                     الخصوصية</a>
-                <a class="text-[1.6rem] ml-[3rem] inline-block font-normal "
-                    href="terms-and-conditions/index.html">الشروط والأحكام</a>
+                <a class="text-[1.6rem] ml-[3rem] inline-block font-normal " wire:navigate href="/term-of-use">الشروط
+                    والأحكام</a>
             </div>
         </div>
     </footer>
