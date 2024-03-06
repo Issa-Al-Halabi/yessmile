@@ -11,6 +11,7 @@ use Carbon\Carbon;
 use Filament\Notifications\Actions\Action;
 use Filament\Notifications\Notification;
 use Livewire\Component;
+use Livewire\Attributes\Title;
 
 class ShowArticle extends Component
 {
@@ -52,6 +53,8 @@ class ShowArticle extends Component
     {
         $this->article = Article::findOrFail($id);
     }
+
+    #[Title('article')]
     public function render()
     {
         $data=[];

@@ -7,6 +7,7 @@ use App\Models\Appointment;
 use App\Models\User;
 use Filament\Notifications\Actions\Action;
 use Filament\Notifications\Notification;
+use Livewire\Attributes\Title;
 use Livewire\Component;
 
 class ShowBookAppointment extends Component
@@ -16,6 +17,8 @@ class ShowBookAppointment extends Component
     public $country;
     public $date;
     public $privacyPolicy;
+
+    #[Title('book-appointment')]
 
     public function render()
     {

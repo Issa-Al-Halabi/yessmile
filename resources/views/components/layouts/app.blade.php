@@ -509,7 +509,7 @@
         <div class="bg-primary w-full px-[4rem] xl:px-0 ">
             <div class="flex max-w-[127rem] mx-auto">
                 <div class="flex flex-1 justify-between items-center ">
-                    <a href="index.html" class="py-[3rem]  inline-block">
+                    <a href="{{url('/')}}" class="py-[3rem]  inline-block">
                         <img src="{{asset('wp-content/themes/yessmile-wp/assets/images/site-logo.svg')}}" alt>
                     </a>
                     <nav class="items-center  hidden xl:block  w-full  ">
@@ -1064,7 +1064,6 @@
             </div>
         </div>
     </footer>
-
 
 
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PN5LVP4" height="0"

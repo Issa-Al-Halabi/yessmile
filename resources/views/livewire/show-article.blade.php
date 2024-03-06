@@ -1,6 +1,6 @@
 <main>
     @if (session()->has('message'))
-    <div class="alert">
+    <div class="alert text-center">
         <span class="closebtn"
             onclick="this.parentElement.style.display='none';">&times;</span>
         {{ session('message') }}
@@ -8,7 +8,7 @@
 @endif
     <div class="py-[6rem] sm:py-[10rem] ">
         <div class="main-container text-center">
-            <span class="text-[2.2rem] font-bold text-dark/50">
+            <span class="text-[2.2rem]  font-bold text-dark/50">
                 {{ $article['date'] }}
             </span>
             <h1>
@@ -30,8 +30,18 @@
         <div class="main-container grid grid-cols-12 gap-[1.5rem] ">
 
             {{-- first column --}}
-            <div class="col-span-12 md:col-span-7 single-post-content-wrap">
+            <div class="col-span-12 md:col-span-7 single-post-content-wrap"
+                style="display: flex;flex-direction: column;justify-content: space-between;"
+            >
                 {!! $article['long_description'] !!}
+
+                @if (isset($article->socials))
+                @foreach ( $article->socials as $social )
+
+                <a href="{{$social["link"]}}" target="_blank"><img style="height:50px; width:50px;"
+                        src="{{asset('storage/'.$social["image"])}}" /></a>
+                @endforeach
+            @endif
             </div>
 
             {{-- second column --}}
