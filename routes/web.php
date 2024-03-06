@@ -1,9 +1,11 @@
 <?php
 
+use App\Livewire\ShowArticle;
 use App\Livewire\ShowBookAppointment;
 use App\Livewire\ShowConsultation;
 use App\Livewire\ShowHome;
 use App\Livewire\ShowPrivacyPolicy;
+use App\Livewire\Showservice;
 use App\Livewire\ShowTermOfUse;
 use Illuminate\Support\Facades\Route;
 
@@ -19,6 +21,8 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', ShowHome::class);
+Route::get('/service/{id}', Showservice::class)->name('service');
+Route::get('/article/{id}', ShowArticle::class)->name('article');
 Route::get('/privacy-policy', ShowPrivacyPolicy::class);
 Route::get('/term-of-use', ShowTermOfUse::class);
 Route::get('/book-appointment', ShowBookAppointment::class);

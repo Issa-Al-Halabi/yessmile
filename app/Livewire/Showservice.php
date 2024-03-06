@@ -4,7 +4,7 @@ namespace App\Livewire;
 
 use App\Models\Service;
 use Livewire\Component;
-
+use Livewire\Attributes\Title;
 class Showservice extends Component
 {
     public Service $service;
@@ -13,6 +13,8 @@ class Showservice extends Component
     {
         $this->service = Service::findOrFail($id);
     }
+
+    #[Title("Our Service")]
     public function render()
     {
         return view('livewire.showservice');
