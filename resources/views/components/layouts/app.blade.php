@@ -1110,9 +1110,8 @@
             </div>
         </nav>
     </header>
+
     {{ $slot }}
-
-
 
 
     <footer class="bg-primary py-[5rem] xl:py-[10rem]">
@@ -1122,46 +1121,45 @@
                         src="wp-content/themes/yessmile-wp/assets/images/footer-logo.svg" /></div>
                 <div class="grid grid-cols-2">
                     <div>
-                        <h3 class="mb-[30px] font-medium text-[2.4rem] md:text-[3.6rem]">أهم علاجاتنا</h3>
+                        <h3 class="mb-[30px] font-medium text-[2.4rem] md:text-[3.6rem]">أهم خدماتنا</h3>
                         <ul class="text-light/70 font-extrabold">
-                            <li class="mb-[10px] text-[1.6rem] md:text-[2rem]"><a
-                                    href="hollywood-smile/index.html">ابتسامة هوليود</a></li>
-                            <li class="mb-[10px] text-[1.6rem] md:text-[2rem]"><a
-                                    href="dental-implant/index.html">زراعة
-                                    الأسنان</a></li>
-                            <li class="mb-[10px] text-[1.6rem] md:text-[2rem]"><a
-                                    href="dental-veneer/index.html">فينير
-                                    الأسنان</a></li>
-                            <li class="mb-[10px] text-[1.6rem] md:text-[2rem]"><a
-                                    href="dental-crowns/index.html">كروان
-                                    الأسنان</a></li>
-                            <li class="mb-[10px] text-[1.6rem] md:text-[2rem]"><a href="#">تجميل اللثة</a>
-                            </li>
+                            @php
+                                use App\Models\Service;
+                                $services = Service::all(['id', 'name'])->take(5);
+
+                            @endphp
+                            @foreach ($services as $service)
+                                <li class="mb-[10px] text-[1.6rem] md:text-[2rem]"><a
+                                        href="hollywood-smile/index.html">{{ $service['name'] }}</a></li>
+                            @endforeach
+
                         </ul>
                     </div>
+
                     <div>
-                        <h3 class="mb-[30px] font-medium text-[2.4rem] md:text-[3.6rem]">مواعيد العمل</h3>
+                        <h3 class="mb-[30px] font-medium text-[2.4rem] md:text-[3.6rem]">احجز الأن</h3>
                         <ul class="text-light/70  font-extrabold">
-                            <li class="mb-[10px] text-[1.6rem] md:text-[2rem]">الاثنين - الجمعة: 9 صباحًا - 7 مساءً
-                            </li>
-                            <li class="mb-[10px] text-[1.6rem] md:text-[2rem]">السبت: 9 صباحًا - 2 مساءً</li>
-                            <li class="mb-[10px] text-[1.6rem] md:text-[2rem]">الأحد: حجز موعد</li>
+                            <li class="mb-[10px] text-[1.6rem] md:text-[2rem]">احجز اقامة</li>
+                            <li class="mb-[10px] text-[1.6rem] md:text-[2rem]">احجز رحلة</li>
                         </ul>
                     </div>
+
                 </div>
+
                 <h3 class="mb-[30px] font-medium text-[2.4rem] md:text-[3.6rem] mt-[77px]   leading-normal">تابعنا على
                     السوشال ميديا</h3>
                 <div class="flex justify-start gap-[50px]">
-                    <a href="https://www.instagram.com/yessmile.ae" target="_blank"><img
-                            src="{{ asset('insta_icon.svg') }}" /></a>
-                    <a href="https://www.facebook.com/yessmile.ae" target="_blank"><img
-                            src="{{ asset('facebook_icon.svg') }}" /></a>
-                    <a href="https://www.youtube.com/@yessmile-ae" target="_blank"><img
-                            src="{{ asset('youtube_icon.svg') }}" /></a>
-                    <a href="https://www.tiktok.com/@yessmile.ae" target="_blank"><img
-                            src="{{ asset('tiktok_icon.svg') }}" /></a>
-                    <a href="https://www.snapchat.com/add/yessmile.ae" target="_blank"><img
-                            src="{{ asset('snapchat.svg') }}" /></a>
+                    @php
+                        use App\Models\Footer;
+                        $footer = Footer::all()->first();
+
+                    @endphp
+                    @foreach ( $footer->socials as $social )
+
+                    <a href="{{$social["link"]}}" target="_blank"><img style="height:50px; width:50px;"
+                            src="{{asset('storage/'.$social["image"])}}" /></a>
+
+                    @endforeach
                 </div>
             </div>
             <div class="flex justify-end order-1 md:order-2">
@@ -1169,13 +1167,20 @@
                     <div class="mb-[1.375rem] block md:hidden"><img
                             src="wp-content/themes/yessmile-wp/assets/images/footer-logo.svg" /></div>
                     <h3 class="mb-[20px] font-medium text-[2.4rem] md:text-[3.6rem]">تواصل معنا</h3>
+
+                    @if (isset($footer['email']))
+
                     <a class="block text-light/70    mb-3"
-                        href="cdn-cgi/l/email-protection.html#86e5e9e8f2e7e5f2c6ffe3f5f5ebefeae3a8e7e3"><span
+                        href="mailto:{{$footer['email']}}"><span
                             class="__cf_email__"
-                            data-cfemail="5d3e3233293c3e291d24382e2e30343138733c38">[email&#160;protected]</span></a>
-                    <a class="block text-right ltr-dir text-light/70   " target="_blank"
-                        href="https://wa.me/+905399356722">+90 539 935 67 22</a>
-                    <h3 class="mb-[2rem] font-medium  text-[1.6rem] md:text-[2rem] mt-[1rem]  ">إسطنبول - تركيا</h3>
+                           >{{$footer['email']}}</span></a>
+                    @endif
+
+                        @if (isset($footer['phone']))
+                            <a class="block text-right ltr-dir text-light/70   " target="_blank"
+                                href="https://wa.me/+{{$footer['phone']}}">+{{$footer['phone']}}</a>
+                        @endif
+
                     <div class="mt-4">
                         <div><iframe style="border: 0; border-radius: 20px; width: 100%;"
                                 src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12025.824987199421!2d28.9822116!3d41.1027258!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab7ffde03555b%3A0xf7da3506dd5bd838!2zWWVzU21pbGUgY2xpbmljIC0g2YXYsdmD2LIg2YrYsyDYs9mF2KfZitmE!5e0!3m2!1sen!2s!4v1684752158041!5m2!1sen!2s"

@@ -600,9 +600,9 @@
             content="https://yessmile.ae/wp-content/uploads/2023/06/yessmile-favicon.png" />
     </head> --}}
 
-    {{-- <body data-rsssl="1" class="rtl home page-template-default page page-id-8"> --}}
+{{-- <body data-rsssl="1" class="rtl home page-template-default page page-id-8"> --}}
 <div>
-            {{-- <header class="z-50 sticky">
+    {{-- <header class="z-50 sticky">
                 <div class="bg-primary w-full px-[4rem] xl:px-0 ">
                     <div class="flex max-w-[127rem] mx-auto">
                         <div class="flex flex-1 justify-between items-center ">
@@ -1086,56 +1086,56 @@
             </header> --}}
 
 
-            <main>
+    <main>
 
-                {{-- <div style="background-image: url(wp-content/uploads/2023/09/hero_-image-1.jpg);" --}}
-                <div style="background-image: url('{{asset("storage/".$about_us['image'])}}');"
-                    class="bg-no-repeat bg-contain   xl:bg-left-top relative  ">
+        {{-- <div style="background-image: url(wp-content/uploads/2023/09/hero_-image-1.jpg);" --}}
+        <div style="background-image: url('{{ asset('storage/' . $about_us['image']) }}');"
+            class="bg-no-repeat bg-contain   xl:bg-left-top relative  ">
 
-                    <div style="background-image: url('{{asset("storage/".$about_us['image'])}}');"
-                        class="bg-no-repeat bg-light bg-cover bg-center w-full h-[40rem] sm:h-[70rem] block lg:hidden  ">
+            <div style="background-image: url('{{ asset('storage/' . $about_us['image']) }}');"
+                class="bg-no-repeat bg-light bg-cover bg-center w-full h-[40rem] sm:h-[70rem] block lg:hidden  ">
+            </div>
+
+
+            <div class="main-container bg-light lg:bg-[transparent] relative pt-[2rem]">
+                <div class="lg:max-w-[48rem] lg:mt-0 text-center lg:text-right  flex flex-col justify-between justify-top  hero-wrap lg:min-h-[65rem] sm:h-[60vh]  xl:h-[calc(100vh-116px)] relarive pb-0  lg:pb-[12rem] "
+                    style="margin-bottom:20px;">
+
+                    <div></div>
+
+                    <div class="order-2 lg:order-none">
+                        <h1 class=" text-primary mb-[1rem] lg:mb-[3rem]">
+                            @if (isset($about_us))
+                                {{ $about_us['title'] }}
+                            @else
+                                there is no about us
+                            @endif
+
+                            <br />
+
+                        </h1>
+                        <p><span style="font-weight: 400;">
+
+                                @if (isset($about_us))
+                                    {!! $about_us['body'] !!}
+                                @else
+                                    there is no about us
+                                @endif
+                            </span>
+
+                        </p>
+                        <div class="btn-secondary large" style="margin-bottom :20px">
+                            <a target href="calculator/index.html">استشر أطبائنا مجانًا</a>
+                        </div>
                     </div>
 
 
-                    <div class="main-container bg-light lg:bg-[transparent] relative pt-[2rem]">
-                        <div
-                            class="lg:max-w-[48rem] lg:mt-0 text-center lg:text-right  flex flex-col justify-between justify-top  hero-wrap lg:min-h-[65rem] sm:h-[60vh]  xl:h-[calc(100vh-116px)] relarive pb-0  lg:pb-[12rem] ">
-                            <div></div>
-
-                            <div class="order-2 lg:order-none">
-                                <h1 class=" text-primary mb-[1rem] lg:mb-[3rem]">
-                                    @if (isset($about_us))
-                                        {{$about_us["title"]}}
-                                        @else
-                                        there is no about us
-                                    @endif
-
-                                <br />
-
-                                </h1>
-                                <p><span style="font-weight: 400;">
-
-                                        @if (isset($about_us))
-                                            {!! $about_us["body"] !!}
-                                            @else
-                                            there is no about us
-                                        @endif
-                                    </span>
-
-                                    </p>
-                                <div class="btn-secondary large" style="margin-bottom :20px">
-                                    <a target href="calculator/index.html">استشر أطبائنا مجانًا</a>
-                                </div>
-                            </div>
-
-
-                            <div
-                                class="flex hero-middle justify-center lg:justify-start  -mt-[4.5rem] mb-[2rem] lg:mb[0] ">
-                                <div class="hidden lg:block"><a href="#" class="scroll-to-next"><img
+                    <div class="flex hero-middle justify-center lg:justify-start  -mt-[4.5rem] mb-[2rem] lg:mb[0] ">
+                        {{-- <div class="hidden lg:block"><a href="#" class="scroll-to-next"><img
                                             decoding="async"
                                             src="wp-content/themes/yessmile-wp/assets/images/scroll-bottom.svg" /></a>
-                                </div>
-                                <div
+                                </div> --}}
+                        {{-- <div
                                     class="relative pl-[10.3rem]  flex align-middle justify-center bg-light rounded-[75px] shadow-md xl:mr-[5.2rem]">
                                     <span class="z-1 w-[5.347rem] h-[4.8rem]  absolute left-0 top-0"
                                         style="background-image: url(wp-content/uploads/2023/05/user-img.png);"></span>
@@ -1146,15 +1146,15 @@
                                     <span
                                         class="text-[1.8rem] text-secondary font-medium py-[1rem] pr-[1rem] lg:pr-[2rem]">+20,000
                                         شخصًا غيّروا حياتهم </span>
-                                </div>
-                            </div>
-
-                        </div>
+                                </div> --}}
                     </div>
 
                 </div>
+            </div>
 
-                {{-- <div class="main-container mt-0 md:-mt-[12rem] ">
+        </div>
+
+        {{-- <div class="main-container mt-0 md:-mt-[12rem] ">
                     <div
                         class="mb-[6rem] lg:mb-[13rem] hero-icons
                                 min-h-[36.2rem] bg-light-gray/70 rounded-[3rem] backdrop-blur-lg flex flex-col justify-center p-[2rem] md:px-[8.4rem]  ">
@@ -1197,410 +1197,201 @@
 
 
 
-                <div
-                    class="mb-[6rem] sm:mb-[10rem]
+        <div
+            class="mb-[6rem] sm:mb-[10rem]
                             play-stop-slider-wrp text-center  relative compare-slider">
-                    <div class="main-container">
-                        <h2 class="mb-[3rem]   ">صور لنتائج ابتسامة هوليود في يس سمايل</h2>
-                        <h3 class="xl:mb-[3.625rem] mb-[5rem] font-light text-[1.6rem] lg:text-[2rem]  ">شاهد صور لنتائج
-                            ابتسامة هوليود لمرضى عيادة تجميل الأسنان في تركيا <b>YesSmile</b></h3>
+            <div class="main-container">
+                <style>
+                    .top-40 {
+                        margin-top: 140px;
+                    }
+                </style>
+                <h2 class="mb-[3rem]  top-40 ">صور لنتائج ابتسامة هوليود في يس سمايل</h2>
+                <h3 class="xl:mb-[3.625rem] mb-[5rem] font-light text-[1.6rem] lg:text-[2rem]  ">شاهد صور لنتائج
+                    ابتسامة هوليود لمرضى عيادة تجميل الأسنان في تركيا <b>YesSmile</b></h3>
+            </div>
+            <div class>
+                <div class="relative  pl-[3rem] md:pl-0">
+                    <span
+                        class="cursor-pointer absolute  -top-[6rem] w-[4rem] h-[4rem]  xl:right-[12.1rem] right-[1rem] play-stop-slider-button"></span>
+                    <div class="ysm-slider play-stop-slider   flex justify-center mb-[3rem]" dots="0"
+                        slidesToShow_xl="4.3" slidesToShow_lg="3" slidesToShow_md="1" slidesToShow_sm="1"
+                        slidesToScroll="1" centerMode="1" speed="2500">
+
+                        @foreach ($services as $service)
+                            @foreach ($service->images as $images)
+                                <div class="px-[1.2rem] py-0 ">
+                                    <img-comparison-slider class="focus-visible:outline-0 w-full">
+                                        <img decoding="async" class="rounded-[30px]  w-full " slot="first"
+                                            src="{{ asset('storage/' . $images['before_image']) }}" />
+                                        <img decoding="async" class="rounded-[30px]  w-full " slot="second"
+                                            src="{{ asset('storage/' . $images['after_image']) }}" />
+                                    </img-comparison-slider>
+                                </div>
+                            @endforeach
+                        @endforeach
+
                     </div>
-                    <div class>
-                        <div class="relative  pl-[3rem] md:pl-0">
-                            <span
-                                class="cursor-pointer absolute  -top-[6rem] w-[4rem] h-[4rem]  xl:right-[12.1rem] right-[1rem] play-stop-slider-button"></span>
-                            <div class="ysm-slider play-stop-slider   flex justify-center mb-[3rem]" dots="0"
-                                slidesToShow_xl="4.3" slidesToShow_lg="3" slidesToShow_md="1" slidesToShow_sm="1"
-                                slidesToScroll="1" centerMode="1" speed="2500">
-                                <div class="px-[1.2rem] py-0 "><img-comparison-slider
-                                        class="focus-visible:outline-0 w-full"><img decoding="async"
-                                            class="rounded-[30px]  w-full " slot="first"
-                                            src="wp-content/uploads/2023/09/1-2-Zirconium-Crowns-Hollywood-Smile.jpg" /><img
-                                            decoding="async" class="rounded-[30px]  w-full " slot="second"
-                                            src="wp-content/uploads/2023/09/8-1-Hollywood-Smile-Zirconium-Crowns.jpg" /></img-comparison-slider>
-                                </div>
-                                <div class="px-[1.2rem] py-0 "><img-comparison-slider
-                                        class="focus-visible:outline-0 w-full"><img decoding="async"
-                                            class="rounded-[30px]  w-full " slot="first"
-                                            src="wp-content/uploads/2023/09/2-2-Hollywood-Smile-Zirconium-Crowns.jpg" /><img
-                                            decoding="async" class="rounded-[30px]  w-full " slot="second"
-                                            src="wp-content/uploads/2023/09/2-1-Hollywood-Smile-Zirconium-Crowns.jpg" /></img-comparison-slider>
-                                </div>
-                                <div class="px-[1.2rem] py-0 "><img-comparison-slider
-                                        class="focus-visible:outline-0 w-full"><img decoding="async"
-                                            class="rounded-[30px]  w-full " slot="first"
-                                            src="wp-content/uploads/2023/09/3-2-Zirconium-Crowns.jpg" /><img
-                                            decoding="async" class="rounded-[30px]  w-full " slot="second"
-                                            src="wp-content/uploads/2023/09/3-1-Zirconium-Crowns.jpg" /></img-comparison-slider>
-                                </div>
-                                <div class="px-[1.2rem] py-0 "><img-comparison-slider
-                                        class="focus-visible:outline-0 w-full"><img decoding="async"
-                                            class="rounded-[30px]  w-full " slot="first"
-                                            src="wp-content/uploads/2023/09/4-2-Zirconium-Crowns.jpg" /><img
-                                            decoding="async" class="rounded-[30px]  w-full " slot="second"
-                                            src="wp-content/uploads/2023/09/4-1-Zirconium-Crowns.jpg" /></img-comparison-slider>
-                                </div>
-                                <div class="px-[1.2rem] py-0 "><img-comparison-slider
-                                        class="focus-visible:outline-0 w-full"><img decoding="async"
-                                            class="rounded-[30px]  w-full " slot="first"
-                                            src="wp-content/uploads/2023/09/5-2-Zirconium-Crowns.jpg" /><img
-                                            decoding="async" class="rounded-[30px]  w-full " slot="second"
-                                            src="wp-content/uploads/2023/09/5-1-Zirconium-Crowns.jpg" /></img-comparison-slider>
-                                </div>
-                                <div class="px-[1.2rem] py-0 "><img-comparison-slider
-                                        class="focus-visible:outline-0 w-full"><img decoding="async"
-                                            class="rounded-[30px]  w-full " slot="first"
-                                            src="wp-content/uploads/2023/09/6-2-Hollywood-Smile-Zirconium-Crowns.jpg" /><img
-                                            decoding="async" class="rounded-[30px]  w-full " slot="second"
-                                            src="wp-content/uploads/2023/09/6-1-Hollywood-Smile-Zirconium-Crowns.jpg" /></img-comparison-slider>
-                                </div>
-                                <div class="px-[1.2rem] py-0 "><img-comparison-slider
-                                        class="focus-visible:outline-0 w-full"><img decoding="async"
-                                            class="rounded-[30px]  w-full " slot="first"
-                                            src="wp-content/uploads/2023/09/8-2-Hollywood-Smile-Zirconium-Crowns.jpg" /><img
-                                            decoding="async" class="rounded-[30px]  w-full " slot="second"
-                                            src="wp-content/uploads/2023/09/8-1-Hollywood-Smile-Zirconium-Crowns.jpg" /></img-comparison-slider>
-                                </div>
-                                <div class="px-[1.2rem] py-0 "><img-comparison-slider
-                                        class="focus-visible:outline-0 w-full"><img decoding="async"
-                                            class="rounded-[30px]  w-full " slot="first"
-                                            src="wp-content/uploads/2023/09/9-2-Zirconium-Crowns.jpg" /><img
-                                            decoding="async" class="rounded-[30px]  w-full " slot="second"
-                                            src="wp-content/uploads/2023/09/9-1-Zirconium-Crowns.jpg" /></img-comparison-slider>
-                                </div>
-                                <div class="px-[1.2rem] py-0 "><img-comparison-slider
-                                        class="focus-visible:outline-0 w-full"><img decoding="async"
-                                            class="rounded-[30px]  w-full " slot="first"
-                                            src="wp-content/uploads/2023/09/10-2-Zirconium-Crowns.jpg" /><img
-                                            decoding="async" class="rounded-[30px]  w-full " slot="second"
-                                            src="wp-content/uploads/2023/09/10-1-Zirconium-Crowns.jpg" /></img-comparison-slider>
-                                </div>
-                            </div>
-                            <span
-                                class="slick-nav cursor-pointer prev absolute inline-block w-[4rem] h-[4rem] top-1/2 rounded-full bg-gray/20 backdrop-blur  left-[1.8rem] sm:left-[12.1rem] bg-center bg-no-repeat bg-[url(../images/slider_arr_left.svg)] "></span>
-                            <span
-                                class="slick-nav cursor-pointer next absolute inline-block w-[4rem] h-[4rem] top-1/2 rounded-full bg-gray/20 backdrop-blur  right-[4.8rem] sm:right-[12.1rem] bg-center bg-no-repeat bg-[url(../images/slider_arr_right.svg)]  "></span>
-                        </div>
-                    </div>
-                    <h3
-                        class="xl:mb-[3.625rem] mb-[5rem] font-light mt-[1rem] text-[1.6rem] lg:text-[2rem] max-w-[15.7rem] lg:max-w-none mx-auto lg:mx-0 ">
-                        <b>يس سمايل</b>… نعم لابتسامة جميلة.
-                    </h3>
-                    <div class="btn-secondary large">
-                        <a target href="calculator/index.html">استشر أطبائنا مجانًا</a>
-                    </div>
+                    <span
+                        class="slick-nav cursor-pointer prev absolute inline-block w-[4rem] h-[4rem] top-1/2 rounded-full bg-gray/20 backdrop-blur  left-[1.8rem] sm:left-[12.1rem] bg-center bg-no-repeat bg-[url(../images/slider_arr_left.svg)] "></span>
+                    <span
+                        class="slick-nav cursor-pointer next absolute inline-block w-[4rem] h-[4rem] top-1/2 rounded-full bg-gray/20 backdrop-blur  right-[4.8rem] sm:right-[12.1rem] bg-center bg-no-repeat bg-[url(../images/slider_arr_right.svg)]  "></span>
                 </div>
+            </div>
+            <h3
+                class="xl:mb-[3.625rem] mb-[5rem] font-light mt-[1rem] text-[1.6rem] lg:text-[2rem] max-w-[15.7rem] lg:max-w-none mx-auto lg:mx-0 ">
+                <b>يس سمايل</b>… نعم لابتسامة جميلة.
+            </h3>
+            <div class="btn-secondary large">
+                <a target href="calculator/index.html">استشر أطبائنا مجانًا</a>
+            </div>
+        </div>
 
-
-                <div class="mb-[6rem] sm:mb-[10rem]
-                            gn-image-text-section main-container">
-                    <div class="flex flex-col gap-[50px] xl:gap-0 xl:flex-row ">
-                        <div class="xl:pl-[80px] pr-0">
-                            <div class="flex flex-col justify-center h-full  text-center xl:text-right ">
-                                <h2>هوليود سمايل… ابتسامة مشرقة تضمن لك صحة فمك</h2>
-                                <div
-                                    class="video-wrap relative flex xl:hidden  xl:flex-grow xl:min-w-[50rem] xxl:min-w-[67.5em]  max-w-[67.5rem] md:mx-auto w-full justify-center mb-[3rem] xxl:mb-0    ">
-                                    <div style="background-image:url(wp-content/uploads/2023/09/section_1_img-1-2.jpg);"
-                                        class="video-cover absolute top-0 left-0 w-full h-full z-10 bg-center bg-no-repeat bg-cover rounded-[20px] ">
-                                    </div>
-                                    <video controls
-                                        class="video  w-full  h-full max-h-[44.7rem]  rounded-[1.25rem]  object-cover "
-                                        poster="wp-content/uploads/2023/09/section_1_img-1-2.jpg">
-                                        <source
-                                            src="https://yessmile-files.s3.eu-central-1.amazonaws.com/yessmile-video/arabic/youtube-voi-1-son.mp4"
-                                            type="video/mp4">
-                                    </video>
-                                    <div class="absolute top-0 left-0 w-full h-full cursor-pointer video-icon-play z-20">
-                                    </div>
-                                </div>
-                                <div>
-                                    <p><span style="font-weight: 400;">كلنا يرغب بالحصول على </span><b>ابتسامة جميلة وأسنان
-                                            بيضاء</b><span style="font-weight: 400;"> متناسقة في اللون والشكل والحجم.
-                                            وبطبيعة
-                                            الحال يتجه تفكيرنا تلقائيًا نحو هوليود سمايل.</span></p>
-                                    <p><span style="font-weight: 400;">توفر لك ابتسامة هوليود أجمل شكل أسنان وابتسامة كما
-                                            ترغب
-                                            بها أنت وبما يليق بمعايير وشكل وجهك. لذلك </span>ترفع ابتسامة هوليود من<b> ثقتك
-                                            بنفسك وبجمالك</b><span style="font-weight: 400;"> وانفتاحك على الحياة
-                                            الاجتماعية.</span></p>
-                                    <p><span style="font-weight: 400;">كما تضمن لك ابتسامة هوليود </span>صحة فمك وسلامة
-                                        أسنانك<span style="font-weight: 400;">، حيث تلغي عيوب الأسنان وتقلل نسبة تآكلها.
-                                            بالإضافة إلى ذلك تضمن لك هوليود سمايل السلامة العامة للصحة الفموية عند وبعد بدء
-                                            إجراء العملية.</span></p>
-                                </div>
-                                <div>
-                                </div>
-                            </div>
-                        </div>
-                        <div
-                            class="video-wrap relative hidden xl:flex  xl:flex-grow xl:min-w-[50rem] xxl:min-w-[67.5em] max-h-[44.7rem] max-w-[67.5rem] md:mx-auto w-full justify-center    ">
-                            <div style="background-image:url(wp-content/uploads/2023/09/section_1_img-1-2.jpg);"
-                                class="video-cover absolute top-0 left-0 w-full h-full z-10 bg-center bg-no-repeat bg-cover rounded-[20px] ">
-                            </div>
-                            <video controls class="video  w-full  h-full rounded-[1.25rem]  object-cover "
-                                poster="wp-content/uploads/2023/09/section_1_img-1-2.jpg">
-                                <source
-                                    src="https://yessmile-files.s3.eu-central-1.amazonaws.com/yessmile-video/arabic/youtube-voi-1-son.mp4"
-                                    type="video/mp4">
-                            </video>
-                            <div class="absolute top-0 left-0 w-full h-full cursor-pointer video-icon-play z-20"></div>
-                        </div>
-                    </div>
-                </div>
-
-
-                <div class="mb-[6rem] sm:mb-[10rem]
+        <div class="mb-[6rem] sm:mb-[10rem]
                         text-center block">
-                    <div class="main-container">
-                        <h2 class="mb-[3rem]">عروض ابتسامة هوليود في YesSmile</h2>
-                        <h3 class="xl:mb-[3rem] font-light">تمتع بأجمل ابتسامة عبر علاجات أسنان مختلفة</h3>
-                    </div>
-                    <div class="sm:max-w-[127rem] sm:mx-auto relative pl-[3rem] md:pl-0">
-                        <div class="ysm-slider offers-slider " dots="0" centerMode="1" slidesToShow_xl="3"
-                            slidesToShow_lg="3" slidesToShow_md="1" slidesToShow_sm="1" slidesToScroll="1">
-                            <div class="slide px-[1.2rem] group">
-                                <div class="relative">
-                                    <img decoding="async" class="w-full" src="wp-content/uploads/2023/09/offers_3.jpg" />
-                                    <div class="flex justify-between mt-[3rem]">
-                                        <div>
-                                            <h3 class=" font-light mb-0   text-[2rem] text-right">هوليود سمايل من<br />
-                                                الكراونز (التيجان)<br />
-                                            </h3>
-                                        </div>
-                                        <div>
-                                            <div class="btn-bordered">أقرأ المزيد</div>
-                                        </div>
+            <div class="main-container">
+                <h2 class="mb-[3rem]">خدماتنا</h2>
+                <h3 class="xl:mb-[3rem] font-light">تمتع بأجمل ابتسامة عبر خدماتنا المختلفة</h3>
+            </div>
+            <div class="sm:max-w-[127rem] sm:mx-auto relative pl-[3rem] md:pl-0">
+                <div class="ysm-slider offers-slider " dots="0" centerMode="1" slidesToShow_xl="3"
+                    slidesToShow_lg="3" slidesToShow_md="1" slidesToShow_sm="1" slidesToScroll="1">
+
+                    @foreach ($services as $service)
+                        <div class="slide px-[1.2rem] group">
+                            <div class="relative">
+                                <img decoding="async" class="w-full" src="{{ asset('storage/' . $service['image']) }}" />
+                                <div class="flex justify-between mt-[3rem]">
+                                    <div>
+                                        <h3 class=" font-light mb-0   text-[2rem] text-right">
+                                            {{ $service['name'] }}<br />
+                                        </h3>
                                     </div>
-                                    <a target href="dental-crowns/index.html"
-                                        class="absolute left-0 top-0 right-0 bottom-0"></a>
-                                </div>
-                            </div>
-                            <div class="slide px-[1.2rem] group">
-                                <div class="relative">
-                                    <img decoding="async" class="w-full"
-                                        src="wp-content/uploads/2023/09/offers_2-1.jpg" />
-                                    <div class="flex justify-between mt-[3rem]">
-                                        <div>
-                                            <h3 class=" font-light mb-0   text-[2rem] text-right">هوليود سمايل من<br />
-                                                الفينيرز</h3>
-                                        </div>
-                                        <div>
-                                            <div class="btn-bordered">أقرأ المزيد</div>
-                                        </div>
+                                    <div>
+                                        <div class="btn-bordered">أقرأ المزيد</div>
                                     </div>
-                                    <a target href="dental-veneer/index.html"
-                                        class="absolute left-0 top-0 right-0 bottom-0"></a>
                                 </div>
-                            </div>
-                            <div class="slide px-[1.2rem] group">
-                                <div class="relative">
-                                    <img decoding="async" class="w-full" src="wp-content/uploads/2023/09/offers_1.jpg" />
-                                    <div class="flex justify-between mt-[3rem]">
-                                        <div>
-                                            <h3 class=" font-light mb-0   text-[2rem] text-right">هوليود سمايل من<br />
-                                                زراعة الأسنان</h3>
-                                        </div>
-                                        <div>
-                                            <div class="btn-bordered">أقرأ المزيد</div>
-                                        </div>
-                                    </div>
-                                    <a target href="dental-implant/index.html"
-                                        class="absolute left-0 top-0 right-0 bottom-0"></a>
-                                </div>
+                                <a target href="dental-crowns/index.html"
+                                    class="absolute left-0 top-0 right-0 bottom-0"></a>
                             </div>
                         </div>
-                        <span
-                            class="slick-nav cursor-pointer prev absolute inline-block w-[4rem] h-[4rem] top-1/2 rounded-full bg-gray/20 backdrop-blur  left-[1.8rem] sm:left-[12.1rem] bg-center bg-no-repeat bg-[url(../images/slider_arr_left.svg)] "></span>
-                        <span
-                            class="slick-nav cursor-pointer next absolute inline-block w-[4rem] h-[4rem] top-1/2 rounded-full bg-gray/20 backdrop-blur  right-[4.8rem] sm:right-[12.1rem] bg-center bg-no-repeat bg-[url(../images/slider_arr_right.svg)]  "></span>
-                    </div>
+                    @endforeach
+
                 </div>
+                <span
+                    class="slick-nav cursor-pointer prev absolute inline-block w-[4rem] h-[4rem] top-1/2 rounded-full bg-gray/20 backdrop-blur  left-[1.8rem] sm:left-[12.1rem] bg-center bg-no-repeat bg-[url(../images/slider_arr_left.svg)] "></span>
+                <span
+                    class="slick-nav cursor-pointer next absolute inline-block w-[4rem] h-[4rem] top-1/2 rounded-full bg-gray/20 backdrop-blur  right-[4.8rem] sm:right-[12.1rem] bg-center bg-no-repeat bg-[url(../images/slider_arr_right.svg)]  "></span>
+            </div>
+        </div>
 
-
-                <div class="mb-[6rem] sm:mb-[10rem]">
-                    <div style="background-image: url(wp-content/themes/yessmile-wp/assets/images/animated_img_text_bg.webp);"
-                        class="bg-right-top bg-no-repeat  bg-contain   ">
-                        <div class="main-container">
-                            <h2 class="block xl:hidden text-center">احصل على أفضل هوليود سمايل مع عيادة YesSmile</h2>
-                            <div class="flex flex-col gap-[30px] xl:gap-0 xl:flex-row  ">
-                                <div class="flex justify-center">
-                                    <div class="lg:w-[63em] w-[40rem] h-[55rem]  lg:h-[90rem] flex justify-between">
-                                        <div class="h-full relative flex flex-col justify-start">
-                                            <div class="img-wrap relative group">
-                                                <div class="absolute hidden md:block  top-[20%] scale-50  transition-all ease-in-out duration-700 opacity-0 left-[-50%] ] w-[41.8rem] h-[13.1rem] group-hover:left-[-120%] group-hover:opacity-100 group-hover:top-[3rem] group-hover:scale-100 "
-                                                    style="background-image:url(wp-content/themes/yessmile-wp/assets/images/popup_bg_1.png)">
-                                                    <p class="text-primary text-[2.4rem] font-medium py-[1rem] px-[3rem]">
-                                                        لدي
-                                                        إبتسامة مثالية <img decoding="async" class="inline-block   "
-                                                            src="wp-content/themes/yessmile-wp/assets/images/popup_icon_1.png" />
-                                                    </p>
-                                                </div>
-                                                <img decoding="async" class="w-20rem md:w-30rem"
-                                                    src="wp-content/uploads/2023/09/img_text_1.jpg" />
-                                            </div>
-                                        </div>
-                                        <div class="h-full relative flex flex-col justify-end">
-                                            <div class="img-wrap relative group">
-                                                <div class="absolute hidden md:block  bg-no-repeat top-[20%]  scale-50  transition-all ease-in-out duration-700 opacity-0 left-[-50px] w-[40rem] h-[17rem] group-hover:left-[-100%] group-hover:opacity-100 group-hover:top-[3rem] group-hover:scale-100 "
-                                                    style="background-image:url(wp-content/themes/yessmile-wp/assets/images/popup_bg_2.png)">
-                                                    <p
-                                                        class="text-secondary text-left  text-[2.4rem] font-medium py-[3rem] px-[3rem]">
-                                                        YesSmile <img decoding="async" class="inline-block   "
-                                                            src="wp-content/themes/yessmile-wp/assets/images/popup_icon_2.png" />
-                                                    </p>
-                                                </div>
-                                                <img decoding="async" class="w-20rem md:w-30rem"
-                                                    src="wp-content/uploads/2023/09/img_text_2.jpg" />
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="xl:pr-[16rem] lg:pr-[3rem] pr-0">
-                                    <div class="flex flex-col justify-center h-full text-center xl:text-right  ">
-                                        <h2 class="hidden xl:block">احصل على أفضل هوليود سمايل مع عيادة YesSmile</h2>
-                                        <div>
-                                            <p><span style="font-weight: 400;">في عيادة أسنان يس سمايل، لا نقبل إلا
-                                                    بالأفضل.
-                                                    لذلك نستخدم </span>مادة<b> E-max السويسرية</b><span
-                                                    style="font-weight: 400;"> أفضل وأجود مادة لصنع الأسنان من العلامة
-                                                    التجارية
-                                                    الشهيرة </span>Nobel Biocare<span style="font-weight: 400;">.</span>
-                                            </p>
-                                            <p><span style="font-weight: 400;">احصل الآن خلال </span><b>أقل من
-                                                    أسبوعين</b><span style="font-weight: 400;"> على ابتسامة جذابة وبيضاء
-                                                    بأسنان متناسقة باللون
-                                                    والشكل والحجم. نضع بين يديك في يس سمايل </span>خبرة أكثر من 20,000
-                                                ابتسامة<span style="font-weight: 400;"> صنعناها بكل عناية.</span></p>
-                                            <p><span style="font-weight: 400;">أطبائنا في YesSmile على أتم الاستعداد لتقديم
-                                                    لك
-                                                </span>أفضل خطة علاجية<span style="font-weight: 400;"> لأسنانك لتحصل على
-                                                    الابتسامة التي طالما حلمت بها.</span></p>
-                                            <p><span style="font-weight: 400;"><strong>يس سمايل</strong>… نعم لابتسامة
-                                                    جميلة.</span></p>
-                                            <div id="gtx-trans" style="position: absolute; left: 953px; top: 118.333px;">
-                                                <div class="gtx-trans-icon"></div>
-                                            </div>
-                                        </div>
-                                        <div>
-                                            <div class="btn-secondary xlarge">
-                                                <a target href="calculator/index.html">احجز موعد استشارة مجانية</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+        <div class="text-center mb-[6rem] sm:mb-[10rem]">
+            <div class="main-container ysm-title  mx-auto lg:max-w-none">
+                <h2 class="mb-[3rem]">خدمات عيادة تجميل الأسنان في تركيا<br />
+                    <b>YesSmile</b>
+                </h2>
+            </div>
+            <div class="relative pl-[3rem] md:pl-0">
+                <div
+                    class="absolute right-0 w-[30%] h-full   bg-gradient-to-l from-light  z-10 pointer-events-none hidden sm:block xl:hidden">
                 </div>
-
-
-                <div class="text-center mb-[6rem] sm:mb-[10rem]">
-                    <div class="main-container ysm-title  mx-auto lg:max-w-none">
-                        <h2 class="mb-[3rem]">خدمات عيادة تجميل الأسنان في تركيا<br />
-                            <b>YesSmile</b>
-                        </h2>
-                    </div>
-                    <div class="relative pl-[3rem] md:pl-0">
-                        <div
-                            class="absolute right-0 w-[30%] h-full   bg-gradient-to-l from-light  z-10 pointer-events-none hidden sm:block xl:hidden">
-                        </div>
-                        <div
-                            class="absolute left-0 w-[30%] h-full   bg-gradient-to-r from-light  z-10 pointer-events-none block xl:hidden">
-                        </div>
-                        <div class="ysm-slider services-slider my-[5rem]" dots="0" centerMode="0"
-                            slidesToShow_xl="6" slidesToShow_lg="4.8" slidesToShow_md="2" slidesToShow_sm="1"
-                            slidesToScroll="1">
-                            <div class="slide px-[1rem] ">
-                                <div class="relative">
-                                    <img decoding="async" class="w-full rounded-[1.5rem]"
-                                        src="wp-content/uploads/2023/09/services-1.jpg" />
-                                    <h3 class="text-[2rem] font-light text-center py-[20px]">هوليود سمايل</h3>
-                                    <a target href="hollywood-smile/index.html"
-                                        class="absolute left-0 top-0 right-0 bottom-0"></a>
-                                </div>
-                            </div>
-
-                            <div class="slide px-[1rem] ">
-                                <div class="relative">
-                                    <img decoding="async" class="w-full rounded-[1.5rem]"
-                                        src="wp-content/uploads/2023/09/services-2.jpg" />
-                                    <h3 class="text-[2rem] font-light text-center py-[20px]">زراعة الأسنان</h3>
-                                    <a target href="dental-implant/index.html"
-                                        class="absolute left-0 top-0 right-0 bottom-0"></a>
-                                </div>
-                            </div>
-
-                            <div class="slide px-[1rem] ">
-                                <div class="relative">
-                                    <img decoding="async" class="w-full rounded-[1.5rem]"
-                                        src="wp-content/uploads/2023/09/service-3.jpg" />
-                                    <h3 class="text-[2rem] font-light text-center py-[20px]">فينيرز</h3>
-                                    <a target href="dental-veneer/index.html"
-                                        class="absolute left-0 top-0 right-0 bottom-0"></a>
-                                </div>
-                            </div>
-
-                            <div class="slide px-[1rem] ">
-                                <div class="relative">
-                                    <img decoding="async" class="w-full rounded-[1.5rem]"
-                                        src="wp-content/uploads/2023/09/service-4.jpg" />
-                                    <h3 class="text-[2rem] font-light text-center py-[20px]">كراونز</h3>
-                                    <a target href="dental-crowns/index.html"
-                                        class="absolute left-0 top-0 right-0 bottom-0"></a>
-                                </div>
-                            </div>
-
-                            <div class="slide px-[1rem] ">
-                                <div class="relative">
-                                    <img decoding="async" class="w-full rounded-[1.5rem]"
-                                        src="wp-content/uploads/2023/09/service-5.jpg" />
-                                    <h3 class="text-[2rem] font-light text-center py-[20px]">تبييض الأسنان</h3>
-                                    <a target href="teeth-whitening/index.html"
-                                        class="absolute left-0 top-0 right-0 bottom-0"></a>
-                                </div>
-                            </div>
-
-                        </div>
-                        <span
-                            class="slick-nav cursor-pointer prev absolute inline-block w-[4rem] h-[4rem] top-1/2 transform  -translate-y-[3.5rem] rounded-full bg-gray/20 backdrop-blur  left-[1.8rem] sm:left-[12.1rem] bg-center bg-no-repeat bg-[url(../images/slider_arr_left.svg)] "></span>
-                        <span
-                            class="slick-nav cursor-pointer next absolute inline-block w-[4rem] h-[4rem] top-1/2 transform  -translate-y-[3.5rem] rounded-full bg-gray/20 backdrop-blur  right-[4.8rem] sm:right-[12.1rem] bg-center bg-no-repeat bg-[url(../images/slider_arr_right.svg)]  "></span>
-                    </div>
-                    <div class="main-container">
-                        <p class="text-center"><b>يس سمايل</b>… نعم لابتسامة جميلة.</p>
-                        <div class="btn-secondary large">
-                            <a target href="calculator/index.html">تحدث مع أطبائنا مجانًا</a>
-                        </div>
-                    </div>
+                <div
+                    class="absolute left-0 w-[30%] h-full   bg-gradient-to-r from-light  z-10 pointer-events-none block xl:hidden">
                 </div>
+                <div class="ysm-slider services-slider my-[5rem]" dots="0" centerMode="0" slidesToShow_xl="6"
+                    slidesToShow_lg="4.8" slidesToShow_md="2" slidesToShow_sm="1" slidesToScroll="1">
+                    <div class="slide px-[1rem] ">
+                        <div class="relative">
+                            <img decoding="async" class="w-full rounded-[1.5rem]"
+                                src="wp-content/uploads/2023/09/services-1.jpg" />
+                            <h3 class="text-[2rem] font-light text-center py-[20px]">هوليود سمايل</h3>
+                            <a target href="hollywood-smile/index.html"
+                                class="absolute left-0 top-0 right-0 bottom-0"></a>
+                        </div>
+                    </div>
+
+                    <div class="slide px-[1rem] ">
+                        <div class="relative">
+                            <img decoding="async" class="w-full rounded-[1.5rem]"
+                                src="wp-content/uploads/2023/09/services-2.jpg" />
+                            <h3 class="text-[2rem] font-light text-center py-[20px]">زراعة الأسنان</h3>
+                            <a target href="dental-implant/index.html"
+                                class="absolute left-0 top-0 right-0 bottom-0"></a>
+                        </div>
+                    </div>
+
+                    <div class="slide px-[1rem] ">
+                        <div class="relative">
+                            <img decoding="async" class="w-full rounded-[1.5rem]"
+                                src="wp-content/uploads/2023/09/service-3.jpg" />
+                            <h3 class="text-[2rem] font-light text-center py-[20px]">فينيرز</h3>
+                            <a target href="dental-veneer/index.html"
+                                class="absolute left-0 top-0 right-0 bottom-0"></a>
+                        </div>
+                    </div>
+
+                    <div class="slide px-[1rem] ">
+                        <div class="relative">
+                            <img decoding="async" class="w-full rounded-[1.5rem]"
+                                src="wp-content/uploads/2023/09/service-4.jpg" />
+                            <h3 class="text-[2rem] font-light text-center py-[20px]">كراونز</h3>
+                            <a target href="dental-crowns/index.html"
+                                class="absolute left-0 top-0 right-0 bottom-0"></a>
+                        </div>
+                    </div>
+
+                    <div class="slide px-[1rem] ">
+                        <div class="relative">
+                            <img decoding="async" class="w-full rounded-[1.5rem]"
+                                src="wp-content/uploads/2023/09/service-5.jpg" />
+                            <h3 class="text-[2rem] font-light text-center py-[20px]">تبييض الأسنان</h3>
+                            <a target href="teeth-whitening/index.html"
+                                class="absolute left-0 top-0 right-0 bottom-0"></a>
+                        </div>
+                    </div>
+
+                </div>
+                <span
+                    class="slick-nav cursor-pointer prev absolute inline-block w-[4rem] h-[4rem] top-1/2 transform  -translate-y-[3.5rem] rounded-full bg-gray/20 backdrop-blur  left-[1.8rem] sm:left-[12.1rem] bg-center bg-no-repeat bg-[url(../images/slider_arr_left.svg)] "></span>
+                <span
+                    class="slick-nav cursor-pointer next absolute inline-block w-[4rem] h-[4rem] top-1/2 transform  -translate-y-[3.5rem] rounded-full bg-gray/20 backdrop-blur  right-[4.8rem] sm:right-[12.1rem] bg-center bg-no-repeat bg-[url(../images/slider_arr_right.svg)]  "></span>
+            </div>
+            <div class="main-container">
+                <p class="text-center"><b>يس سمايل</b>… نعم لابتسامة جميلة.</p>
+                <div class="btn-secondary large">
+                    <a target href="calculator/index.html">تحدث مع أطبائنا مجانًا</a>
+                </div>
+            </div>
+        </div>
 
 
-                <div class="main-container mb-[6rem] sm:mb-[10rem]">
-                    <div
-                        class="overflow-clip relative
+        <div class="main-container mb-[6rem] sm:mb-[10rem]">
+            <div
+                class="overflow-clip relative
                                 text-block-with-shape  bg-no-repeat bg-left   bg-primary rounded-[2rem]">
-                        <img decoding="async"
-                            class="hidden lg:block absolute h-full left-[-47%] opacity-50  md:left-[-31%] lg:left-[-28%]  xl:left-[-5%] xl:top-0  "
-                            src="wp-content/uploads/2023/09/Group-346-2.webp" />
-                        <img decoding="async" class="block lg:hidden absolute [32.1rem] top-0 left-0  "
-                            src="wp-content/uploads/2023/09/Group-346-1.webp" />
-                        <div class="lg:py-[5rem] py-[3rem]   md:max-w-[70%]   max-w-none  text-light ]">
-                            <div class="px-[3rem]">
-                                <h2 class="my-[5rem] max-w-[20rem] sm:max-w-none ">تحدث مع أطباء <b>YesSmile</b> مجانًا
-                                </h2>
-                                <p>هل ترغب أن تتميز بابتسامتك؟ هل لديك مشاكل بأسنانك تريد علاجها ومن<br />
-                                    ثم تجميلها؟</p>
-                                <p>تحدث مع أطبائنا مجانًا حول أفضل خطة علاجية مناسبة لحالتك الخاصة!<br />
-                                    نقدم لك تحليل مجاني ومفصل لنضعك على طريق ابتسامة <b>Hollywood</b> مثالية.</p>
-                                <div class="btn-light mt-[6rem] lg:mt-[10rem] mb-[5rem]  text-center md:text-right">
-                                    <a target href="calculator/index.html">تحدث مع أطبائنا</a>
-                                </div>
-                            </div>
+                <img decoding="async"
+                    class="hidden lg:block absolute h-full left-[-47%] opacity-50  md:left-[-31%] lg:left-[-28%]  xl:left-[-5%] xl:top-0  "
+                    src="wp-content/uploads/2023/09/Group-346-2.webp" />
+                <img decoding="async" class="block lg:hidden absolute [32.1rem] top-0 left-0  "
+                    src="wp-content/uploads/2023/09/Group-346-1.webp" />
+                <div class="lg:py-[5rem] py-[3rem]   md:max-w-[70%]   max-w-none  text-light ]">
+                    <div class="px-[3rem]">
+                        <h2 class="my-[5rem] max-w-[20rem] sm:max-w-none ">
+                            احصل على استشارتك الان مجانًا
+                        </h2>
+                        <p>هل ترغب أن تتميز بابتسامتك؟ هل لديك مشاكل بأسنانك تريد علاجها ومن<br />
+                            ثم تجميلها؟</p>
+                        <p>تحدث مع أطبائنا مجانًا حول أفضل خطة علاجية مناسبة لحالتك الخاصة!<br />
+                            نقدم لك تحليل مجاني ومفصل لنضعك على طريق ابتسامة <b>Hollywood</b> مثالية.</p>
+                        <div class="btn-light mt-[6rem] lg:mt-[10rem] mb-[5rem]  text-center md:text-right">
+                            <a target href="calculator/index.html">استشر أطبائنا</a>
                         </div>
                     </div>
                 </div>
+            </div>
+        </div>
 
-
+        {{--
                 <div class="mb-[6rem] sm:mb-[10rem]">
                     <div class="text-center mb-[5rem] ">
                         <h2>رحلتك للحصول على<br />
@@ -1712,10 +1503,10 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> --}}
 
 
-                <div class="mb-[6rem] sm:mb-[10rem]
+        {{-- <div class="mb-[6rem] sm:mb-[10rem]
                         main-container">
                     <div class="text-center ">
                         <h2 class="inline-block max-w-[30rem] sm:max-w-none">تكلفة تجميل الأسنان في يس سمايل</h2>
@@ -1744,10 +1535,10 @@
                         </div>
                         <div><img decoding="async" class="mx-auto" src="wp-content/uploads/2023/09/div-1.jpg" /></div>
                     </div>
-                </div>
+                </div> --}}
 
 
-                <div class="mb-[6rem] sm:mb-[10rem]
+        {{-- <div class="mb-[6rem] sm:mb-[10rem]
                         grid grid-cols-12">
                     <div class="col-span-full xl:col-span-8">
                         <div class="pl-[3rem] md:pl-0 ">
@@ -1895,83 +1686,35 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> --}}
 
 
-                <div class="main-container mb-[3rem] sm:mb-[6rem]">
-                    <div class="faq-wrap text-center">
-                        <h2 class="mb-[3.75rem]">أسئلة مرضانا حول تجميل الأسنان في تركيا</h2>
-                        <button class="accordion font-bold ">كم يوم يحتاج إجراء تجميل الأسنان في تركيا <b>Hollywood Smile ؟
-                            </b></button>
-                        <div class="panel max-h-0 overflow-hidden transition-all ease-out  ">
-                            <div class="pr-[1.5rem] pl-[1.5rem] sm:pl-0 lg:pr-[8.25rem] pb-[1rem] pt-0 text-right">
-                                <p><span style="font-weight: 400;">في يس سمايل، تستغرق عمليات تجميل الأسنان بأنواعها
-                                    </span><b>من 7-14 يوم</b><span style="font-weight: 400;">، وتعتمد هذه المدة على حالة
-                                        أسنان
-                                        المريض قبل بدء العملية.</span></p>
-                                <p><span style="font-weight: 400;">تشمل هذه الأيام يوم الوصول ويوم التشخيص وأيام الاستراحة
-                                        وأيام العملية إن كانت على مراحل.</span></p>
-                                <div class="btn-secondary mt-[20px] mb-[20px]">
-                                    <span><a target href="calculator/index.html">احجز موعد استشارة مجانية</a></span>
-                                </div>
-                            </div>
-                        </div>
-                        <button class="accordion font-bold ">هل يقدم مركز يس سمايل ضماناً معتمداً على تجميل
-                            الأسنان؟</button>
-                        <div class="panel max-h-0 overflow-hidden transition-all ease-out  ">
-                            <div class="pr-[1.5rem] pl-[1.5rem] sm:pl-0 lg:pr-[8.25rem] pb-[1rem] pt-0 text-right">
-                                <p><strong>بالطبع؛</strong><br />
-                                    نقدم لك شهادة ضمان معتمدة لمدة<strong> 5 سنوات</strong> على جميع خدماتنا في مركز يس
-                                    سمايل.
-                                </p>
-                                <div class="btn-secondary mt-[20px] mb-[20px]">
-                                    <span><a target href="calculator/index.html">احجز موعد استشارة مجانية</a></span>
-                                </div>
-                            </div>
-                        </div>
-                        <button class="accordion font-bold ">ما هي نسبة نجاح عمليات تجميل الأسنان في يس سمايل؟</button>
-                        <div class="panel max-h-0 overflow-hidden transition-all ease-out  ">
-                            <div class="pr-[1.5rem] pl-[1.5rem] sm:pl-0 lg:pr-[8.25rem] pb-[1rem] pt-0 text-right">
-                                <p><span style="font-weight: 400;">نضمن لك في يس سمايل نجاح تجميل الأسنان 100% ونعطيك 5
-                                        سنوات
-                                        ضمان. في يس سمايل، نقوم بمعاينة أسنانك بدقة للتوصل لأفضل خطة علاجية ممكنة.</span>
-                                </p>
-                                <p><span style="font-weight: 400;">كما أن نخبة من أطبائنا المتخصصين سيشرفون على كل مرحلة من
-                                        مراحل عمليتك.</span></p>
-                                <div class="btn-secondary mt-[20px] mb-[20px]">
-                                    <span><a target href="calculator/index.html">احجز موعد استشارة مجانية</a></span>
-                                </div>
-                            </div>
-                        </div>
-                        <button class="accordion font-bold ">هل ابتسامة هوليود يتغير لونها مع مرور الزمن؟</button>
-                        <div class="panel max-h-0 overflow-hidden transition-all ease-out  ">
-                            <div class="pr-[1.5rem] pl-[1.5rem] sm:pl-0 lg:pr-[8.25rem] pb-[1rem] pt-0 text-right">
-                                <p><span style="font-weight: 400;">عند عمل هوليود سمايل، نمنحك حرية اختيار درجة البياض التي
-                                        ترغب بها. ومع المحافظة على صحة الفم والابتعاد عن المشروبات التي تصبغ الأسنان مثل
-                                        الشاي
-                                        والقهوة، يمكن للون ابتسامة هوليود ألا يتغير مع مرور الزمن.</span></p>
-                                <div class="btn-secondary mt-[20px] mb-[20px]">
-                                    <span><a target href="calculator/index.html">احجز موعد استشارة مجانية</a></span>
-                                </div>
-                            </div>
-                        </div>
-                        <button class="accordion font-bold ">كيف هي جودة الخامات السنية المستخدمة في يس سمايل؟</button>
-                        <div class="panel max-h-0 overflow-hidden transition-all ease-out  ">
-                            <div class="pr-[1.5rem] pl-[1.5rem] sm:pl-0 lg:pr-[8.25rem] pb-[1rem] pt-0 text-right">
-                                <p>المواد التي نستخدمها في مركز يس سمايل هي تابعة لأفضل العلامات التجارية عالمياً، مثل:
-                                    EmaxⒸ,
-                                    NobilBiocareⒸ.</p>
-                                <p>&nbsp;</p>
-                                <div class="btn-secondary mt-[20px] mb-[20px]">
-                                    <span><a target href="calculator/index.html">احجز موعد استشارة مجانية</a></span>
-                                </div>
+        <div class="main-container mb-[3rem] sm:mb-[6rem]">
+            <div class="faq-wrap text-center">
+                <h2 class="mb-[3.75rem]">أسئلة مرضانا</h2>
+
+                @foreach ($faqs as $faq)
+                    <button class="accordion font-bold ">
+                        {{ $faq['question'] }}
+                        </b></button>
+                    <div class="panel max-h-0 overflow-hidden transition-all ease-out  ">
+                        <div class="pr-[1.5rem] pl-[1.5rem] sm:pl-0 lg:pr-[8.25rem] pb-[1rem] pt-0 text-right">
+                            <p><span style="font-weight: 400;">
+                                    {!! $faq['answer'] !!}
+
+
+                            </p>
+                            <div class="btn-secondary mt-[20px] mb-[20px]">
+                                <span><a target href="calculator/index.html">احجز موعد استشارة مجانية</a></span>
                             </div>
                         </div>
                     </div>
-                </div>
-                 </div>
+                @endforeach
+            </div>
+        </div>
+</div>
 
-            </main>
+</main>
 </div>
 
 {{--

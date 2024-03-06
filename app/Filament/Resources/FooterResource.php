@@ -34,6 +34,7 @@ class FooterResource extends Resource
                             ->schema([
                                 Forms\Components\TextInput::make('phone')
                                     ->tel()
+                                    ->numeric()
                                     ->required()
                                     ->maxLength(255),
                                 Forms\Components\TextInput::make('email')
@@ -66,7 +67,7 @@ class FooterResource extends Resource
                                             ->url()
                                             ->required()
                                             ->maxLength(255),
-                                    ]),
+                                    ])->grid(3),
                             ]),
                     ])
                     ->columnSpan('full'),
