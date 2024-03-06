@@ -14,7 +14,7 @@ class ShowHome extends Component
     public function render()
     {
         $data=[];
-        $data["about_us"] = AboutUs::all()->first();
+        $data["about_us"] = AboutUs::first();
         $data["services"] = Service::all();
         $data["articles"] = Article::all()->take(4);
         $data["faqs"] = Faq::all();

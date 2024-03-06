@@ -7,6 +7,7 @@ use App\Filament\Resources\AboutUsResource\RelationManagers;
 use App\Models\AboutUs;
 use Filament\Forms;
 use Filament\Forms\Components\Section;
+use Filament\Forms\Components\Tabs;
 use Filament\Forms\Form;
 use Filament\Resources\Concerns\Translatable;
 use Filament\Resources\Resource;
@@ -20,8 +21,8 @@ class AboutUsResource extends Resource
     protected static ?string $model = AboutUs::class;
 
     protected static ?string $navigationIcon = 'heroicon-o-information-circle';
-    protected static ?string $navigationLabel = "About Us";
-    protected static ?string $modelLabel = "About Us";
+    protected static ?string $navigationLabel = "Home Page";
+    protected static ?string $modelLabel = "Home Page";
 
     protected static ?string $navigationGroup = "Home";
     protected static ?int $navigationSort = 1;
@@ -29,33 +30,61 @@ class AboutUsResource extends Resource
     {
         return $form
             ->schema([
-                Section::make()
-                    ->schema([
-                        Forms\Components\TextInput::make('title')
-                            ->label("Title")
-                            ->required()
-                            ->maxLength(255),
+                Tabs::make('Tabs')
+                    ->tabs([
+                        Tabs\Tab::make('General Informations')
+                            ->icon('heroicon-o-chat-bubble-bottom-center-text')
+                            ->schema([
+                                Section::make()
+                                    ->schema([
+                                        Forms\Components\TextInput::make('title')
+                                            ->label("Title")
+                                            ->required()
+                                            ->maxLength(255),
 
-                        Forms\Components\FileUpload::make('image')
-                            ->image()
-                            ->required()
-                            ->label("Image")
-                            ->columnSpan('full')
-                            ->nullable(false)
-                            ->disk('public')
-                            ->directory('about_us')
-                            ->visibility('public')
-                            ->imageResizeMode('force')
-                            ->imageCropAspectRatio('8:5')
-                            ->imageResizeTargetWidth('800')
-                            ->imageResizeTargetHeight('500')
-                            ->imageEditor(),
+                                        Forms\Components\FileUpload::make('image')
+                                            ->image()
+                                            ->required()
+                                            ->label("Image")
+                                            ->columnSpan('full')
+                                            ->nullable(false)
+                                            ->disk('public')
+                                            ->directory('about_us')
+                                            ->visibility('public')
+                                            ->imageResizeMode('force')
+                                            ->imageCropAspectRatio('8:5')
+                                            ->imageResizeTargetWidth('800')
+                                            ->imageResizeTargetHeight('500')
+                                            ->imageEditor(),
 
-                        Forms\Components\RichEditor::make('body')
-                            ->label("Body")
-                            ->required()
-                            ->columnSpanFull(),
-                    ]),
+                                        Forms\Components\RichEditor::make('body')
+                                            ->label("Body")
+                                            ->required()
+                                            ->columnSpanFull(),
+                                    ]),
+                            ]),
+                        Tabs\Tab::make('Banner')
+                            ->icon('heroicon-o-cursor-arrow-ripple')
+                            ->schema([
+                                Section::make("banner")->schema([
+                                    Forms\Components\TextInput::make('banner.title')
+                                        ->label("Title")
+                                        ->required()
+                                        ->columnSpanFull(),
+                                    Forms\Components\TextInput::make('banner.button_text')
+                                        ->label("Button Text")
+                                        ->required(),
+                                    Forms\Components\RichEditor::make('banner.body')
+                                        ->label("Body")
+                                        ->required()
+                                        ->columnSpanFull(),
+
+                                ])
+
+                            ])
+
+                    ])->columnSpanFull(),
+
             ]);
     }
 

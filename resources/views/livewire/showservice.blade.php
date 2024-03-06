@@ -25,7 +25,7 @@
                         <p><span style="font-weight: 400;"> {!!$service['description']!!} </p>
                     </p>
                     <div class="btn-secondary large">
-                        <a target href="../calculator/index.html">استشر أطبائنا مجانًا</a>
+                        <a target href="{{ url('consultation') }}">استشر أطبائنا مجانًا</a>
                     </div>
                 </div>
 
@@ -82,7 +82,7 @@
             <b>يس سمايل</b>… نعم لإبتسامة جميلة.
         </h3>
         <div class="btn-secondary large">
-            <a target href="../calculator/index.html">استشر أطبائنا مجانًا</a>
+            <a target href="{{ url('consultation') }}">استشر أطبائنا مجانًا</a>
         </div>
     </div>
 

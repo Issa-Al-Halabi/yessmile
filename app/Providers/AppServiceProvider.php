@@ -28,17 +28,16 @@ class AppServiceProvider extends ServiceProvider
                     ->collapsed(),
 
                 NavigationGroup::make()
-                    ->label('Articles & News')
+                    ->label('About Us')
                     ->collapsed(),
 
                 NavigationGroup::make()
-                    ->label('About')
+                    ->label('Our World')
                     ->collapsed(),
 
                 NavigationGroup::make()
                     ->label('Forms')
                     ->collapsed(),
-
 
                 NavigationGroup::make()
                     ->label('Privacy & Terms')

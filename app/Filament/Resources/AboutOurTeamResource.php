@@ -22,10 +22,11 @@ class AboutOurTeamResource extends Resource
 
     protected static ?string $navigationIcon = 'heroicon-o-information-circle';
     protected static ?string $navigationLabel = "About Our Team";
+
     protected static ?string $modelLabel = "About Our Team";
 
-    protected static ?string $navigationGroup = "Our Team";
-    protected static ?int $navigationSort = 1;
+    protected static ?string $navigationGroup = "About Us";
+    protected static ?int $navigationSort = 3;
 
     public static function form(Form $form): Form
     {

@@ -28,13 +28,10 @@
                                 @endif
                             </p>
                             <div class="btn-secondary large mt-[3rem]">
-                                <a target href="../calculator/index.html">استشر أطبائنا مجانًا</a>
+                                <a target href="{{ url('consultation') }}">استشر أطبائنا مجانًا</a>
                             </div>
                         </div>
                     </div>
-                    <div class="flex justify-center mt-[3rem] pb-[5rem] animate-bounce"><a href="#"><img
-                                decoding="async"
-                                src="../wp-content/themes/yessmile-wp/assets/images/scroll-bottom.svg" /></a></div>
                 </div>
             </div>
 
@@ -79,10 +76,10 @@
                     </div>
                     <div class="col-span-12 md:col-span-5 flex justify-end">
                         <div class="btn-secondary large mt-[3rem]">
-                            <a class="flex group" target href="../calculator/index.html"><img decoding="async"
+                            <a class="flex group" target href="{{url('consultation')}}"><img decoding="async"
                                     class="inline-block w-[4rem] h-[4rem] ml-[2rem] group-hover:animate-spin"
-                                    src="../wp-content/themes/yessmile-wp/assets/images/heart-btn-icon.svg" /><span>احجز
-                                    موعدك الآن</span></a>
+                                    src="../wp-content/themes/yessmile-wp/assets/images/heart-btn-icon.svg" /><span>
+                                        احجز موعدك الآن</span></a>
                         </div>
                     </div>
                 </div>

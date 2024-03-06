@@ -159,7 +159,7 @@
                                     </div>
                                 </div>
                                 <a class="absolute left-0 top-0 right-0 bottom-0"
-                                    href="{{url('article',$article['id'])}}"></a>
+                                    href="{{ url('article', $article['id']) }}"></a>
                             </div>
                         @endforeach
                     </div>
@@ -185,15 +185,34 @@
                     src="wp-content/uploads/2023/09/Group-346-1.webp" />
                 <div class="lg:py-[5rem] py-[3rem]   md:max-w-[70%]   max-w-none  text-light ]">
                     <div class="px-[3rem]">
+
                         <h2 class="my-[5rem] max-w-[20rem] sm:max-w-none ">
-                            احجز موعدك الان مجانًا
+                            @if (isset($about_us))
+                                {{ $about_us['banner']['title'] }}
+                            @else
+                                احجز موعدك الان مجانًا
+                            @endif
                         </h2>
-                        <p>هل ترغب أن تتميز بابتسامتك؟ هل لديك مشاكل بأسنانك تريد علاجها ومن<br />
-                            ثم تجميلها؟</p>
-                        <p>تحدث مع أطبائنا مجانًا حول أفضل خطة علاجية مناسبة لحالتك الخاصة!<br />
-                            نقدم لك تحليل مجاني ومفصل لنضعك على طريق ابتسامة <b>Hollywood</b> مثالية.</p>
+
+                        @if (   isset($about_us))
+                            {!! $about_us['banner']['body'] !!}
+                        @else
+                            <p>هل ترغب أن تتميز بابتسامتك؟ هل لديك مشاكل بأسنانك تريد علاجها ومن<br />
+                                ثم تجميلها؟</p>
+                            <p>تحدث مع أطبائنا مجانًا حول أفضل خطة علاجية مناسبة لحالتك الخاصة!<br />
+                                نقدم لك تحليل مجاني ومفصل لنضعك على طريق ابتسامة <b>Hollywood</b> مثالية.</p>
+                        @endif
+
+
                         <div class="btn-light mt-[6rem] lg:mt-[10rem] mb-[5rem]  text-center md:text-right">
-                            <a target href="{{ url('book-appointment') }}">احجز</a>
+                            <a target href="{{ url('book-appointment') }}">
+
+                                @if (isset($about_us))
+                                    {{ $about_us['banner']['button_text'] }}
+                                @else
+                                    احجز
+                                @endif
+                            </a>
                         </div>
                     </div>
                 </div>

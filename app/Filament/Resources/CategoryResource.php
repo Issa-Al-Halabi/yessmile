@@ -19,7 +19,7 @@ class CategoryResource extends Resource
     use Translatable;
     protected static ?string $model = Category::class;
     protected static ?string $navigationIcon = 'heroicon-o-tag';
-    protected static ?string $navigationGroup = "Articles & News";
+    protected static ?string $navigationGroup = "Our World";
     protected static ?string $navigationLabel = "Categories";
     protected static ?string $modelLabel = "Categories";
     protected static ?int $navigationSort = 2;
