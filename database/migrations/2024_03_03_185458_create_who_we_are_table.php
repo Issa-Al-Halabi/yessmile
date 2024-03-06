@@ -18,6 +18,10 @@ return new class extends Migration
             $table->string('title');
             $table->longText('body');
             $table->string('image');
+            $table->json('features');
+            $table->string('banner_title');
+            $table->string('banner_description');
+            $table->json('why_choose_us');
             $table->timestamps();
         });
 

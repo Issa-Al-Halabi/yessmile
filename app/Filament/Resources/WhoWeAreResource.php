@@ -5,6 +5,8 @@ namespace App\Filament\Resources;
 use App\Filament\Resources\WhoWeAreResource\Pages;
 use App\Models\WhoWeAre;
 use Filament\Forms;
+use Filament\Forms\Components\Section;
+use Filament\Forms\Components\Tabs;
 use Filament\Forms\Form;
 use Filament\Resources\Concerns\Translatable;
 use Filament\Resources\Resource;
@@ -28,17 +30,88 @@ class WhoWeAreResource extends Resource
     {
         return $form
             ->schema([
-                Forms\Components\TextInput::make('title')
-                    ->required()
-                    ->maxLength(255),
-                Forms\Components\Textarea::make('body')
-                    ->required()
+                Tabs::make('Tabs')
+                    ->tabs([
+                        Tabs\Tab::make('General Informations')
+                            ->icon('heroicon-o-chat-bubble-bottom-center-text')
+                            ->schema([
+                                Forms\Components\TextInput::make('title')
+                                    ->label("Title")
+                                    ->required()
+                                    ->maxLength(255),
+                                Forms\Components\RichEditor::make('body')
+                                    ->label("Body")
+                                    ->required()
+                                    ->columnSpanFull(),
+                                Forms\Components\FileUpload::make('image')
+                                    ->label("Image")
+                                    ->image()
+                                    ->required()
+                                    ->directory('whoWeAre')
+                                    ->columnSpanFull(),
+                            ]),
+                        Tabs\Tab::make('Features')
+                            ->icon('heroicon-o-document-chart-bar')
+                            ->schema([
+                                Forms\Components\Repeater::make('features')
+                                    ->label("Features")
+                                    ->defaultItems(0)
+                                    ->grid(3)
+                                    ->schema([
+                                        Forms\Components\TextInput::make('title')
+                                            ->label("Title")
+                                            ->required()
+                                            ->maxLength(255),
+                                        Forms\Components\TextInput::make('number')
+                                            ->label("Number")
+                                            ->required()
+                                            ->maxLength(255),
+                                        Forms\Components\FileUpload::make('image')
+                                            ->label("Image")
+                                            ->image()
+                                            ->required()
+                                            ->columnSpan('full')
+                                            ->nullable(false)
+                                            ->disk('public')
+                                            ->directory('articles')
+                                            ->visibility('public')
+                                            ->imageResizeMode('force')
+                                            ->imageCropAspectRatio('8:5')
+                                            ->imageResizeTargetWidth('800')
+                                            ->imageResizeTargetHeight('500')
+                                            ->imageEditor(),
+                                    ]),
+                            ]),
+                        Tabs\Tab::make('Banner')
+                            ->icon('heroicon-o-cursor-arrow-ripple')
+                            ->schema([
+                                Forms\Components\TextInput::make('banner_title')
+                                    ->label("Title")
+                                    ->required()
+                                    ->maxLength(255),
+                                Forms\Components\TextInput::make('banner_description')
+                                    ->label("Description")
+                                    ->required()
+                                    ->maxLength(255),
+
+                            ]),
+                        Tabs\Tab::make('Why Choose Us')
+                            ->icon('heroicon-o-user-group')
+                            ->schema([
+                                Forms\Components\Repeater::make('why_choose_us')
+                                    ->label("Why Choose Us")
+                                    ->defaultItems(0)
+                                    ->grid(3)
+                                    ->schema([
+                                        Forms\Components\TextInput::make('title')
+                                            ->label("Title")
+                                            ->required()
+                                            ->maxLength(255),
+                                    ]),
+                            ]),
+                    ])
                     ->columnSpanFull(),
-                Forms\Components\FileUpload::make('image')
-                    ->image()
-                    ->required()
-                    ->directory('whoWeAre')
-                    ->columnSpanFull(),
+
             ]);
     }
 
@@ -49,10 +122,50 @@ class WhoWeAreResource extends Resource
                 Tables\Columns\TextColumn::make('id')
                     ->label('ID')
                     ->numeric()
-                    ->sortable(),
+                    ->sortable()
+                    ->searchable(),
                 Tables\Columns\TextColumn::make('title')
+                    ->sortable()
                     ->searchable(),
                 Tables\Columns\ImageColumn::make('image'),
+                Tables\Columns\TextColumn::make('features')
+                    ->sortable()
+                    ->searchable()
+                    ->badge()
+                    ->getStateUsing(function (WhoWeAre $record) {
+                        $features = [];
+                        foreach ($record->features as $feature) {
+                            $features[] = $feature["title"];
+                        }
+                        return $features;
+                    }),
+                Tables\Columns\TextColumn::make('why_choose_us')
+                    ->sortable()
+                    ->searchable()
+                    ->badge()
+                    ->color("success")
+                    ->getStateUsing(function (WhoWeAre $record) {
+                        $why_choose_us_array = [];
+                        foreach ($record->why_choose_us as $why_choose_us) {
+                            $why_choose_us_array[] = $why_choose_us["title"];
+                        }
+                        return $why_choose_us_array;
+                    }),
+
+                Tables\Columns\TextColumn::make('banner_title')
+                    ->searchable()
+                    ->sortable()
+                    ->badge()
+                    ->color("danger")
+                    ->toggleable(isToggledHiddenByDefault: true),
+
+                Tables\Columns\TextColumn::make('banner_description')
+                    ->searchable()
+                    ->sortable()
+                    ->badge()
+                    ->color("warning")
+                    ->toggleable(isToggledHiddenByDefault: true),
+
                 Tables\Columns\TextColumn::make('created_at')
                     ->dateTime()
                     ->sortable()
@@ -66,6 +179,7 @@ class WhoWeAreResource extends Resource
                 //
             ])
             ->actions([
+                Tables\Actions\ViewAction::make(),
                 Tables\Actions\EditAction::make(),
                 Tables\Actions\DeleteAction::make(),
             ])

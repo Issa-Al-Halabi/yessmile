@@ -15,11 +15,19 @@ class WhoWeAre extends Model
     protected $translatable = [
         "title",
         "body",
+        "features",
+        "banner_title",
+        "banner_description",
+        "why_choose_us",
     ];
 
     protected $fillable = [
         "title",
         "body",
         "image",
+        "features",
+        "banner_title",
+        "banner_description",
+        "why_choose_us",
     ];
 }
