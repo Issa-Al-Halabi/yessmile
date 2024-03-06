@@ -18,10 +18,10 @@ class FooterResource extends Resource
 {
     protected static ?string $model = Footer::class;
 
-    protected static ?string $navigationIcon = 'heroicon-o-rectangle-stack';
-    protected static ?string $navigationLabel = "Footer";
-    protected static ?string $pluralModelLabel = "Footer";
-    protected static ?string $modelLabel = "Footer";
+    protected static ?string $navigationIcon = 'heroicon-o-cog-6-tooth';
+    protected static ?string $navigationLabel = "Setting";
+    protected static ?string $pluralModelLabel = "Setting";
+    protected static ?string $modelLabel = "Setting";
 
     public static function form(Form $form): Form
     {
@@ -42,6 +42,36 @@ class FooterResource extends Resource
                                     ->required()
                                     ->maxLength(255),
                             ])->columns(2),
+                        Tabs\Tab::make('Location')
+                            ->icon('heroicon-o-map-pin')
+                            ->schema([
+                                Forms\Components\TextInput::make('lat')
+                                    ->numeric()
+                                    ->required()
+                                    ->maxLength(255),
+                                Forms\Components\TextInput::make('lang')
+                                    ->numeric()
+                                    ->required()
+                                    ->maxLength(255),
+                            ])->columns(2),
+                        Tabs\Tab::make('Book Now Section')
+                            ->icon('heroicon-o-globe-europe-africa')
+                            ->schema([
+                                Forms\Components\Repeater::make('book_now')
+                                    ->grid(3)
+                                    ->defaultItems(0)
+                                    ->schema([
+                                        Forms\Components\TextInput::make('title')
+                                            ->label("title")
+                                            ->required()
+                                            ->maxLength(255),
+                                        Forms\Components\TextInput::make('link')
+                                            ->label("Link")
+                                            ->url()
+                                            ->required()
+                                            ->maxLength(255),
+                                    ]),
+                            ]),
                         Tabs\Tab::make('socials')
                             ->icon('heroicon-o-at-symbol')
                             ->schema([
@@ -94,10 +124,34 @@ class FooterResource extends Resource
                         }
                         return $images;
                     }),
+
+                Tables\Columns\TextColumn::make('book_now.0')
+                    ->label("Book Now Section")
+                    ->badge()
+                    ->getStateUsing(function (Footer $record) {
+                        $titles = [];
+                        foreach ($record->book_now as $book_now) {
+                            $titles[] = $book_now["title"];
+                        }
+                        return $titles;
+                    }),
+                Tables\Columns\TextColumn::make('lat')
+                    ->badge()
+                    ->color("danger")
+                    ->sortable()
+                    ->toggleable(isToggledHiddenByDefault: true),
+
+                Tables\Columns\TextColumn::make('lang')
+                    ->badge()
+                    ->color("danger")
+                    ->sortable()
+                    ->toggleable(isToggledHiddenByDefault: true),
+
                 Tables\Columns\TextColumn::make('created_at')
                     ->dateTime()
                     ->sortable()
                     ->toggleable(isToggledHiddenByDefault: true),
+
                 Tables\Columns\TextColumn::make('updated_at')
                     ->dateTime()
                     ->sortable()

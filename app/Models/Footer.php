@@ -15,9 +15,13 @@ class Footer extends Model
         "phone",
         "email",
         "socials",
+        "lat",
+        "lang",
+        "book_now",
     ];
 
     protected $casts = [
         "socials" => "json",
+        "book_now" => "json",
     ];
 }
