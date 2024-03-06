@@ -14,6 +14,12 @@
 
     <title>{{ $title ?? 'مركز يس سمايل | تجميل الأسنان في تركيا' }}</title>
 
+    {{-- Google Map API --}}
+    <script async
+        src="https://maps.googleapis.com/maps/api/js?key={{ config('app.GOOGLE_API_KEY') }}&callback=console.debug&libraries=maps,marker&v=beta">
+    </script>
+
+
     <meta name="description"
         content="مركز YesSmile، أكبر مركز لتجميل وزراعة الأسنان في تركيا، نقدم مجموعة واسعة من الخدمات، بما في ذلك ابتسامة هوليود وزراعة الأسنان وتجميل اللثة وعلاجات الأسنان. نستخدم أحدث التقنيات لتزويد مرضانا بأعلى جودة ممكنة من الرعاية. تواصل معنا اليوم لتحديد موعد استشارة مجانية ومعرفة المزيد عن خدماتنا." />
     <link rel="canonical" href="index.html" />
@@ -1046,9 +1052,18 @@
                     @endif
 
                     <div class="mt-4">
-                        <div><iframe style="border: 0; border-radius: 20px; width: 100%;"
-                                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12025.824987199421!2d28.9822116!3d41.1027258!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab7ffde03555b%3A0xf7da3506dd5bd838!2zWWVzU21pbGUgY2xpbmljIC0g2YXYsdmD2LIg2YrYsyDYs9mF2KfZitmE!5e0!3m2!1sen!2s!4v1684752158041!5m2!1sen!2s"
-                                width="450" height="450" allowfullscreen="allowfullscreen"></iframe></div>
+                        <div>
+                            {{-- <iframe style="border: 0; border-radius: 20px; width: 100%;"
+                                src="https://maps.google.com/maps?q={{ $footer->lat }},{{ $footer->lang }}&z=15&output=embed"
+                                width="450" height="450" allowfullscreen="allowfullscreen"></iframe> --}}
+
+                            <gmp-map center="{{ $footer->lat }},{{ $footer->lang }}" zoom="7"
+                                style="width=450px; height: 450px;" map-id="DEMO_MAP_ID">
+                                <gmp-advanced-marker position="{{ $footer->lat }},{{ $footer->lang }}"
+                                    title="My location"></gmp-advanced-marker>
+                            </gmp-map>
+
+                        </div>
                     </div>
                 </div>
             </div>
@@ -1063,7 +1078,6 @@
             </div>
         </div>
     </footer>
-
 
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PN5LVP4" height="0"
             width="0"></iframe></noscript>

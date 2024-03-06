@@ -13,9 +13,9 @@ return new class extends Migration
     {
         Schema::create('branches', function (Blueprint $table) {
             $table->id();
-            $table->string('branch_name');
-            $table->double('lat');
-            $table->double('lang');
+            $table->string('name');
+            $table->string('lat');
+            $table->string('lang');
             $table->timestamps();
         });
     }

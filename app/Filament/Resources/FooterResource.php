@@ -5,6 +5,7 @@ namespace App\Filament\Resources;
 use App\Filament\Resources\FooterResource\Pages;
 use App\Filament\Resources\FooterResource\RelationManagers;
 use App\Models\Footer;
+use Cheesegrits\FilamentGoogleMaps\Fields\Geocomplete;
 use Filament\Forms;
 use Filament\Forms\Components\Tabs;
 use Filament\Forms\Form;
@@ -13,6 +14,8 @@ use Filament\Tables;
 use Filament\Tables\Table;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\SoftDeletingScope;
+use Cheesegrits\FilamentGoogleMaps\Fields\Map;
+use Cheesegrits\FilamentGoogleMaps\Columns\MapColumn;
 
 class FooterResource extends Resource
 {
@@ -45,14 +48,39 @@ class FooterResource extends Resource
                         Tabs\Tab::make('Location')
                             ->icon('heroicon-o-map-pin')
                             ->schema([
-                                Forms\Components\TextInput::make('lat')
-                                    ->numeric()
-                                    ->required()
-                                    ->maxLength(255),
-                                Forms\Components\TextInput::make('lang')
-                                    ->numeric()
-                                    ->required()
-                                    ->maxLength(255),
+
+                                Geocomplete::make('location')
+                                    ->isLocation()
+                                    ->geocodeOnLoad(),
+                                Map::make('location')
+                                    ->mapControls([
+                                        'mapTypeControl'    => true,
+                                        'scaleControl'      => true,
+                                        'streetViewControl' => true,
+                                        'rotateControl'     => true,
+                                        'fullscreenControl' => true,
+                                        'searchBoxControl'  => false,
+                                        'zoomControl'       => false,
+                                    ])
+                                    ->height(fn () => '600px')
+                                    ->defaultZoom(5)
+                                    ->autocomplete('full_address')
+                                    ->autocompleteReverse(true)
+                                    ->reverseGeocode([
+                                        'street' => '%n %S',
+                                        'city' => '%L',
+                                        'state' => '%A1',
+                                        'zip' => '%z',
+                                    ])
+                                    ->debug()
+                                    ->defaultLocation([34.826610, 38.727261])
+                                    ->draggable()
+                                    ->clickable(false)
+                                    ->geolocate()
+                                    ->geolocateLabel('Get Location')
+                                    ->geolocateOnLoad(true, false)
+                                    ->geoJsonContainsField('geojson')
+                                    ->columnSpanFull(),
                             ])->columns(2),
                         Tabs\Tab::make('Book Now Section')
                             ->icon('heroicon-o-globe-europe-africa')
@@ -135,6 +163,18 @@ class FooterResource extends Resource
                         }
                         return $titles;
                     }),
+                MapColumn::make('location')
+                    ->extraAttributes([
+                        'class' => 'my-funky-class'
+                    ])
+                    ->extraImgAttributes(
+                        fn ($record): array => ['title' => $record->lat . ',' . $record->lang]
+                    )
+                    ->height('150')
+                    ->width('250')
+                    ->type('hybrid')
+                    ->zoom(15)
+                    ->ttl(60 * 60 * 24 * 30),
                 Tables\Columns\TextColumn::make('lat')
                     ->badge()
                     ->color("danger")
