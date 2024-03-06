@@ -1,6 +1,7 @@
 <?php
 
 use App\Livewire\ShowHome;
+use App\Livewire\Showservice;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -15,3 +16,4 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/',ShowHome::class);
+Route::get('/service/{id}',Showservice::class);

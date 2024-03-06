@@ -32,7 +32,7 @@ class FaqResource extends Resource
                 Forms\Components\Textarea::make('question')
                     ->required()
                     ->columnSpanFull(),
-                Forms\Components\Textarea::make('answer')
+                Forms\Components\RichEditor::make('answer')
                     ->required()
                     ->columnSpanFull(),
             ]);
