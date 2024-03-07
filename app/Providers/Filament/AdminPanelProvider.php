@@ -23,6 +23,7 @@ class AdminPanelProvider extends PanelProvider
 {
     public function panel(Panel $panel): Panel
     {
+        app()->setLocale('en');
         return $panel
             ->default()
             ->id('admin')
@@ -56,6 +57,7 @@ class AdminPanelProvider extends PanelProvider
             ->authMiddleware([
                 Authenticate::class,
             ])
-            ->plugin(SpatieLaravelTranslatablePlugin::make()->defaultLocales(['ar','en']));
+            ->plugin(SpatieLaravelTranslatablePlugin::make()
+            ->defaultLocales(['ar','en',]));
     }
 }
