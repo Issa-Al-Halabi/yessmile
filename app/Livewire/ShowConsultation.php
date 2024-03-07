@@ -7,6 +7,7 @@ use App\Models\ConsultationRequest;
 use App\Models\User;
 use Filament\Notifications\Actions\Action;
 use Filament\Notifications\Notification;
+use Livewire\Attributes\Title;
 use Livewire\Component;
 use Livewire\Features\SupportFileUploads\WithFileUploads;
 
@@ -14,6 +15,7 @@ class ShowConsultation extends Component
 {
     use WithFileUploads;
 
+    #[Title('consultation')]
     public function render()
     {
         return view('livewire.show-consultation');

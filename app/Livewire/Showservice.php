@@ -14,7 +14,7 @@ class Showservice extends Component
         $this->service = Service::findOrFail($id);
     }
 
-    #[Title("Our Service")]
+    #[Title("Service")]
     public function render()
     {
         return view('livewire.showservice');

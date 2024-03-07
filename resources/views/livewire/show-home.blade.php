@@ -48,9 +48,10 @@
                         margin-top: 140px;
                     }
                 </style>
-                <h2 class="mb-[3rem]  top-40 ">صور لنتائج ابتسامة هوليود في يس سمايل</h2>
-                <h3 class="xl:mb-[3.625rem] mb-[5rem] font-light text-[1.6rem] lg:text-[2rem]  ">شاهد صور لنتائج
-                    ابتسامة هوليود لمرضى عيادة تجميل الأسنان في تركيا <b>YesSmile</b></h3>
+                <h2 class="mb-[3rem]  top-40 ">صور لنتائج عملنا</h2>
+                <h3 class="xl:mb-[3.625rem] mb-[5rem] font-light text-[1.6rem] lg:text-[2rem]  ">
+                     شاهد أحدث صور لنتائج عملنا
+                </h3>
             </div>
             <div class>
                 <div class="relative  pl-[3rem] md:pl-0">
@@ -194,7 +195,7 @@
                             @endif
                         </h2>
 
-                        @if (   isset($about_us))
+                        @if (       isset($about_us))
                             {!! $about_us['banner']['body'] !!}
                         @else
                             <p>هل ترغب أن تتميز بابتسامتك؟ هل لديك مشاكل بأسنانك تريد علاجها ومن<br />

@@ -3,6 +3,7 @@
 namespace App\Livewire;
 
 use App\Models\News;
+use Livewire\Attributes\Title;
 use Livewire\Component;
 
 class ShowNews extends Component
@@ -13,6 +14,8 @@ class ShowNews extends Component
     {
         $this->news = News::findOrFail($id);
     }
+
+    #[Title('news')]
     public function render()
     {
         return view('livewire.show-news');
