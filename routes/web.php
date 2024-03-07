@@ -2,6 +2,7 @@
 
 use App\Livewire\ShowArticle;
 use App\Livewire\ShowBookAppointment;
+use App\Livewire\ShowBranches;
 use App\Livewire\ShowConsultation;
 use App\Livewire\ShowHome;
 use App\Livewire\ShowNews;
@@ -34,6 +35,8 @@ Route::group([
     // ================= About ================= //
     Route::get('/who-we-are', ShowWhoWeAre::class);
     Route::get('/our-team', ShowOurTeam::class);
+    Route::get('/our_branches', ShowBranches::class);
+
 
     // ================= Our World ================= //
     Route::get('/our-world', ShowOurWorld::class);
