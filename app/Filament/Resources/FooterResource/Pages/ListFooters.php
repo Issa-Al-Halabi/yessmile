@@ -3,6 +3,7 @@
 namespace App\Filament\Resources\FooterResource\Pages;
 
 use App\Filament\Resources\FooterResource;
+use App\Filament\Widgets\StateWidget;
 use Filament\Actions;
 use Filament\Resources\Pages\ListRecords;
 
