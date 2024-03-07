@@ -28,6 +28,10 @@ class AppServiceProvider extends ServiceProvider
                     ->collapsed(),
 
                 NavigationGroup::make()
+                    ->label('Our Clinic')
+                    ->collapsed(),
+
+                NavigationGroup::make()
                     ->label('About Us')
                     ->collapsed(),
 

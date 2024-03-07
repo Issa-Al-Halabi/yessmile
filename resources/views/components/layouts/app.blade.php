@@ -516,7 +516,7 @@
                         <ul class="flex items-center justify-center gap-[3rem]">
                             <li><a class="nav-item-link" href="{{url('/')}}">الصفحة الرئيسية</a></li>
 
-                            <li><a class="nav-item-link" href="before-and-after/index.html">عيادتنا</a></li>
+                            <li><a class="nav-item-link" href="{{url('our-clinic')}}">عيادتنا</a></li>
                             <li class="group mini-nav-wrap ">
                                 <a class="nav-item-link" href="#">من نحن</a>
                                 <div
@@ -555,6 +555,44 @@
                                 </div>
                             </li>
                             <li><a class="nav-item-link" href="{{url('our-world')}}">عالمنا</a></li>
+
+                            <li class="group mini-nav-wrap ">
+                                <a class="nav-item-link" href="#">لغات</a>
+                                <div
+                                    class="mini-nav-item w-full bg-primary-nav   transition-all invisible ease-in   opacity-0 duration-300 absolute top-[9.6rem] group-hover:visible group-hover:opacity-100    left-0">
+                                    <div class=" min-h-[10rem] bg-primary-nav rounded-b-[2rem]">
+                                        <div class="main-container  py-[2rem]">
+                                            <div class="flex gap-0">
+                                                <div class="flex-1">
+                                                    <div class="sub-nav">
+                                                        <ul>
+                                                            <li class="relative">
+                                                                <a class="link-box" href="{{url('ar')}}">
+                                                                    <span class="nav-icon-img"><img
+                                                                            class="max-h-[3rem]"
+                                                                            src="{{asset('wp-content/uploads/2023/07/Group-2.png')}}" /></span>
+                                                                    <span class="pr-[1rem] leading-[2.8rem]">
+                                                                        العربية
+                                                                    </span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="relative">
+                                                                <a class="link-box" href="{{url('en')}}">
+                                                                    <span class="nav-icon-img"><img
+                                                                            class="max-h-[3rem]"
+                                                                            src="{{ asset('wp-content/uploads/2023/07/Group-801-1.png') }}" /></span>
+                                                                    <span
+                                                                        class="pr-[1rem] leading-[2.8rem]">الانكليزية   </span>
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
                         </ul>
                     </nav>
                     <div

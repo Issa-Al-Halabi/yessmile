@@ -4,9 +4,11 @@
         <main>
 
             <div class="h-auto md:h-[calc(100vh-96px)]  relative mb-[6rem] sm:mb-[10rem]">
-                <div style="background-image: url({{ 'storage/' . $whoWeAre->image }} );"
-                    class="absolute top-0 left-0 right-0 bottom-0 w-full h-full bg-cover after:bg-gradient-to-t from-primary/5 via-primary/80 to-primary  after:absolute after:left-0 after:right-0 after:top-0 after:bottom-0">
-                </div>
+                @if (isset($whoWeAre))
+                    <div style="background-image: url({{ 'storage/' . $whoWeAre->image }} );"
+                        class="absolute top-0 left-0 right-0 bottom-0 w-full h-full bg-cover after:bg-gradient-to-t from-primary/5 via-primary/80 to-primary  after:absolute after:left-0 after:right-0 after:top-0 after:bottom-0">
+                    </div>
+                @endif
                 <div class="main-container relative flex flex-col justify-between h-full ">
                     <div class="flex flex-col justify-center text-light h-full text-center max-w-[88.4rem] mx-auto">
                         <div>
@@ -39,6 +41,7 @@
                 <h2></h2>
                 <div class="flex flex-col justify-center  md:px-[8.4rem] max-w-[120rem] mx-auto ">
                     <div class="flex justify-between flex-wrap ">
+                        @if (isset($whoWeAre))
                         @foreach ($whoWeAre->features as $feature)
                             <div class=" text-center basis-[50%] md:basis-auto py-[2rem] ">
                                 <div class="md:h-[13rem] md:w-[13rem]  h-[7rem] w-[7rem] inline-block relative"><img
@@ -50,6 +53,7 @@
                                 </h2>
                             </div>
                         @endforeach
+                        @endif
                     </div>
                 </div>
             </div>
