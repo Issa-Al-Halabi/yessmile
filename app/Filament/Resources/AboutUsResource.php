@@ -17,13 +17,11 @@ use Filament\Tables\Table;
 class AboutUsResource extends Resource
 {
     use Translatable;
-
     protected static ?string $model = AboutUs::class;
 
     protected static ?string $navigationIcon = 'heroicon-o-information-circle';
     protected static ?string $navigationLabel = "Home Page";
     protected static ?string $modelLabel = "Home Page";
-
     protected static ?string $navigationGroup = "Home";
     protected static ?int $navigationSort = 1;
 
@@ -68,14 +66,14 @@ class AboutUsResource extends Resource
                             ->icon('heroicon-o-cursor-arrow-ripple')
                             ->schema([
                                 Section::make("banner")->schema([
-                                    Forms\Components\TextInput::make('banner.title')
+                                    Forms\Components\TextInput::make('banner_title')
                                         ->label("Title")
                                         ->required()
                                         ->columnSpanFull(),
-                                    Forms\Components\TextInput::make('banner.button_text')
+                                    Forms\Components\TextInput::make('banner_button')
                                         ->label("Button Text")
                                         ->required(),
-                                    Forms\Components\RichEditor::make('banner.body')
+                                    Forms\Components\RichEditor::make('banner_body')
                                         ->label("Body")
                                         ->required()
                                         ->columnSpanFull(),
@@ -97,6 +95,18 @@ class AboutUsResource extends Resource
                     ->label("Title")
                     ->searchable(),
                 Tables\Columns\ImageColumn::make('image'),
+                Tables\Columns\TextColumn::make('banner_title')
+                ->label("Banner Title")
+                ->searchable(),
+                Tables\Columns\TextColumn::make('banner_button')
+                ->label("banner button")
+                ->searchable(),
+                Tables\Columns\TextColumn::make('banner_body')
+                ->label("banner body")
+                ->html()
+                ->searchable()
+                ->toggleable(isToggledHiddenByDefault: true),
+
                 Tables\Columns\TextColumn::make('body')
                     ->label("Body")
                     ->html()

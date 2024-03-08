@@ -25,17 +25,15 @@
                         <p><span style="font-weight: 400;"> {!!$service['description']!!} </p>
                     </p>
                     <div class="btn-secondary large">
-                        <a target href="{{ url('consultation') }}">استشر أطبائنا مجانًا</a>
+                        <a target href="{{ url('consultation') }}">
+                            @lang("service.consult_our_doctors")
+                        </a>
                     </div>
                 </div>
-
-
-                <div></div>
-
             </div>
             <div class="flex lg:w-auto w-full justify-center mt-[3rem] pb-[5rem] animate-bounce"><a
                     href="#"><img decoding="async"
-                        src="../wp-content/themes/yessmile-wp/assets/images/scroll-bottom.svg" /></a></div>
+                        src="{{asset('wp-content/themes/yessmile-wp/assets/images/scroll-bottom.svg')}}" /></a></div>
         </div>
 
     </div>
@@ -45,9 +43,9 @@
         class="mb-[6rem] sm:mb-[10rem]
                     play-stop-slider-wrp text-center  relative compare-slider">
         <div class="main-container">
-            <h2 class="mb-[3rem]   ">نتائج زراعة الأسنان في يس سمايل</h2>
-            <h3 class="xl:mb-[3.625rem] mb-[5rem] font-light text-[1.6rem] lg:text-[2rem]  ">شاهد صور زراعة الأسنان
-                لمرضى عيادة <b>YesSmile</b> لترميم وتجميل الأسنان </h3>
+            <h2 class="mb-[3rem]   ">
+                @lang("service.results")
+            </h2>
         </div>
         <div class>
             <div class="relative  pl-[3rem] md:pl-0">
@@ -79,10 +77,12 @@
         </div>
         <h3
             class="xl:mb-[3.625rem] mb-[5rem] font-light mt-[1rem] text-[1.6rem] lg:text-[2rem] max-w-[15.7rem] lg:max-w-none mx-auto lg:mx-0 ">
-            <b>يس سمايل</b>… نعم لإبتسامة جميلة.
+            @lang("service.yes_for_yessmile")
         </h3>
         <div class="btn-secondary large">
-            <a target href="{{ url('consultation') }}">استشر أطبائنا مجانًا</a>
+            <a target href="{{ url('consultation') }}">
+                @lang("service.consult_our_doctors")
+            </a>
         </div>
     </div>
 

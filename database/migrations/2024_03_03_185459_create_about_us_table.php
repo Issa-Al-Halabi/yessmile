@@ -18,7 +18,9 @@ return new class extends Migration
             $table->string('title');
             $table->longText('body');
             $table->string('image');
-            $table->json('banner');
+            $table->string('banner_title');
+            $table->string('banner_button');
+            $table->longText('banner_body');
             $table->timestamps();
         });
 

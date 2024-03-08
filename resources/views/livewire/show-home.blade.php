@@ -189,14 +189,14 @@
 
                         <h2 class="my-[5rem] max-w-[20rem] sm:max-w-none ">
                             @if (isset($about_us))
-                                {{ $about_us['banner']['title'] }}
+                                {{ $about_us['banner_button'] }}
                             @else
                                 احجز موعدك الان مجانًا
                             @endif
                         </h2>
 
                         @if (       isset($about_us))
-                            {!! $about_us['banner']['body'] !!}
+                            {!! $about_us['banner_body'] !!}
                         @else
                             <p>هل ترغب أن تتميز بابتسامتك؟ هل لديك مشاكل بأسنانك تريد علاجها ومن<br />
                                 ثم تجميلها؟</p>
@@ -209,7 +209,7 @@
                             <a target href="{{ url('book-appointment') }}">
 
                                 @if (isset($about_us))
-                                    {{ $about_us['banner']['button_text'] }}
+                                    {{ $about_us['banner_title'] }}
                                 @else
                                     احجز
                                 @endif

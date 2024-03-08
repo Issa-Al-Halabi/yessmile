@@ -15,16 +15,17 @@ class AboutUs extends Model
     protected $translatable = [
         "title",
         "body",
-        "banner"
+        'banner_title',
+        'banner_button',
+        'banner_body',
     ];
 
     protected $fillable = [
         "title",
         "body",
         "image",
-        "banner"
-    ];
-    protected $casts = [
-        'banner' => 'json',
+        'banner_title',
+        'banner_button',
+        'banner_body',
     ];
 }

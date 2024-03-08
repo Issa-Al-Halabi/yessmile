@@ -15,13 +15,13 @@ class Service extends Model
     protected $translatable = [
         "name",
         "title",
-        "image",
         "description",
     ];
 
     protected $fillable = [
         "name",
         "title",
+        "image",
         "description",
         "images",
     ];
