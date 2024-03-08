@@ -629,190 +629,79 @@
             <div class="fixed top-0 left-0 right-0 bottom-0 bg-primary-nav/50 backdrop-blur-2xl   z-[-1]"></div>
             <div class="overflow-y-auto max-h-[90%] sm:max-h-screen sm:h-screen bg-primary-nav py-[10rem] ">
                 <ul class="flex flex-col gap-0 nav-menu-mobile px-[4rem] py-[6rem]">
-                    <li>
-                        <a class="nav-item-link-mobile relative  sub-nav-toggle " href="#">
-                            <span class="pb-[1rem] block">خدماتنا <span
-                                    style="background-image:url({{ asset('wp-content/themes/yessmile-wp/assets/images/bottom-secondary-arr.svg') }});"
-                                    class="btm-arrow -mb-[.5rem] w-[2rem] h-[2rem] inline-block bg-no-repeat transition-all ease-in-out bg-center bg-auto opacity-0 rotate-90 "></span></span>
-                        </a>
-                        <div class="item-sub-menu-mobile hidden">
-                            <div class="flex flex-col gap-0">
-                                <div class="flex-1">
-                                    <div class="sub-nav-mobile mb-[2rem]">
-                                        <a class="relative block text-light/70 font-medium text-[1.6rem]  second-sub-nav-toggle"
-                                            href="#">تجميل الأسنان
-                                        </a>
-                                        <ul class="second-sub-nav-mobile hidden">
-                                            <li class="relative">
-                                                <a class="link-box" href="hollywood-smile/index.html">
-                                                    <span class="nav-icon-img"><img class="max-h-[3rem]"
-                                                            src="{{ asset('wp-content/uploads/2023/07/Mask-group-7.png') }}" /></span>
-                                                    <span class="pr-[1rem] leading-[2.8rem]">ابتسامة هوليود</span>
-                                                </a>
-                                            </li>
-                                            <li class="relative">
-                                                <a class="link-box" href="dental-veneer/index.html">
-                                                    <span class="nav-icon-img"><img class="max-h-[3rem]"
-                                                            src="{{ asset('wp-content/uploads/2023/07/Mask-group-8.png') }}" /></span>
-                                                    <span class="pr-[1rem] leading-[2.8rem]">فنير الأسنان</span>
-                                                </a>
-                                            </li>
-                                            <li class="relative">
-                                                <a class="link-box" href="teeth-bonding/index.html">
-                                                    <span class="nav-icon-img"><img class="max-h-[3rem]"
-                                                            src="{{ asset('wp-content/uploads/2023/07/Mask-group-9.png') }}" /></span>
-                                                    <span class="pr-[1rem] leading-[2.8rem]">ربط الأسنان</span>
-                                                </a>
-                                            </li>
-                                            <li class="relative">
-                                                <a class="link-box" href="teeth-whitening/index.html">
-                                                    <span class="nav-icon-img"><img class="max-h-[3rem]"
-                                                            src="{{ asset('wp-content/uploads/2023/07/Mask-group-10.png') }}" /></span>
-                                                    <span class="pr-[1rem] leading-[2.8rem]">تبييض الأسنان</span>
-                                                </a>
-                                            </li>
-                                            <li class="relative">
-                                                <a class="link-box" href="teeth-cleaning/index.html">
-                                                    <span class="nav-icon-img"><img class="max-h-[3rem]"
-                                                            src="{{ asset('wp-content/uploads/2023/07/Mask-group-11.png') }}" /></span>
-                                                    <span class="pr-[1rem] leading-[2.8rem]">تنظيف الأسنان</span>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="flex-1">
-                                    <div class="sub-nav-mobile mb-[2rem]">
-                                        <a class="relative block text-light/70 font-medium text-[1.6rem]  second-sub-nav-toggle"
-                                            href="#">زراعة الأسنان
-                                        </a>
-                                        <ul class="second-sub-nav-mobile hidden">
-                                            <li class="relative">
-                                                <a class="link-box" href="dental-implant/index.html">
-                                                    <span class="nav-icon-img"><img class="max-h-[3rem]"
-                                                            src="{{ asset('wp-content/uploads/2023/07/Mask-group-12.png') }}" /></span>
-                                                    <span class="pr-[1rem] leading-[2.8rem]">زراعة الأسنان</span>
-                                                </a>
-                                            </li>
-                                            <li class="relative">
-                                                <a class="link-box" href="immediate-implant/index.html">
-                                                    <span class="nav-icon-img"><img class="max-h-[3rem]"
-                                                            src="{{ asset('wp-content/uploads/2023/07/Mask-group-13.png') }}" /></span>
-                                                    <span class="pr-[1rem] leading-[2.8rem]">زراعة الأسنان
-                                                        الفورية</span>
-                                                </a>
-                                            </li>
-                                            <li class="relative">
-                                                <a class="link-box" href="all-on-4/index.html">
-                                                    <span class="nav-icon-img"><img class="max-h-[3rem]"
-                                                            src="{{ asset('wp-content/uploads/2023/07/Mask-group-14.png') }}" /></span>
-                                                    <span class="pr-[1rem] leading-[2.8rem]">الكل على 4</span>
-                                                </a>
-                                            </li>
-                                            <li class="relative">
-                                                <a class="link-box" href="all-on-6/index.html">
-                                                    <span class="nav-icon-img"><img class="max-h-[3rem]"
-                                                            src="{{ asset('wp-content/uploads/2023/07/Mask-group-15.png') }}" /></span>
-                                                    <span class="pr-[1rem] leading-[2.8rem]">الكل على 6</span>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="flex-1">
-                                    <div class="sub-nav-mobile mb-[2rem]">
-                                        <a class="relative block text-light/70 font-medium text-[1.6rem]  second-sub-nav-toggle"
-                                            href="#">تركيبات الأسنان
-                                        </a>
-                                        <ul class="second-sub-nav-mobile hidden">
-                                            <li class="relative">
-                                                <a class="link-box" href="dental-crowns/index.html">
-                                                    <span class="nav-icon-img"><img class="max-h-[3rem]"
-                                                            src="{{ asset('wp-content/uploads/2023/07/Mask-group-17.png') }}" /></span>
-                                                    <span class="pr-[1rem] leading-[2.8rem]">تيجان</span>
-                                                </a>
-                                            </li>
-                                            <li class="relative">
-                                                <a class="link-box" href="dental-bridge/index.html">
-                                                    <span class="nav-icon-img"><img class="max-h-[3rem]"
-                                                            src="{{ asset('wp-content/uploads/2023/07/Group-797-1.png') }}" /></span>
-                                                    <span class="pr-[1rem] leading-[2.8rem]">جسور</span>
-                                                </a>
-                                            </li>
-                                            <li class="relative">
-                                                <a class="link-box" href="partial-denture/index.html">
-                                                    <span class="nav-icon-img"><img class="max-h-[3rem]"
-                                                            src="{{ asset('wp-content/uploads/2023/07/Mask-group-16.png') }}" /></span>
-                                                    <span class="pr-[1rem] leading-[2.8rem]">طقم أسنان جزئي</span>
-                                                </a>
-                                            </li>
-                                            <li class="relative">
-                                                <a class="link-box" href="full-denture/index.html">
-                                                    <span class="nav-icon-img"><img class="max-h-[3rem]"
-                                                            src="{{ asset('wp-content/uploads/2023/07/Frame-367.png') }}" /></span>
-                                                    <span class="pr-[1rem] leading-[2.8rem]">أطقم الأسنان
-                                                        الكاملة</span>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="flex-1">
-                                    <div class="sub-nav-mobile mb-[2rem]">
-                                        <a class="relative block text-light/70 font-medium text-[1.6rem]  second-sub-nav-toggle"
-                                            href="#">علاجات الاسنان
-                                        </a>
-                                        <ul class="second-sub-nav-mobile hidden">
-                                            <li class="relative">
-                                                <a class="link-box" href="amalgam-filling/index.html">
-                                                    <span class="nav-icon-img"><img class="max-h-[3rem]"
-                                                            src="{{ asset('wp-content/uploads/2023/07/Mask-group-18.png') }}" /></span>
-                                                    <span class="pr-[1rem] leading-[2.8rem]">الحشوة الملغمية</span>
-                                                </a>
-                                            </li>
-                                            <li class="relative">
-                                                <a class="link-box" href="composite-filling/index.html">
-                                                    <span class="nav-icon-img"><img class="max-h-[3rem]"
-                                                            src="{{ asset('wp-content/uploads/2023/07/Mask-group-19.png') }}" /></span>
-                                                    <span class="pr-[1rem] leading-[2.8rem]">الحشوة
-                                                        التركيبية</span>
-                                                </a>
-                                            </li>
-                                            <li class="relative">
-                                                <a class="link-box" href="inlay-onlay-filling/index.html">
-                                                    <span class="nav-icon-img"><img class="max-h-[3rem]"
-                                                            src="{{ asset('wp-content/uploads/2023/07/Mask-group-20.png') }}" /></span>
-                                                    <span class="pr-[1rem] leading-[2.8rem]">حشوة البطانة</span>
-                                                </a>
-                                            </li>
-                                            <li class="relative">
-                                                <a class="link-box" href="root-canal-treatment/index.html">
-                                                    <span class="nav-icon-img"><img class="max-h-[3rem]"
-                                                            src="{{ asset('wp-content/uploads/2023/07/Group-799.png') }}" /></span>
-                                                    <span class="pr-[1rem] leading-[2.8rem]">علاج قناة الجذر</span>
-                                                </a>
-                                            </li>
-                                        </ul>
+                    <li><a class="nav-item-link" href="{{ url('/') }}">الصفحة الرئيسية</a></li>
+
+                    <li><a class="nav-item-link" href="{{ url('our-clinic') }}">عيادتنا</a></li>
+                    <li class="group mini-nav-wrap ">
+                        <a class="nav-item-link" href="#">من نحن</a>
+                        <div
+                            class="mini-nav-item w-full bg-primary-nav   transition-all invisible ease-in   opacity-0 duration-300 absolute top-[9.6rem] group-hover:visible group-hover:opacity-100    left-0">
+                            <div class=" min-h-[10rem] bg-primary-nav rounded-b-[2rem]">
+                                <div class="main-container  py-[2rem]">
+                                    <div class="flex gap-0">
+                                        <div class="flex-1">
+                                            <div class="sub-nav">
+                                                <ul>
+                                                    <li class="relative">
+                                                        <a class="link-box" href="{{ url('who-we-are') }}">
+                                                            <span class="nav-icon-img"><img
+                                                                    class="max-h-[3rem]"
+                                                                    src="{{ asset('wp-content/uploads/2023/07/Group-2.png') }}" /></span>
+                                                            <span class="pr-[1rem] leading-[2.8rem]">
+                                                                من نحن
+                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="relative">
+                                                        <a class="link-box" href="{{ url('our-team') }}">
+                                                            <span class="nav-icon-img"><img
+                                                                    class="max-h-[3rem]"
+                                                                    src="{{ asset('wp-content/uploads/2023/07/Group-801-1.png') }}" /></span>
+                                                            <span class="pr-[1rem] leading-[2.8rem]">فريقنا
+                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </li>
-                    <li><a class="nav-item-link-mobile" href="before-and-after/index.html">قبل و بعد</a></li>
-                    <li>
-                        <a class="nav-item-link-mobile relative  sub-nav-toggle " href="#">
-                            <span class="pb-[1rem] block">من نحن <span
-                                    style="background-image:url('{{ asset('wp-content/themes/yessmile-wp/assets/images/bottom-secondary-arr.svg') }}');"
-                                    class="btm-arrow -mb-[.5rem] w-[2rem] h-[2rem] inline-block bg-no-repeat transition-all ease-in-out bg-center bg-auto opacity-0 rotate-90 "></span></span>
-                        </a>
-                        <div class="item-sub-menu-mobile hidden">
-                            <div class="flex flex-col gap-0">
+                    <li><a class="nav-item-link" href="{{ url('our-world') }}">عالمنا</a></li>
+
+                    <li class="group mini-nav-wrap ">
+                        <a class="nav-item-link" href="#">لغات</a>
+                        <div
+                            class="mini-nav-item w-full bg-primary-nav   transition-all invisible ease-in   opacity-0 duration-300 absolute top-[9.6rem] group-hover:visible group-hover:opacity-100    left-0">
+                            <div class=" min-h-[10rem] bg-primary-nav rounded-b-[2rem]">
+                                <div class="main-container  py-[2rem]">
+                                    <div class="flex gap-0">
+                                        <div class="flex-1">
+                                            <div class="sub-nav">
+                                                <ul>
+                                                    <li class="relative">
+                                                        <a class="link-box" href="{{ url('ar') }}">
+                                                            <span class="pr-[1rem] leading-[2.8rem]">
+                                                                العربية
+                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="relative">
+                                                        <a class="link-box" href="{{ url('en') }}">
+                                                           <span class="pr-[1rem] leading-[2.8rem]">الانكليزية
+                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
-                    </li>
-                    <li><a class="nav-item-link-mobile" href="contact-us/index.html">تواصل معنا</a></li>
-                    <li><a class="nav-item-link-mobile" href="blog/index.html">مدونة يس سمايل</a></li>
-                </ul>
+                    </li> </ul>
                 <div class="flex justify-center">
                     <div class="btn-secondary">
                         <a href="{{ url('consultation') }}" target>إستشارة مجانية</a>
