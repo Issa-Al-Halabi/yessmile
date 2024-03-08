@@ -17,13 +17,12 @@
 
                 <div
                     class="order-2 lg:order-none -mt-[calc((100vh-96px)/2)] lg:mt-0 pt-[10rem] hero-with-slider-content">
-                    <h1
-                        class=" text-dark mb-[3rem] lg:mb-[4.8rem] max-w-[26.8rem]  mx-auto md:mx-0 md:max-w-none ">
+                    <h1 class=" text-dark mb-[3rem] lg:mb-[4.8rem] max-w-[26.8rem]  mx-auto md:mx-0 md:max-w-none ">
                         <br><b>
                             @if (isset($about_our_clinic->title))
                                 {{ $about_our_clinic->title }}
                             @else
-                                لا يوجد عنوان بعد
+                                @lang('home.no_title_yet')
                             @endif
                         </b>
                     </h1>
@@ -31,7 +30,7 @@
                         @if (isset($about_our_clinic->description))
                             {!! $about_our_clinic->description !!}
                         @else
-                            لا يوجد وصف بعد
+                            @lang('home.no_description_yet')
                         @endif
                     </p>
                 </div>
@@ -57,7 +56,7 @@
             </div>
         </div>
         <div style="display: flex;align-items: center;justify-content: flex-end;padding: 0 50px 25px;">
-            <a href="{{url('service',$service['id'])}}" class="btn-bordered">أقرأ المزيد</a>
+            <a href="{{ url('service', $service['id']) }}" class="btn-bordered"> @lang('home.read_more') </a>
         </div>
 
         <div class>

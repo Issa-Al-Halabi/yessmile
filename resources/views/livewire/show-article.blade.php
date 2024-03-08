@@ -1,11 +1,10 @@
 <main>
     @if (session()->has('message'))
-    <div class="alert text-center">
-        <span class="closebtn"
-            onclick="this.parentElement.style.display='none';">&times;</span>
-        {{ session('message') }}
-    </div>
-@endif
+        <div class="alert text-center">
+            <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+            {{ session('message') }}
+        </div>
+    @endif
     <div class="py-[6rem] sm:py-[10rem] ">
         <div class="main-container text-center">
             <span class="text-[2.2rem]  font-bold text-dark/50">
@@ -31,17 +30,15 @@
 
             {{-- first column --}}
             <div class="col-span-12 md:col-span-7 single-post-content-wrap"
-                style="display: flex;flex-direction: column;justify-content: space-between;"
-            >
+                style="display: flex;flex-direction: column;justify-content: space-between;">
                 {!! $article['long_description'] !!}
 
                 @if (isset($article->socials))
-                @foreach ( $article->socials as $social )
-
-                <a href="{{$social["link"]}}" target="_blank"><img style="height:50px; width:50px;"
-                        src="{{asset('storage/'.$social["image"])}}" /></a>
-                @endforeach
-            @endif
+                    @foreach ($article->socials as $social)
+                        <a href="{{ $social['link'] }}" target="_blank"><img style="height:50px; width:50px;"
+                                src="{{ asset('storage/' . $social['image']) }}" /></a>
+                    @endforeach
+                @endif
             </div>
 
             {{-- second column --}}
@@ -51,16 +48,16 @@
                     <div class="rounded-[2rem] bg-light p-[3rem] text-center mb-[5.6rem]">
                         <div style="background-image:url(../wp-content/uploads/2023/06/closeup-beautiful-smiling-brunette-girl-touching-cheeks-blushing-white-background-1.png);"
                             class="h-[22.7rem] rounded-[2rem] bg-cover bg-center mb-[3rem] "></div>
-                        <p>هل ترغب في تصميم ابتسامة أحلامك؟<br />
-                            سجل واستلم خطة العلاج مجانا</p>
+                        <p>@lang('article.do_you_want_to_have_a_smile')<br />
+                            @lang('article.register_and_receive')</p>
                         <div class="btn-light-border small">
-                            <a target href="{{ url('consultation') }}">احجز استشارة مجانية</a>
+                            <a target href="{{ url('consultation') }}">@lang('article.book_a_free_consultation') </a>
                         </div>
                     </div>
 
 
                     <div class="rounded-[2rem] bg-light p-[3rem] text-center mb-[10rem] md:mb-[5.6rem]">
-                        <h3 class="text-center text-[2rem]">المزيد من المقالات</h3>
+                        <h3 class="text-center text-[2rem]">@lang('article.more_articles') </h3>
                         <div class="snap-y overflow-y-auto h-[72.8rem] pb-[10rem]">
 
                             @foreach ($more_articles as $more_article)
@@ -102,13 +99,13 @@
             <div class="md:pl-[14.59459459459459%] flex md:flex-1 gap-0 order-2 md:order-1">
                 <div class="flex flex-col justify-between gap-y-[3rem] h-full">
                     <div>
-                        <h2 class="mb-0 pt-[2rem] sm:pt-0 md:text-right text-center">اترك تعليقك هنا</h2>
+                        <h2 class="mb-0 pt-[2rem] sm:pt-0 md:text-right text-center"> @lang('article.leave_your_comment_here')</h2>
                     </div>
                     <div>
                         <div class="mb-[2rem]">
                             <input required wire:model="name" name="name"
                                 class="bg-light-gray rounded-[2rem] py-[2.4rem] pr-[2rem] pl-[5rem] text-[1.6rem] font-bold w-full"
-                                type="text" id="author" type="text" placeholder="الاسم " value />
+                                type="text" id="author" type="text" placeholder="@lang('article.name')" value />
                             <div style="    font-size: 12px;color: red;">
                                 @error('name')
                                     {{ $message }}
@@ -118,7 +115,7 @@
                         <div class="mb-[2rem]">
                             <input required wire:model="email" name="email"
                                 class="bg-light-gray rounded-[2rem] py-[2.4rem] pr-[2rem] pl-[5rem] text-[1.6rem] font-bold w-full"
-                                type="email" id="email" type="text" placeholder="الإيميل" value />
+                                type="email" id="email" type="text" placeholder="@lang('article.email')" value />
                             <div style="    font-size: 12px;color: red;">
                                 @error('email')
                                     {{ $message }}
@@ -139,11 +136,11 @@
                         <input wire:click="save()" wire:loading.disabled
                             class="min-w-[10rem] text-[1.6rem] font-bold px-[4rem] py-[1.45rem] border-[.1rem] rounded-[4.7rem] border-secondary  text-secondary  transition-all duration-500 ease-in-out
                                  group-hover:shadow-btn-border-shadow inline-block hover:bg-secondary/10 "
-                            name="submit" type="submit" id="submit-comment" value="أضف تعليق">
-                        </div>
-                        <div wire:loading  style="    font-size: 16px;color: green;">
-                            يتم الارسال
-                        </div>
+                            name="submit" type="submit" id="submit-comment" value="@lang('article.add_comment')">
+                    </div>
+                    <div wire:loading style="    font-size: 16px;color: green;">
+                        @lang('article.sending')
+                    </div>
                 </div>
             </div>
             <div style="background-image:url({{ asset('../wp-content/themes/yessmile-wp/assets/images/comments-image.png') }});"

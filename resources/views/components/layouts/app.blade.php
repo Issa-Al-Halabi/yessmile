@@ -1,5 +1,8 @@
 <!DOCTYPE html>
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}" dir="rtl" class="scroll-smooth">
+<html lang="{{ str_replace('_', '-', app()->getLocale()) }}"
+    @if (app()->getLocale() == 'ar') dir="rtl"
+    @else
+    dir="ltr" @endif class="scroll-smooth">
 
 <!-- Mirrored from yessmile.ae/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Mar 2024 14:35:58 GMT -->
 <!-- Added by HTTrack -->
@@ -520,9 +523,9 @@
                     </a>
                     <nav class="items-center  hidden xl:block  w-full  ">
                         <ul class="flex items-center justify-center gap-[3rem]">
-                            <li><a class="nav-item-link" href="{{url('/')}}">الصفحة الرئيسية</a></li>
+                            <li><a class="nav-item-link" href="{{ url('/') }}">الصفحة الرئيسية</a></li>
 
-                            <li><a class="nav-item-link" href="{{url('our-clinic')}}">عيادتنا</a></li>
+                            <li><a class="nav-item-link" href="{{ url('our-clinic') }}">عيادتنا</a></li>
                             <li class="group mini-nav-wrap ">
                                 <a class="nav-item-link" href="#">من نحن</a>
                                 <div
@@ -534,22 +537,22 @@
                                                     <div class="sub-nav">
                                                         <ul>
                                                             <li class="relative">
-                                                                <a class="link-box" href="{{url('who-we-are')}}">
+                                                                <a class="link-box" href="{{ url('who-we-are') }}">
                                                                     <span class="nav-icon-img"><img
                                                                             class="max-h-[3rem]"
-                                                                            src="{{asset('wp-content/uploads/2023/07/Group-2.png')}}" /></span>
+                                                                            src="{{ asset('wp-content/uploads/2023/07/Group-2.png') }}" /></span>
                                                                     <span class="pr-[1rem] leading-[2.8rem]">
                                                                         من نحن
                                                                     </span>
                                                                 </a>
                                                             </li>
                                                             <li class="relative">
-                                                                <a class="link-box" href="{{url('our-team')}}">
+                                                                <a class="link-box" href="{{ url('our-team') }}">
                                                                     <span class="nav-icon-img"><img
                                                                             class="max-h-[3rem]"
                                                                             src="{{ asset('wp-content/uploads/2023/07/Group-801-1.png') }}" /></span>
-                                                                    <span
-                                                                        class="pr-[1rem] leading-[2.8rem]">فريقنا   </span>
+                                                                    <span class="pr-[1rem] leading-[2.8rem]">فريقنا
+                                                                    </span>
                                                                 </a>
                                                             </li>
                                                         </ul>
@@ -560,7 +563,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a class="nav-item-link" href="{{url('our-world')}}">عالمنا</a></li>
+                            <li><a class="nav-item-link" href="{{ url('our-world') }}">عالمنا</a></li>
 
                             <li class="group mini-nav-wrap ">
                                 <a class="nav-item-link" href="#">لغات</a>
@@ -573,22 +576,22 @@
                                                     <div class="sub-nav">
                                                         <ul>
                                                             <li class="relative">
-                                                                <a class="link-box" href="{{url('ar')}}">
+                                                                <a class="link-box" href="{{ url('ar') }}">
                                                                     <span class="nav-icon-img"><img
                                                                             class="max-h-[3rem]"
-                                                                            src="{{asset('wp-content/uploads/2023/07/Group-2.png')}}" /></span>
+                                                                            src="{{ asset('wp-content/uploads/2023/07/Group-2.png') }}" /></span>
                                                                     <span class="pr-[1rem] leading-[2.8rem]">
                                                                         العربية
                                                                     </span>
                                                                 </a>
                                                             </li>
                                                             <li class="relative">
-                                                                <a class="link-box" href="{{url('en')}}">
+                                                                <a class="link-box" href="{{ url('en') }}">
                                                                     <span class="nav-icon-img"><img
                                                                             class="max-h-[3rem]"
                                                                             src="{{ asset('wp-content/uploads/2023/07/Group-801-1.png') }}" /></span>
-                                                                    <span
-                                                                        class="pr-[1rem] leading-[2.8rem]">الانكليزية   </span>
+                                                                    <span class="pr-[1rem] leading-[2.8rem]">الانكليزية
+                                                                    </span>
                                                                 </a>
                                                             </li>
                                                         </ul>
@@ -894,12 +897,12 @@
                             {{-- <iframe style="border: 0; border-radius: 20px; width: 100%;"
                                 src="https://maps.google.com/maps?q={{ $footer->lat }},{{ $footer->lang }}&z=15&output=embed"
                                 width="450" height="450" allowfullscreen="allowfullscreen"></iframe> --}}
-                            @if(isset($$footer))
-                            <gmp-map center="{{ $footer->lat }},{{ $footer->lang }}" zoom="7"
-                                style="width=450px; height: 450px;" map-id="DEMO_MAP_ID">
-                                <gmp-advanced-marker position="{{ $footer->lat }},{{ $footer->lang }}"
-                                    title="My location"></gmp-advanced-marker>
-                            </gmp-map>
+                            @if (isset($$footer))
+                                <gmp-map center="{{ $footer->lat }},{{ $footer->lang }}" zoom="7"
+                                    style="width=450px; height: 450px;" map-id="DEMO_MAP_ID">
+                                    <gmp-advanced-marker position="{{ $footer->lat }},{{ $footer->lang }}"
+                                        title="My location"></gmp-advanced-marker>
+                                </gmp-map>
                             @endif
 
                         </div>

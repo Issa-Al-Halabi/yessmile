@@ -2,7 +2,7 @@
     <div class="main-container">
 
         <h2 class="mb-[3rem] mt-[2rem]">افرعنا</h2>
-        <h3 class="xl:mb-[3.625rem] mb-[5rem] font-light text-[1.6rem] lg:text-[2rem]  ">جميع افرعنا في انحاء العالم</h3>
+        <h3 class="xl:mb-[3.625rem] mb-[5rem] font-light text-[1.6rem] lg:text-[2rem]  ">@lang('branches.all_our_branches')</h3>
     </div>
     @if (isset($branches))
         <gmp-map center="{{ $branches->first()->lat }},{{ $branches->first()->lang }}" zoom="7"

@@ -14,7 +14,7 @@
                             @if (isset($about_us))
                                 {{ $about_us['title'] }}
                             @else
-                                there is no about us
+                                @lang('home.there_is_no_about_us_title')
                             @endif
 
                             <br />
@@ -25,13 +25,15 @@
                                 @if (isset($about_us))
                                     {!! $about_us['body'] !!}
                                 @else
-                                    there is no about us
+                                    @lang('home.there_is_no_about_us_discription')
                                 @endif
                             </span>
 
                         </p>
                         <div class="btn-secondary large" style="margin-bottom :20px">
-                            <a target href="{{ url('consultation') }}">استشر أطبائنا مجانًا</a>
+                            <a target href="{{ url('consultation') }}">
+                                @lang('home.consult_our_doctors_for_free')
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -48,9 +50,9 @@
                         margin-top: 140px;
                     }
                 </style>
-                <h2 class="mb-[3rem]  top-40 ">صور لنتائج عملنا</h2>
+                <h2 class="mb-[3rem]  top-40 "> @lang('home.results_pictures_of_our_work') </h2>
                 <h3 class="xl:mb-[3.625rem] mb-[5rem] font-light text-[1.6rem] lg:text-[2rem]  ">
-                     شاهد أحدث صور لنتائج عملنا
+                    @lang('home.see_the_latest_photos')
                 </h3>
             </div>
             <div class>
@@ -83,18 +85,18 @@
             </div>
             <h3
                 class="xl:mb-[3.625rem] mb-[5rem] font-light mt-[1rem] text-[1.6rem] lg:text-[2rem] max-w-[15.7rem] lg:max-w-none mx-auto lg:mx-0 ">
-                <b>يس سمايل</b>… نعم لابتسامة جميلة.
+                <b>@lang('home.yessmile')</b>… @lang('home.yes_to_a_beautiful_smile')
             </h3>
             <div class="btn-secondary large">
-                <a target href="{{ url('consultation') }}">استشر أطبائنا مجانًا</a>
+                <a target href="{{ url('consultation') }}"> @lang('home.consult_our_doctors') </a>
             </div>
         </div>
 
         <div class="mb-[6rem] sm:mb-[10rem]
                         text-center block">
             <div class="main-container">
-                <h2 class="mb-[3rem]">خدماتنا</h2>
-                <h3 class="xl:mb-[3rem] font-light">تمتع بأجمل ابتسامة عبر خدماتنا المختلفة</h3>
+                <h2 class="mb-[3rem]"> @lang('home.our_services') </h2>
+                <h3 class="xl:mb-[3rem] font-light">@lang('home.enjoy_the_most_beautiful_smile') </h3>
             </div>
             <div class="sm:max-w-[127rem] sm:mx-auto relative pl-[3rem] md:pl-0">
                 <div class="ysm-slider offers-slider " dots="0" centerMode="1" slidesToShow_xl="3"
@@ -112,7 +114,7 @@
                                         </h3>
                                     </div>
                                     <div>
-                                        <div class="btn-bordered">أقرأ المزيد</div>
+                                        <div class="btn-bordered"> @lang('home.read_more') </div>
                                     </div>
                                 </div>
                                 <a target href="{{ url('service', $service['id']) }}"
@@ -131,7 +133,7 @@
 
         <div class="pt-[3.4rem] md:pt-[10rem] pb-[5rem]" style="background-color:#2A4CC7; margin-bottom:50px;">
             <div class="main-container text-center">
-                <h2 class="mb-[3rem] sm:mb-[6rem] text-right text-light">المواضيع الأكثر قراءة</h2>
+                <h2 class="mb-[3rem] sm:mb-[6rem] text-right text-light"> @lang('home.most_read_topics') </h2>
             </div>
             <div class="xl:ml-[calc((100%-1270px)/2)]  ">
                 <div class="slider-wrapper relative">
@@ -191,17 +193,17 @@
                             @if (isset($about_us))
                                 {{ $about_us['banner']['title'] }}
                             @else
-                                احجز موعدك الان مجانًا
+                                @lang('home.book_your_appointment')
                             @endif
                         </h2>
 
-                        @if (       isset($about_us))
+                        @if (isset($about_us))
                             {!! $about_us['banner']['body'] !!}
                         @else
-                            <p>هل ترغب أن تتميز بابتسامتك؟ هل لديك مشاكل بأسنانك تريد علاجها ومن<br />
-                                ثم تجميلها؟</p>
-                            <p>تحدث مع أطبائنا مجانًا حول أفضل خطة علاجية مناسبة لحالتك الخاصة!<br />
-                                نقدم لك تحليل مجاني ومفصل لنضعك على طريق ابتسامة <b>Hollywood</b> مثالية.</p>
+                            <p>@lang('home.do_you_have_problems_with_your_teeth') <br />
+                                @lang('home.then_beautify_it')</p>
+                            <p> @lang('home.talk_to_our_doctors_for_free')<br />
+                                @lang('home.we_offer_you_a_free_and_detailed') <b>Hollywood</b>@lang('home.perfect') </p>
                         @endif
 
 
@@ -211,7 +213,7 @@
                                 @if (isset($about_us))
                                     {{ $about_us['banner']['button_text'] }}
                                 @else
-                                    احجز
+                                    @lang('home.book')
                                 @endif
                             </a>
                         </div>
@@ -223,7 +225,7 @@
 
         <div class="main-container mb-[3rem] sm:mb-[6rem]">
             <div class="faq-wrap text-center">
-                <h2 class="mb-[3.75rem]">أسئلة مرضانا</h2>
+                <h2 class="mb-[3.75rem]"> @lang('home.questions_from_our_patients') </h2>
 
                 @foreach ($faqs as $faq)
                     <button class="accordion font-bold ">
@@ -233,11 +235,9 @@
                         <div class="pr-[1.5rem] pl-[1.5rem] sm:pl-0 lg:pr-[8.25rem] pb-[1rem] pt-0 text-right">
                             <p><span style="font-weight: 400;">
                                     {!! $faq['answer'] !!}
-
-
                             </p>
                             <div class="btn-secondary mt-[20px] mb-[20px]">
-                                <span><a target href="{{ url('consultation') }}">احجز موعد استشارة مجانية</a></span>
+                                <span><a target href="{{ url('consultation') }}"> @lang('home.book_a_free_consultation_appointment') </a></span>
                             </div>
                         </div>
                     </div>
