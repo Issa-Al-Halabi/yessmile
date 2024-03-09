@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'yessmile' => 'يس سمايل',
+    'there_is_no_about_us_title' => 'لا يوجد عنوان بعد',
+    'there_is_no_about_us_discription' => 'لا يوجد شرح بعد',
+    'consult_our_doctors_for_free' => 'استشر أطبائنا مجانًا',
+    'results_pictures_of_our_work' => 'صور لنتائج عملنا',
+    'see_the_latest_photos' => 'شاهد أحدث صور لنتائج عملنا',
+    'yes_to_a_beautiful_smile' => 'نعم لابتسامة جميلة.',
+    'consult_our_doctors' => 'استشر أطبائنا مجانًا',
+    'our_services' => 'خدماتنا',
+    'enjoy_the_most_beautiful_smile' => 'تمتع بأجمل ابتسامة عبر خدماتنا المختلفة',
+    'read_more' => 'أقرأ المزيد',
+    'most_read_topics' => 'المواضيع الأكثر قراءة',
+    'book_your_appointment' => 'احجز موعدك الان مجانًا',
+    'do_you_have_problems_with_your_teeth' => 'هل ترغب أن تتميز بابتسامتك؟ هل لديك مشاكل بأسنانك تريد علاجها ومن',
+    'then_beautify_it' => ' ثم تجميلها؟',
+    'talk_to_our_doctors_for_free' => 'تحدث مع أطبائنا مجانًا حول أفضل خطة علاجية مناسبة لحالتك الخاصة!',
+    'we_offer_you_a_free_and_detailed' => ' نقدم لك تحليل مجاني ومفصل لنضعك على طريق ابتسامة',
+    'perfect' => 'مثالية.',
+    'book' => 'احجز',
+    'questions_from_our_patients' => 'أسئلة مرضانا',
+    'book_a_free_consultation_appointment' => 'احجز موعد استشارة مجانية',
+];

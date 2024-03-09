@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'yessmile' => 'yesSmile',
+    'there_is_no_about_us_title' => 'There is no about us title',
+    'there_is_no_about_us_discription' => 'There is no about us discription',
+    'consult_our_doctors_for_free' => 'Consult our doctors for free',
+    'results_pictures_of_our_work' => 'Results Pictures of our work',
+    'see_the_latest_photos' => 'See the latest photos of the results of our work',
+    'yes_to_a_beautiful_smile' => 'Yes to a beautiful smile.',
+    'consult_our_doctors' => 'Consult our doctors for free',
+    'our_services' => 'our services',
+    'enjoy_the_most_beautiful_smile' => 'Enjoy the most beautiful smile through our various services',
+    'read_more' => 'read more',
+    'most_read_topics' => 'Most read topics',
+    'book_your_appointment' => 'Book your appointment now for free',
+    'do_you_have_problems_with_your_teeth' => 'Do you want to stand out with your smile? Do you have problems with your teeth that you want to treat?',
+    'then_beautify_it' => 'Then beautify it?',
+    'talk_to_our_doctors_for_free' => 'Talk to our doctors for free about the best treatment plan for your specific condition!',
+    'we_offer_you_a_free_and_detailed' => 'We offer you a free and detailed analysis to put you on the path to a smile',
+    'perfect' => 'Perfect.',
+    'book' => 'Book',
+    'questions_from_our_patients' => 'Questions from our patients',
+    'book_a_free_consultation_appointment' => 'Book a free consultation appointment',
+];

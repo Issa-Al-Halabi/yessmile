@@ -1,7 +1,7 @@
 <div>
     <main>
         <div class="main-container py-[6rem] sm:py-[10rem] text-center">
-            <h1 class="mb-0"><b>سياسة الخصوصية والاستخدام<br />
+            <h1 class="mb-0"><b>@lang('privacy_policy_term_of_use.privacy_policy') <br />
                 </b></h1>
         </div>
         <div style="background-color:#eef4fb"
@@ -11,7 +11,7 @@
                     @if (isset($privacyPolicy->body))
                         {!! $privacyPolicy->body !!}
                     @else
-                        لا يوجد سياسة الخصوصية بعد
+                        @lang('privacy_policy_term_of_use.no_privacy_policy')
                     @endif
                 </div>
             </div>

@@ -10,27 +10,23 @@
                         <div class="flex flex-col  h-full pl-0  lg:pl-[7.5rem]">
                             <div
                                 class="contact-content-block-wrap text-center lg:text-right max-w-[31rem] lg:max-w-none inline-block lg:block mx-auto lg:mr-0">
-                                <h1 class="hidden lg:block font-normal">حجز موعد &#8211; <b class="text-dark">يس
-                                        سمايل</b></h1>
-                                <h2 class="hidden lg:block text-[2rem] font-medium">نقدم خدمات استثنائية؛ ترغب في
-                                    تجربتها
-                                    بنفسك!</h2>
+                                <h1 class="hidden lg:block font-normal">@lang('appointment.book_a_consultation') &#8211; <b
+                                        class="text-dark">@lang('appointment.yessmile')</b></h1>
+                                <h2 class="hidden lg:block text-[2rem] font-medium">@lang('appointment.exceptional_services')</h2>
                                 </p>
                             </div>
                         </div>
                     </div>
                     <div class="col-span-12 lg:col-span-6 order-1 lg:order-1 ">
                         <div class="contact-content-block-wrap block lg:hidden text-center">
-                            <h1 class="block lg:hidden font-normal">حجز موعد &#8211; <b class="text-dark">يس
-                                    سمايل</b>
+                            <h1 class="block lg:hidden font-normal">@lang('appointment.book_a_consultation') &#8211; <b class="text-dark">
+                                    @lang('appointment.yessmile')</b>
                             </h1>
-                            <h2 class="block lg:hidden text-[2rem] font-medium">نقدم خدمات استثنائية؛ ترغب في تجربتها
-                                بنفسك!</h2>
+                            <h2 class="block lg:hidden text-[2rem] font-medium">@lang('appointment.exceptional_services')</h2>
                         </div>
                         <div
                             class="min-h-[75.3rem] bg-light rounded-[2rem] shadow-light-box-shadow mb-[3rem] lg:mb-0 px-[3rem] py-[2rem] sm:px-[8.4rem] sm:py-[6rem]">
-                            <h2 class="text-[1.6rem] font-bold text-center text-primary">أرسل لنا رسالتك وسنجيبك خلال 24
-                                ساعة</h3>
+                            <h2 class="text-[1.6rem] font-bold text-center text-primary">@lang('appointment.answer_within_24_hours')</h3>
                                 <script type="text/javascript"></script>
                                 <div class="gf_browser_unknown gform_wrapper gravity-theme gform-theme--no-framework ysm-form_wrapper contact-form_wrapper"
                                     data-form-theme="gravity-theme" data-form-index="0" id="gform_wrapper_2">
@@ -43,7 +39,7 @@
                                                 class="gfield gfield--type-text field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible"
                                                 data-js-reload="field_2_1"><label class="gfield_label gform-field-label"
                                                     for="input_2_1">
-                                                    اسم المريض
+                                                    @lang('appointment.patient_name')
                                                 </label>
                                                 <div class="ginput_container ginput_container_text">
                                                     <input wire:model="patient_name" name="patient_name" id="input_2_1"
@@ -59,7 +55,8 @@
                                                 class="gfield gfield--type-email gfield--width-full field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible"
                                                 data-js-reload="field_2_2"><label class="gfield_label gform-field-label"
                                                     for="input_2_2">
-                                                    العمر</label>
+                                                    @lang('appointment.age')
+                                                </label>
                                                 <div class="ginput_container ginput_container_email">
                                                     <input wire:model="age" name="age" id="input_2_2" type="number"
                                                         value class="large" aria-invalid="false" />
@@ -74,7 +71,8 @@
                                                 class="gfield gfield--type-phone gfield--width-full field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible"
                                                 data-js-reload="field_2_3"><label class="gfield_label gform-field-label"
                                                     for="input_2_3">
-                                                    البلد</label>
+                                                    @lang('appointment.country')
+                                                </label>
                                                 <div class="ginput_container ginput_container_phone">
                                                     <input wire:model="country" name="country" id="input_2_3"
                                                         type="tel" value class="large" aria-invalid="false" />
@@ -90,7 +88,9 @@
                                                 class="gfield gfield--type-phone gfield--width-full field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible"
                                                 data-js-reload="field_2_3"><label class="gfield_label gform-field-label"
                                                     for="input_2_4">
-                                                    تاريخ الموعد</label>
+                                                    @lang('appointment.appointment_date')
+
+                                                </label>
                                                 <div class="ginput_container ginput_container_phone">
                                                     <input wire:model="date" type="date" name="date"
                                                         id="input_2_4" value class="large" aria-invalid="false" />
@@ -117,13 +117,13 @@
                                                                 value="لقد قرأت وأوافق على شروط سياسة الخصوصية"
                                                                 id="choice_2_9_1" />
                                                             <label for="choice_2_9_1" id="label_2_9_1"
-                                                                class="gform-field-label gform-field-label--type-inline">لقد
-                                                                قرأت وأوافق على شروط سياسة الخصوصية</label>
-                                                            <div style="    font-size: 12px;color: red;">
-                                                                @error('privacyPolicy')
-                                                                    {{ $message }}
-                                                                @enderror
-                                                            </div>
+                                                                class="gform-field-label gform-field-label--type-inline">
+                                                                @lang('appointment.accept_privacy_policy')
+                                                                <div style="    font-size: 12px;color: red;">
+                                                                    @error('privacyPolicy')
+                                                                        {{ $message }}
+                                                                    @enderror
+                                                                </div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -131,23 +131,23 @@
                                             <div id="field_2_10"
                                                 class="gfield gfield--type-html gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible"
                                                 data-js-reload="field_2_10">
-                                                <p class="form-btm-text">معلوماتك في أمان معنا، يتم نقل البيانات
-                                                    عبر
-                                                    التشفير.</p>
+                                                <p class="form-btm-text">
+                                                    @lang('appointment.your_information_is_safe')
+                                                </p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="gform_footer top_label">
                                         <div wire:loading.remove>
                                             <input type="submit" id="gform_submit_button_2"
-                                                class="gform_button button" value="إرسال" style="cursor: pointer;"
-                                                wire:click="save()" />
+                                                class="gform_button button" value="@lang('appointment.send')"
+                                                style="cursor: pointer;" wire:click="save()" />
                                         </div>
 
                                         {{-- loading --}}
                                         <div class="loading" style="width: 100%;" wire:loading>
                                             <input type="submit" wire:loading.disabled id="gform_submit_button_2"
-                                                class="gform_button button" value="يتم الارسال"
+                                                class="gform_button button" value="@lang('appointment.sending')"
                                                 style="cursor: pointer;" />
                                         </div>
 
@@ -293,9 +293,8 @@
                     </div>
                     <div
                         class="col-span-12 py-[3rem] order-3 text-center lg:text-right max-w-[31rem] lg:max-w-none inline-block lg:block mx-auto lg:mx-0  ">
-                        <p class="font-medium">املأ النموذج المرفق، وسنوافيك بمواعيد الاستشارة المتاحة لدينا.</p>
-                        <p class="text-secondary text-[2.4rem] lg:text-[3.6rem] font-extrabold">يمكنك التواصل معنا
-                            7/24.
+                        <p class="font-medium"> @lang('appointment.fill_form')</p>
+                        <p class="text-secondary text-[2.4rem] lg:text-[3.6rem] font-extrabold">@lang('appointment.you_can_contact_us')
                         </p>
                     </div>
                 </div>
@@ -550,7 +549,5 @@
             /* ]]> */
         </script>
     </body>
-
-    <!-- Mirrored from yessmile.ae/contact-us/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Mar 2024 14:37:59 GMT -->
 
 </div>
