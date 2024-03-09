@@ -372,7 +372,7 @@
                             {{-- <iframe style="border: 0; border-radius: 20px; width: 100%;"
                                 src="https://maps.google.com/maps?q={{ $footer->lat }},{{ $footer->lang }}&z=15&output=embed"
                                 width="450" height="450" allowfullscreen="allowfullscreen"></iframe> --}}
-                            @if (isset($$footer))
+                            @if (isset($footer))
                                 <gmp-map center="{{ $footer->lat }},{{ $footer->lang }}" zoom="7"
                                     style="width=450px; height: 450px;" map-id="DEMO_MAP_ID">
                                     <gmp-advanced-marker position="{{ $footer->lat }},{{ $footer->lang }}"
