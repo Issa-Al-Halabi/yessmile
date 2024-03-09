@@ -76,7 +76,7 @@ class TeamResource extends Resource
                                     ->defaultItems(1)
                                     ->grid(3)
                                     ->schema([
-                                        Forms\Components\TextArea::make('text')
+                                        Forms\Components\Textarea::make('text')
                                             ->required()
                                             ->maxLength(255),
                                     ]),
@@ -89,7 +89,7 @@ class TeamResource extends Resource
                                     ->defaultItems(1)
                                     ->grid(3)
                                     ->schema([
-                                        Forms\Components\TextArea::make('speciality')
+                                        Forms\Components\Textarea::make('speciality')
                                             ->required()
                                             ->maxLength(255),
                                     ]),
