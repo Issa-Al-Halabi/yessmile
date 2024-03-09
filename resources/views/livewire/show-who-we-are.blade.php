@@ -82,7 +82,7 @@
                         <div class="btn-secondary large mt-[3rem]">
                             <a class="flex group" target href="{{ url('consultation') }}"><img decoding="async"
                                     class="inline-block w-[4rem] h-[4rem] ml-[2rem] group-hover:animate-spin"
-                                    src="../wp-content/themes/yessmile-wp/assets/images/heart-btn-icon.svg" /><span>
+                                    src="{{asset('wp-content/themes/yessmile-wp/assets/images/heart-btn-icon.svg')}}" /><span>
                                     @lang('who_we_are.book_your_appointment_now')
                                 </span></a>
                         </div>
@@ -122,7 +122,7 @@
                                     <div
                                         class="min-h-[42px] justify-center border-solid border-t-light border-r-primary border-l-primary border-[1px] p-[12px] pt-[2.7rem] ">
                                         <img decoding="async" class="inline-block"
-                                            src="../wp-content/themes/yessmile-wp/assets/images/true.svg" />
+                                            src="{{asset('wp-content/themes/yessmile-wp/assets/images/true.svg')}}" />
                                     </div>
                                 @endforeach
 
@@ -140,7 +140,7 @@
                                     <div
                                         class="min-h-[40px] justify-center border-solid border-primary border-[1px] p-[15px]  ">
                                         <img decoding="async" class="inline-block"
-                                            src="../wp-content/themes/yessmile-wp/assets/images/cross.svg" />
+                                            src="{{asset('wp-content/themes/yessmile-wp/assets/images/cross.svg')}}" />
                                     </div>
                                 @endforeach
 

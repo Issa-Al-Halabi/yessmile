@@ -183,9 +183,9 @@
                                 text-block-with-shape  bg-no-repeat bg-left   bg-primary rounded-[2rem]">
                 <img decoding="async"
                     class="hidden lg:block absolute h-full left-[-47%] opacity-50  md:left-[-31%] lg:left-[-28%]  xl:left-[-5%] xl:top-0  "
-                    src="wp-content/uploads/2023/09/Group-346-2.webp" />
+                    src="{{asset('assets/Group-346-2.webp')}}" />
                 <img decoding="async" class="block lg:hidden absolute [32.1rem] top-0 left-0  "
-                    src="wp-content/uploads/2023/09/Group-346-1.webp" />
+                    src="{{asset('assets/Group-346-1.webp')}}" />
                 <div class="lg:py-[5rem] py-[3rem]   md:max-w-[70%]   max-w-none  text-light ]">
                     <div class="px-[3rem]">
 
