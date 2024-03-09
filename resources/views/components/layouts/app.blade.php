@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}" dir="rtl" @endif
-class="scroll-smooth">
+<html lang="{{ str_replace('_', '-', app()->getLocale()) }}" dir="rtl" class="scroll-smooth">
 
 <!-- Mirrored from yessmile.ae/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Mar 2024 14:35:58 GMT -->
 <!-- Added by HTTrack -->
