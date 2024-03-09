@@ -37,9 +37,10 @@
     <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://yessmile.ae/","url":"https://yessmile.ae/","name":"مركز يس سمايل | تجميل الأسنان في تركيا","isPartOf":{"@id":"https://yessmile.ae/#website"},"datePublished":"2023-05-07T21:15:48+00:00","dateModified":"2023-09-28T10:43:50+00:00","description":"مركز YesSmile، أكبر مركز لتجميل وزراعة الأسنان في تركيا، نقدم مجموعة واسعة من الخدمات، بما في ذلك ابتسامة هوليود وزراعة الأسنان وتجميل اللثة وعلاجات الأسنان. نستخدم أحدث التقنيات لتزويد مرضانا بأعلى جودة ممكنة من الرعاية. تواصل معنا اليوم لتحديد موعد استشارة مجانية ومعرفة المزيد عن خدماتنا.","breadcrumb":{"@id":"https://yessmile.ae/#breadcrumb"},"inLanguage":"ar","potentialAction":[{"@type":"ReadAction","target":["https://yessmile.ae/"]}]},{"@type":"BreadcrumbList","@id":"https://yessmile.ae/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية"}]},{"@type":"WebSite","@id":"https://yessmile.ae/#website","url":"https://yessmile.ae/","name":"YesSmile","description":"نعم لإبتسامة جميلة","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://yessmile.ae/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"ar"}]}</script>
     <meta name="yandex-verification" content="24462e6a70bc6251" />
 
-    <link rel="stylesheet"  href="{{ asset('css/styles/app.css') }}" type="text/css" media="all" />
+    <link rel="stylesheet" href="{{ asset('css/styles/app.css') }}" type="text/css" media="all" />
 
-    <link rel="stylesheet" id="wp-block-library-rtl-css" href="{{ asset('wp-includes/css/dist/block-library/style-rtl.min84fc.css') }}" type="text/css" media="all" />
+    <link rel="stylesheet" id="wp-block-library-rtl-css"
+        href="{{ asset('wp-includes/css/dist/block-library/style-rtl.min84fc.css') }}" type="text/css" media="all" />
 
     <link rel="stylesheet" id="YSMILE-main-style-css"
         href="{{ asset('wp-content/themes/yessmile-wp/assets/css/style84fc.css') }}" type="text/css" media="all" />
@@ -61,8 +62,7 @@
     <link rel="alternate" type="application/json+oembed" href="{{ asset('wp-json/oembed/1.0/embed1122.json') }}" />
     <link rel="alternate" type="text/xml+oembed" href="{{ asset('wp-json/oembed/1.0/embed9cc1&amp;format=xml') }}" />
 
-    <link rel="icon" href="{{ asset('assets/yessmile-favicon-150x150.png') }}"
-        sizes="32x32" />
+    <link rel="icon" href="{{ asset('assets/yessmile-favicon-150x150.png') }}" sizes="32x32" />
     <link rel="icon" href="{{ asset('assets/yessmile-favicon.png') }}" sizes="192x192" />
     <link rel="apple-touch-icon" href="{{ asset('assets/yessmile-favicon.png') }}" />
 
@@ -111,6 +111,18 @@
                                                                     </span>
                                                                 </a>
                                                             </li>
+
+                                                            <li class="relative">
+                                                                <a class="link-box" href="{{ url('our_branches') }}">
+                                                                    <span class="nav-icon-img"><img
+                                                                            class="max-h-[3rem]"
+                                                                            src="{{ asset('assets/branch.png') }}" /></span>
+                                                                    <span class="pr-[1rem] leading-[2.8rem]">
+                                                                        @lang('app.our_branches')
+                                                                    </span>
+                                                                </a>
+                                                            </li>
+
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -230,7 +242,7 @@
                         </div>
                     </li>
                     <li><a class="nav-item-link" href="{{ url('our-world') }}">
-                            @lang('app.ourworld')
+                            @lang('app.our_world')
                         </a></li>
 
                     <li class="group mini-nav-wrap ">

@@ -6,6 +6,7 @@ return [
     'aboutus' => 'about us',
     'ourteam' => 'our team',
     'our_world' => 'our World',
+    'our_branches' => 'our Branches',
     'languages' => 'languages',
     'arabic' => 'arabic',
     'english' => 'English',

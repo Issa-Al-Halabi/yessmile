@@ -7,10 +7,10 @@ return [
     'aboutus' => 'من نحن',
     'ourteam' => 'فريقنا',
     'our_world' => 'عالمنا',
+    'our_branches' => 'افرعنا',
     'languages' => 'لغات',
     'arabic' => 'العربية',
     'english' => 'الانكليزية',
-
     'free_consultation' => 'إستشارة مجانية',
     'our_serices' => 'أهم خدماتنا',
     'book_now' => 'احجز الأن',
