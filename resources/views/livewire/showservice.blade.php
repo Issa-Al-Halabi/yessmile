@@ -1,6 +1,6 @@
 <main>
 
-    <div style="background-color:#f3f7fa;; background-image: url({{asset('storage/'.$service['image'])}});"
+    <div style="direction:rtl;background-color:#f3f7fa;; background-image: url({{ asset('storage/' . $service['image']) }});"
         class="mb-0 sm:mb-[10rem]
                     bg-no-repeat bg-contain   xl:bg-left-top relative ">
 
@@ -18,33 +18,32 @@
 
                 <div class="order-2 lg:order-none -mt-[calc((100vh-196px)/2)] lg:mt-0">
                     <h1 class="mb-[3rem] lg:mb-[4.8rem] ">
-                        {{$service['title']}}
+                        {{ $service['title'] }}
                         <br />
                     </h1>
                     <p class="text-[2rem] leading-[2.72rem] mb-[4.288rem]">
-                        <p><span style="font-weight: 400;"> {!!$service['description']!!} </p>
+                    <p><span style="font-weight: 400;"> {!! $service['description'] !!} </p>
                     </p>
                     <div class="btn-secondary large">
                         <a target href="{{ url('consultation') }}">
-                            @lang("service.consult_our_doctors")
+                            @lang('service.consult_our_doctors')
                         </a>
                     </div>
                 </div>
             </div>
-            <div class="flex lg:w-auto w-full justify-center mt-[3rem] pb-[5rem] animate-bounce"><a
-                    href="#"><img decoding="async"
-                        src="{{asset('wp-content/themes/yessmile-wp/assets/images/scroll-bottom.svg')}}" /></a></div>
+            <div class="flex lg:w-auto w-full justify-center mt-[3rem] pb-[5rem] animate-bounce"><a href="#"><img
+                        decoding="async"
+                        src="{{ asset('wp-content/themes/yessmile-wp/assets/images/scroll-bottom.svg') }}" /></a></div>
         </div>
 
     </div>
 
 
-    <div
-        class="mb-[6rem] sm:mb-[10rem]
+    <div class="mb-[6rem] sm:mb-[10rem]
                     play-stop-slider-wrp text-center  relative compare-slider">
         <div class="main-container">
             <h2 class="mb-[3rem]   ">
-                @lang("service.results")
+                @lang('service.results')
             </h2>
         </div>
         <div class>
@@ -52,19 +51,16 @@
                 <span
                     class="cursor-pointer absolute  -top-[6rem] w-[4rem] h-[4rem]  xl:right-[12.1rem] right-[1rem] play-stop-slider-button"></span>
                 <div class="ysm-slider play-stop-slider   flex justify-center mb-[3rem]" dots="0"
-                    slidesToShow_xl="4" slidesToShow_lg="3" slidesToShow_md="1" slidesToShow_sm="1"
-                    slidesToScroll="1" centerMode="1" speed="2400">
+                    slidesToShow_xl="4" slidesToShow_lg="3" slidesToShow_md="1" slidesToShow_sm="1" slidesToScroll="1"
+                    centerMode="1" speed="2400">
 
-                    @foreach ($service->images as $image )
+                    @foreach ($service->images as $image)
                         <div class="px-[1.2rem] py-0 ">
-                            <img-comparison-slider
-                                class="focus-visible:outline-0 w-full">
-                                <img decoding="async"
-                                        class="rounded-[30px]  w-full " slot="first"
-                                        src="{{asset('storage/'.$image['before_image'] )}}" />
-                                <img
-                                        decoding="async" class="rounded-[30px]  w-full " slot="second"
-                                        src="{{asset('storage/'.$image['after_image'] )}}" />
+                            <img-comparison-slider class="focus-visible:outline-0 w-full">
+                                <img decoding="async" class="rounded-[30px]  w-full " slot="first"
+                                    src="{{ asset('storage/' . $image['before_image']) }}" />
+                                <img decoding="async" class="rounded-[30px]  w-full " slot="second"
+                                    src="{{ asset('storage/' . $image['after_image']) }}" />
                             </img-comparison-slider>
                         </div>
                     @endforeach
@@ -77,11 +73,11 @@
         </div>
         <h3
             class="xl:mb-[3.625rem] mb-[5rem] font-light mt-[1rem] text-[1.6rem] lg:text-[2rem] max-w-[15.7rem] lg:max-w-none mx-auto lg:mx-0 ">
-            @lang("service.yes_for_yessmile")
+            @lang('service.yes_for_yessmile')
         </h3>
         <div class="btn-secondary large">
             <a target href="{{ url('consultation') }}">
-                @lang("service.consult_our_doctors")
+                @lang('service.consult_our_doctors')
             </a>
         </div>
     </div>
