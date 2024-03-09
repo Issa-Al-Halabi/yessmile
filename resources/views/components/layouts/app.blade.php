@@ -301,7 +301,7 @@
                             @endphp
                             @foreach ($services as $service)
                                 <li class="mb-[10px] text-[1.6rem] md:text-[2rem]"><a
-                                        href="hollywood-smile/index.html">{{ $service['name'] }}</a></li>
+                                        href="{{ url('service', $service['id']) }}">{{ $service['name'] }}</a></li>
                             @endforeach
 
                         </ul>
