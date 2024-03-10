@@ -50,10 +50,6 @@ class AboutUsResource extends Resource
                                             ->disk('public')
                                             ->directory('about_us')
                                             ->visibility('public')
-                                            ->imageResizeMode('force')
-                                            ->imageCropAspectRatio('8:5')
-                                            ->imageResizeTargetWidth('800')
-                                            ->imageResizeTargetHeight('500')
                                             ->imageEditor(),
 
                                         Forms\Components\RichEditor::make('body')
@@ -96,16 +92,16 @@ class AboutUsResource extends Resource
                     ->searchable(),
                 Tables\Columns\ImageColumn::make('image'),
                 Tables\Columns\TextColumn::make('banner_title')
-                ->label("Banner Title")
-                ->searchable(),
+                    ->label("Banner Title")
+                    ->searchable(),
                 Tables\Columns\TextColumn::make('banner_button')
-                ->label("banner button")
-                ->searchable(),
+                    ->label("banner button")
+                    ->searchable(),
                 Tables\Columns\TextColumn::make('banner_body')
-                ->label("banner body")
-                ->html()
-                ->searchable()
-                ->toggleable(isToggledHiddenByDefault: true),
+                    ->label("banner body")
+                    ->html()
+                    ->searchable()
+                    ->toggleable(isToggledHiddenByDefault: true),
 
                 Tables\Columns\TextColumn::make('body')
                     ->label("Body")

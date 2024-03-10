@@ -30,4 +30,9 @@ class WhoWeAre extends Model
         "banner_description",
         "why_choose_us",
     ];
+
+    protected $cast = [
+        "features" => 'json',
+        "why_choose_us" => 'json',
+    ];
 }

@@ -30,26 +30,22 @@ class AboutOurClinicResource extends Resource
         return $form
             ->schema([
                 Forms\Components\TextInput::make('title')
-                ->required()
-                ->maxLength(255),
-            Forms\Components\RichEditor::make('description')
-                ->required()
-                ->columnSpanFull(),
+                    ->required()
+                    ->maxLength(255),
+                Forms\Components\RichEditor::make('description')
+                    ->required()
+                    ->columnSpanFull(),
 
-            Forms\Components\FileUpload::make('image')
-                ->label("Image")
-                ->image()
-                ->required()
-                ->columnSpan('full')
-                ->nullable(false)
-                ->disk('public')
-                ->directory('aboutteam')
-                ->visibility('public')
-                ->imageResizeMode('force')
-                ->imageCropAspectRatio('8:5')
-                ->imageResizeTargetWidth('800')
-                ->imageResizeTargetHeight('500')
-                ->imageEditor(),
+                Forms\Components\FileUpload::make('image')
+                    ->label("Image")
+                    ->image()
+                    ->required()
+                    ->columnSpan('full')
+                    ->nullable(false)
+                    ->disk('public')
+                    ->directory('aboutteam')
+                    ->visibility('public')
+                    ->imageEditor(),
             ]);
     }
 
@@ -58,20 +54,20 @@ class AboutOurClinicResource extends Resource
         return $table
             ->columns([
                 Tables\Columns\TextColumn::make('title')
-                ->sortable()
-                ->searchable(),
-            Tables\Columns\TextColumn::make('description')
-                ->html()
-                ->searchable(),
-            Tables\Columns\ImageColumn::make('image'),
-            Tables\Columns\TextColumn::make('created_at')
-                ->dateTime()
-                ->sortable()
-                ->toggleable(isToggledHiddenByDefault: true),
-            Tables\Columns\TextColumn::make('updated_at')
-                ->dateTime()
-                ->sortable()
-                ->toggleable(isToggledHiddenByDefault: true),
+                    ->sortable()
+                    ->searchable(),
+                Tables\Columns\TextColumn::make('description')
+                    ->html()
+                    ->searchable(),
+                Tables\Columns\ImageColumn::make('image'),
+                Tables\Columns\TextColumn::make('created_at')
+                    ->dateTime()
+                    ->sortable()
+                    ->toggleable(isToggledHiddenByDefault: true),
+                Tables\Columns\TextColumn::make('updated_at')
+                    ->dateTime()
+                    ->sortable()
+                    ->toggleable(isToggledHiddenByDefault: true),
             ])
             ->filters([
                 //

@@ -48,10 +48,6 @@ class AboutOurTeamResource extends Resource
                     ->disk('public')
                     ->directory('aboutteam')
                     ->visibility('public')
-                    ->imageResizeMode('force')
-                    ->imageCropAspectRatio('8:5')
-                    ->imageResizeTargetWidth('800')
-                    ->imageResizeTargetHeight('500')
                     ->imageEditor(),
             ]);
     }

@@ -75,10 +75,6 @@ class WhoWeAreResource extends Resource
                                             ->disk('public')
                                             ->directory('articles')
                                             ->visibility('public')
-                                            ->imageResizeMode('force')
-                                            ->imageCropAspectRatio('8:5')
-                                            ->imageResizeTargetWidth('800')
-                                            ->imageResizeTargetHeight('500')
                                             ->imageEditor(),
                                     ]),
                             ]),

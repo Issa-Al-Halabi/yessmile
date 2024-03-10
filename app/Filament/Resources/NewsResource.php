@@ -61,10 +61,6 @@ class NewsResource extends Resource
                                     ->disk('public')
                                     ->directory('articles')
                                     ->visibility('public')
-                                    ->imageResizeMode('force')
-                                    ->imageCropAspectRatio('8:5')
-                                    ->imageResizeTargetWidth('800')
-                                    ->imageResizeTargetHeight('500')
                                     ->imageEditor(),
                             ]),
                         Tabs\Tab::make('socials')
@@ -82,10 +78,6 @@ class NewsResource extends Resource
                                             ->disk('public')
                                             ->directory('articles')
                                             ->visibility('public')
-                                            ->imageResizeMode('force')
-                                            ->imageCropAspectRatio('8:5')
-                                            ->imageResizeTargetWidth('800')
-                                            ->imageResizeTargetHeight('500')
                                             ->imageEditor(),
                                         Forms\Components\TextInput::make('link')
                                             ->label("Link")

@@ -41,7 +41,8 @@
                 <h2></h2>
                 <div class="flex flex-col justify-center  md:px-[8.4rem] max-w-[120rem] mx-auto ">
                     <div class="flex justify-between flex-wrap ">
-                        @if (isset($whoWeAre))
+                        @if (isset($whoWeAre->features) && is_array($whoWeAre->features))
+
                             @foreach ($whoWeAre->features as $feature)
                                 <div class=" text-center basis-[50%] md:basis-auto py-[2rem] ">
                                     <div class="md:h-[13rem] md:w-[13rem]  h-[7rem] w-[7rem] inline-block relative"><img
@@ -82,7 +83,7 @@
                         <div class="btn-secondary large mt-[3rem]">
                             <a class="flex group" target href="{{ url('consultation') }}"><img decoding="async"
                                     class="inline-block w-[4rem] h-[4rem] ml-[2rem] group-hover:animate-spin"
-                                    src="{{asset('wp-content/themes/yessmile-wp/assets/images/heart-btn-icon.svg')}}" /><span>
+                                    src="{{ asset('wp-content/themes/yessmile-wp/assets/images/heart-btn-icon.svg') }}" /><span>
                                     @lang('who_we_are.book_your_appointment_now')
                                 </span></a>
                         </div>
@@ -99,8 +100,7 @@
                             <div
                                 class="min-h-[40px] justify-center text-right border-solid border-primary border-[1px] xl:text-[1.8rem] text-[1.4rem] p-[15px] rounded-t-[20px]">
                                 &nbsp;</div>
-                            @if (isset($whoWeAre->why_choose_us))
-
+                            @if (isset($whoWeAre->why_choose_us) && is_array($whoWeAre->why_choose_us))
                                 @foreach ($whoWeAre->why_choose_us as $why_choose_us)
                                     <div
                                         class="min-h-[40px] justify-center text-right border-solid border-primary border-[1px] xl:text-[1.8rem] text-[1.4rem] p-[15px] xl:pr-[5.25rem] pr-[10px] ">
@@ -116,13 +116,13 @@
                                 class="min-h-[40px] justify-center xl:text-[1.8rem] text-[1.4rem] py-[15px] min-w-[75px] ">
                                 @lang('who_we_are.yes_smile_center')
                             </div>
-                            @if (isset($whoWeAre->why_choose_us))
+                            @if (isset($whoWeAre->why_choose_us) && is_array($whoWeAre->why_choose_us))
 
                                 @foreach ($whoWeAre->why_choose_us as $why_choose_us)
                                     <div
                                         class="min-h-[42px] justify-center border-solid border-t-light border-r-primary border-l-primary border-[1px] p-[12px] pt-[2.7rem] ">
                                         <img decoding="async" class="inline-block"
-                                            src="{{asset('wp-content/themes/yessmile-wp/assets/images/true.svg')}}" />
+                                            src="{{ asset('wp-content/themes/yessmile-wp/assets/images/true.svg') }}" />
                                     </div>
                                 @endforeach
 
@@ -134,13 +134,12 @@
                                 class="min-h-[40px] justify-center border-solid border-primary border-[1px] py-[15px]  rounded-t-[20px] xl:text-[1.8rem] text-[1.4rem] min-w-[75px]">
                                 @lang('who_we_are.other_centers')
                             </div>
-                            @if (isset($whoWeAre->why_choose_us))
-
+                            @if (isset($whoWeAre->why_choose_us) && is_array($whoWeAre->why_choose_us))
                                 @foreach ($whoWeAre->why_choose_us as $why_choose_us)
                                     <div
                                         class="min-h-[40px] justify-center border-solid border-primary border-[1px] p-[15px]  ">
                                         <img decoding="async" class="inline-block"
-                                            src="{{asset('wp-content/themes/yessmile-wp/assets/images/cross.svg')}}" />
+                                            src="{{ asset('wp-content/themes/yessmile-wp/assets/images/cross.svg') }}" />
                                     </div>
                                 @endforeach
 

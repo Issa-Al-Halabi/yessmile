@@ -31,7 +31,7 @@ class Team extends Model
 
 
     protected $casts = [
-        "work_history" => "json",
+        "work_history" => "array",
         "specialist" => "json",
     ];
 }
